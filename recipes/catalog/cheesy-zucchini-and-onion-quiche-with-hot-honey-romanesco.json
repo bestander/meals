@@ -83,5 +83,9 @@
   "staples": [
     "onion",
     "zucchini"
-  ]
+  ],
+  "images": {
+    "ingredients": "../recipes/images/cheesy-zucchini-and-onion-quiche-with-hot-honey-romanesco-ingredients.jpg",
+    "instructions": "../recipes/images/cheesy-zucchini-and-onion-quiche-with-hot-honey-romanesco-instructions.jpg"
+  }
 }

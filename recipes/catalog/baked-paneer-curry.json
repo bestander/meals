@@ -53,5 +53,9 @@
   "protein": "vegetarian",
   "starch": "bread",
   "cuisine": "indian",
-  "staples": []
+  "staples": [],
+  "images": {
+    "ingredients": null,
+    "instructions": null
+  }
 }

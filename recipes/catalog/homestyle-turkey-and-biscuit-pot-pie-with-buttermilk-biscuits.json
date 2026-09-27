@@ -105,5 +105,9 @@
     "butter",
     "thyme",
     "carrot"
-  ]
+  ],
+  "images": {
+    "ingredients": "../recipes/images/homestyle-turkey-and-biscuit-pot-pie-with-buttermilk-biscuits-ingredients.jpg",
+    "instructions": "../recipes/images/homestyle-turkey-and-biscuit-pot-pie-with-buttermilk-biscuits-instructions.jpg"
+  }
 }

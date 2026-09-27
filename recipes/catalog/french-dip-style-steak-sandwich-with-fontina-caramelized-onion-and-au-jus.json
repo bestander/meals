@@ -82,5 +82,9 @@
   "cuisine": "french",
   "staples": [
     "onion"
-  ]
+  ],
+  "images": {
+    "ingredients": "../recipes/images/french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus-ingredients.jpg",
+    "instructions": "../recipes/images/french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus-instructions.jpg"
+  }
 }

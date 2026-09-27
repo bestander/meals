@@ -106,5 +106,9 @@
   "cuisine": "other",
   "staples": [
     "lime"
-  ]
+  ],
+  "images": {
+    "ingredients": "../recipes/images/pistachio-cod-with-mango-jalapeno-salsa-plus-purple-sweet-potato-mash-asparagus-and-charred-corn-ingredients.jpg",
+    "instructions": "../recipes/images/pistachio-cod-with-mango-jalapeno-salsa-plus-purple-sweet-potato-mash-asparagus-and-charred-corn-instructions.jpg"
+  }
 }

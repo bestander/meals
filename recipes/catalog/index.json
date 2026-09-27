@@ -15,6 +15,10 @@
         "zucchini"
       ],
       "sourceWeek": "2026-06-16",
+      "images": {
+        "ingredients": "../recipes/images/apricot-almond-and-chickpea-tagine-with-zucchini-basmati-rice-and-chermoula-ingredients.jpg",
+        "instructions": "../recipes/images/apricot-almond-and-chickpea-tagine-with-zucchini-basmati-rice-and-chermoula-instructions.jpg"
+      },
       "file": "apricot-almond-and-chickpea-tagine-with-zucchini-basmati-rice-and-chermoula.json"
     },
     {
@@ -26,6 +30,10 @@
       "cuisine": "mexican",
       "staples": [],
       "sourceWeek": "2026-06-16",
+      "images": {
+        "ingredients": "../recipes/images/baked-cheesy-pulled-chicken-burritos-with-pinto-beans-corn-and-tomatillo-sauce-ingredients.jpg",
+        "instructions": "../recipes/images/baked-cheesy-pulled-chicken-burritos-with-pinto-beans-corn-and-tomatillo-sauce-instructions.jpg"
+      },
       "file": "baked-cheesy-pulled-chicken-burritos-with-pinto-beans-corn-and-tomatillo-sauce.json"
     },
     {
@@ -37,6 +45,10 @@
       "cuisine": "indian",
       "staples": [],
       "sourceWeek": "2026-04-20",
+      "images": {
+        "ingredients": null,
+        "instructions": null
+      },
       "file": "baked-paneer-curry.json"
     },
     {
@@ -53,6 +65,10 @@
         "bell pepper"
       ],
       "sourceWeek": "2026-06-16",
+      "images": {
+        "ingredients": "../recipes/images/cheesy-mexican-style-beef-stuffed-peppers-ingredients.jpg",
+        "instructions": "../recipes/images/cheesy-mexican-style-beef-stuffed-peppers-instructions.jpg"
+      },
       "file": "cheesy-mexican-style-beef-stuffed-peppers.json"
     },
     {
@@ -67,6 +83,10 @@
         "zucchini"
       ],
       "sourceWeek": "2026-06-16",
+      "images": {
+        "ingredients": "../recipes/images/cheesy-zucchini-and-onion-quiche-with-hot-honey-romanesco-ingredients.jpg",
+        "instructions": "../recipes/images/cheesy-zucchini-and-onion-quiche-with-hot-honey-romanesco-instructions.jpg"
+      },
       "file": "cheesy-zucchini-and-onion-quiche-with-hot-honey-romanesco.json"
     },
     {
@@ -80,6 +100,10 @@
         "onion"
       ],
       "sourceWeek": "2026-06-16",
+      "images": {
+        "ingredients": "../recipes/images/chipotle-veggie-tostadas-with-refried-beans-and-guacamole-ingredients.jpg",
+        "instructions": "../recipes/images/chipotle-veggie-tostadas-with-refried-beans-and-guacamole-instructions.jpg"
+      },
       "file": "chipotle-veggie-tostadas-with-refried-beans-and-guacamole.json"
     },
     {
@@ -95,6 +119,10 @@
         "carrot"
       ],
       "sourceWeek": "2026-06-16",
+      "images": {
+        "ingredients": "../recipes/images/cozy-meatloaves-with-creamy-onion-gravy-plus-roasted-parsnips-carrots-and-potatoes-ingredients.jpg",
+        "instructions": "../recipes/images/cozy-meatloaves-with-creamy-onion-gravy-plus-roasted-parsnips-carrots-and-potatoes-instructions.jpg"
+      },
       "file": "cozy-meatloaves-with-creamy-onion-gravy-plus-roasted-parsnips-carrots-and-potatoes.json"
     },
     {
@@ -108,6 +136,10 @@
         "onion"
       ],
       "sourceWeek": "2026-06-16",
+      "images": {
+        "ingredients": "../recipes/images/french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus-ingredients.jpg",
+        "instructions": "../recipes/images/french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus-instructions.jpg"
+      },
       "file": "french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus.json"
     },
     {
@@ -125,6 +157,10 @@
         "thyme"
       ],
       "sourceWeek": "2026-06-16",
+      "images": {
+        "ingredients": "../recipes/images/french-onion-soup-with-baguette-and-grand-cru-cheese-ingredients.jpg",
+        "instructions": "../recipes/images/french-onion-soup-with-baguette-and-grand-cru-cheese-instructions.jpg"
+      },
       "file": "french-onion-soup-with-baguette-and-grand-cru-cheese.json"
     },
     {
@@ -140,6 +176,10 @@
         "carrot"
       ],
       "sourceWeek": "2026-06-16",
+      "images": {
+        "ingredients": "../recipes/images/glazed-pork-roast-and-veggie-fried-rice-with-cumin-sichuan-mayo-ingredients.jpg",
+        "instructions": "../recipes/images/glazed-pork-roast-and-veggie-fried-rice-with-cumin-sichuan-mayo-instructions.jpg"
+      },
       "file": "glazed-pork-roast-and-veggie-fried-rice-with-cumin-sichuan-mayo.json"
     },
     {
@@ -157,6 +197,10 @@
         "carrot"
       ],
       "sourceWeek": "2026-06-16",
+      "images": {
+        "ingredients": "../recipes/images/homestyle-turkey-and-biscuit-pot-pie-with-buttermilk-biscuits-ingredients.jpg",
+        "instructions": "../recipes/images/homestyle-turkey-and-biscuit-pot-pie-with-buttermilk-biscuits-instructions.jpg"
+      },
       "file": "homestyle-turkey-and-biscuit-pot-pie-with-buttermilk-biscuits.json"
     },
     {
@@ -168,6 +212,10 @@
       "cuisine": "indian",
       "staples": [],
       "sourceWeek": "2026-06-16",
+      "images": {
+        "ingredients": "../recipes/images/indian-style-baked-paneer-curry-with-chickpeas-and-toasted-naan-ingredients.jpg",
+        "instructions": "../recipes/images/indian-style-baked-paneer-curry-with-chickpeas-and-toasted-naan-instructions.jpg"
+      },
       "file": "indian-style-baked-paneer-curry-with-chickpeas-and-toasted-naan.json"
     },
     {
@@ -182,6 +230,10 @@
         "lemon"
       ],
       "sourceWeek": "2026-06-16",
+      "images": {
+        "ingredients": "../recipes/images/lemon-herb-chicken-and-artichoke-celery-salad-with-couscous-and-parmesan-ingredients.jpg",
+        "instructions": "../recipes/images/lemon-herb-chicken-and-artichoke-celery-salad-with-couscous-and-parmesan-instructions.jpg"
+      },
       "file": "lemon-herb-chicken-and-artichoke-celery-salad-with-couscous-and-parmesan.json"
     },
     {
@@ -197,6 +249,10 @@
         "zucchini"
       ],
       "sourceWeek": "2026-06-16",
+      "images": {
+        "ingredients": "../recipes/images/melty-mozzarella-beef-and-zucchini-penne-bake-with-cheesy-garlic-bread-and-caesar-salad-ingredients.jpg",
+        "instructions": "../recipes/images/melty-mozzarella-beef-and-zucchini-penne-bake-with-cheesy-garlic-bread-and-caesar-salad-instructions.jpg"
+      },
       "file": "melty-mozzarella-beef-and-zucchini-penne-bake-with-cheesy-garlic-bread-and-caesar-salad.json"
     },
     {
@@ -211,6 +267,10 @@
         "soy sauce"
       ],
       "sourceWeek": "2026-06-16",
+      "images": {
+        "ingredients": "../recipes/images/miso-butter-glazed-chicken-with-spicy-sesame-roasted-vegetables-ingredients.jpg",
+        "instructions": "../recipes/images/miso-butter-glazed-chicken-with-spicy-sesame-roasted-vegetables-instructions.jpg"
+      },
       "file": "miso-butter-glazed-chicken-with-spicy-sesame-roasted-vegetables.json"
     },
     {
@@ -226,6 +286,10 @@
         "carrot"
       ],
       "sourceWeek": "2026-06-16",
+      "images": {
+        "ingredients": "../recipes/images/mushroom-carrot-and-lentil-shepherds-pie-topped-with-cheddar-mashed-potatoes-ingredients.jpg",
+        "instructions": "../recipes/images/mushroom-carrot-and-lentil-shepherds-pie-topped-with-cheddar-mashed-potatoes-instructions.jpg"
+      },
       "file": "mushroom-carrot-and-lentil-shepherds-pie-topped-with-cheddar-mashed-potatoes.json"
     },
     {
@@ -239,6 +303,10 @@
         "lime"
       ],
       "sourceWeek": "2026-06-16",
+      "images": {
+        "ingredients": "../recipes/images/pistachio-cod-with-mango-jalapeno-salsa-plus-purple-sweet-potato-mash-asparagus-and-charred-corn-ingredients.jpg",
+        "instructions": "../recipes/images/pistachio-cod-with-mango-jalapeno-salsa-plus-purple-sweet-potato-mash-asparagus-and-charred-corn-instructions.jpg"
+      },
       "file": "pistachio-cod-with-mango-jalapeno-salsa-plus-purple-sweet-potato-mash-asparagus-and-charred-corn.json"
     },
     {
@@ -253,6 +321,10 @@
         "carrot"
       ],
       "sourceWeek": "2026-06-16",
+      "images": {
+        "ingredients": "../recipes/images/smoky-gouda-cheeseburgers-with-caramelized-onion-and-roasted-carrots-ingredients.jpg",
+        "instructions": "../recipes/images/smoky-gouda-cheeseburgers-with-caramelized-onion-and-roasted-carrots-instructions.jpg"
+      },
       "file": "smoky-gouda-cheeseburgers-with-caramelized-onion-and-roasted-carrots.json"
     },
     {
@@ -264,6 +336,10 @@
       "cuisine": "mexican",
       "staples": [],
       "sourceWeek": "2026-06-16",
+      "images": {
+        "ingredients": "../recipes/images/southwest-chipotle-chicken-sandwich-with-crispy-bacon-and-avocado-ingredients.jpg",
+        "instructions": "../recipes/images/southwest-chipotle-chicken-sandwich-with-crispy-bacon-and-avocado-instructions.jpg"
+      },
       "file": "southwest-chipotle-chicken-sandwich-with-crispy-bacon-and-avocado.json"
     },
     {
@@ -280,6 +356,10 @@
         "bell pepper"
       ],
       "sourceWeek": "2026-06-16",
+      "images": {
+        "ingredients": "../recipes/images/thai-coconut-and-lemongrass-veggie-curry-with-potatoes-green-beans-bell-pepper-rice-and-peanuts-ingredients.jpg",
+        "instructions": "../recipes/images/thai-coconut-and-lemongrass-veggie-curry-with-potatoes-green-beans-bell-pepper-rice-and-peanuts-instructions.jpg"
+      },
       "file": "thai-coconut-and-lemongrass-veggie-curry-with-potatoes-green-beans-bell-pepper-rice-and-peanuts.json"
     }
   ]

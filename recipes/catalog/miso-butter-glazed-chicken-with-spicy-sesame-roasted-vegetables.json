@@ -93,5 +93,9 @@
   "staples": [
     "butter",
     "soy sauce"
-  ]
+  ],
+  "images": {
+    "ingredients": "../recipes/images/miso-butter-glazed-chicken-with-spicy-sesame-roasted-vegetables-ingredients.jpg",
+    "instructions": "../recipes/images/miso-butter-glazed-chicken-with-spicy-sesame-roasted-vegetables-instructions.jpg"
+  }
 }

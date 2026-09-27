@@ -70,5 +70,9 @@
   "protein": "chicken",
   "starch": "bread",
   "cuisine": "mexican",
-  "staples": []
+  "staples": [],
+  "images": {
+    "ingredients": "../recipes/images/southwest-chipotle-chicken-sandwich-with-crispy-bacon-and-avocado-ingredients.jpg",
+    "instructions": "../recipes/images/southwest-chipotle-chicken-sandwich-with-crispy-bacon-and-avocado-instructions.jpg"
+  }
 }

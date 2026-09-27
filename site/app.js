@@ -22,19 +22,34 @@ let query = "";
 let protein = "all";
 let cuisine = "all";
 let pickerIndex = null;
-let recipeTab = "instructions";
+let recipeTab = route.tab || "instructions";
+let lightbox = null;
+
+document.addEventListener("keydown", (event) => {
+  if (event.key === "Escape" && lightbox) {
+    lightbox = null;
+    render();
+  }
+});
 
 window.addEventListener("hashchange", () => {
   route = parseRoute();
-  recipeTab = "instructions";
+  recipeTab = route.tab || "instructions";
   pickerIndex = null;
+  lightbox = null;
   render();
   window.scrollTo(0, 0);
 });
 
 function parseRoute() {
   const parts = location.hash.replace(/^#\/?/, "").split("/").filter(Boolean);
-  if (parts[0] === "recipe" && parts[1]) return { name: "recipe", slug: decodeURIComponent(parts[1]) };
+  if (parts[0] === "recipe" && parts[1]) {
+    return {
+      name: "recipe",
+      slug: decodeURIComponent(parts[1]),
+      tab: parts[2] === "ingredients" ? "ingredients" : "instructions",
+    };
+  }
   if (parts[0] === "plan" || parts[0] === "history") return { name: parts[0] };
   return { name: "recipes" };
 }
@@ -134,10 +149,31 @@ function nav() {
   ]);
 }
 
+function photoButton(src, alt, className) {
+  if (!src) return null;
+  return el("button", {
+    class: className,
+    type: "button",
+    onClick: () => { lightbox = { src, alt }; render(); },
+  }, el("img", { src, alt, loading: "lazy" }));
+}
+
+function lightboxOverlay() {
+  if (!lightbox) return null;
+  return el("div", {
+    class: "lightbox",
+    onClick: () => { lightbox = null; render(); },
+  }, [
+    el("button", { class: "lightbox-close", type: "button", onClick: () => { lightbox = null; render(); } }, "Close"),
+    el("img", { src: lightbox.src, alt: lightbox.alt, onClick: (event) => event.stopPropagation() }),
+  ]);
+}
+
 function recipeCards(meals) {
   const planningWeek = nextMonday();
   return el("div", { class: "recipe-grid" }, meals.map((meal) =>
     el("article", { class: "card" }, [
+      photoButton(meal.images?.ingredients, `${meal.name} ingredients card`, "card-photo"),
       el("h3", {}, meal.name),
       el("div", { class: "tags" }, [
         tag(meal.protein, "protein"),
@@ -209,16 +245,23 @@ function recipeView() {
     onClick: () => { recipeTab = id; render(); },
   }, label);
 
+  const cardSrc = meal.images?.[recipeTab];
   const body = recipeTab === "ingredients"
-    ? el("ul", { class: "ingredient-list" }, (meal.ingredients || []).map((item) =>
-        el("li", {}, `${item.quantity} ${item.unit} ${item.name}`),
-      ))
-    : el("ol", { class: "steps" }, (meal.instructions || []).map((step) =>
-        el("li", { class: "step" }, [
-          el("h3", {}, `Step ${step.step}: ${step.title}`),
-          el("p", {}, step.text),
-        ]),
-      ));
+    ? el("div", { class: "recipe-content" }, [
+        photoButton(cardSrc, `${meal.name} ingredients card`, "recipe-photo"),
+        el("ul", { class: "ingredient-list" }, (meal.ingredients || []).map((item) =>
+          el("li", {}, `${item.quantity} ${item.unit} ${item.name}`),
+        )),
+      ])
+    : el("div", { class: "recipe-content" }, [
+        photoButton(cardSrc, `${meal.name} instructions card`, "recipe-photo"),
+        el("ol", { class: "steps" }, (meal.instructions || []).map((step) =>
+          el("li", { class: "step" }, [
+            el("h3", {}, `Step ${step.step}: ${step.title}`),
+            el("p", {}, step.text),
+          ]),
+        )),
+      ]);
 
   return el("section", {}, [
     el("button", { class: "btn btn-ghost back-btn", onClick: () => go("#/recipes") }, "← Recipes"),
@@ -366,6 +409,7 @@ function planView() {
       : el("p", { class: "hint" }, "Suggest a set, or it will fill in from meals you have not cooked recently."),
     el("div", { class: "meal-grid" }, [
       ...meals.map((meal, index) => el("article", { class: "card" }, [
+        photoButton(meal.images?.ingredients, `${meal.name} ingredients card`, "card-photo"),
         el("h3", {}, meal.name),
         el("div", { class: "tags" }, [
           tag(meal.protein, "protein"),
@@ -511,7 +555,7 @@ function render() {
       : route.name === "recipe"
         ? recipeView()
         : recipesView();
-  app.replaceChildren(nav(), el("main", {}, view));
+  app.replaceChildren(nav(), el("main", {}, view), lightboxOverlay());
   if (focusedId) {
     const next = document.getElementById(focusedId);
     if (next) {

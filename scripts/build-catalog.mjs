@@ -8,7 +8,19 @@ const catalogDir = path.join(root, "recipes", "catalog");
 const siteDir = path.join(root, "site");
 const siteLib = path.join(siteDir, "lib");
 
-const catalog = loadCatalog().map(({ images, ...meal }) => meal);
+function imageUrl(slug, type) {
+  const file = path.join(root, "recipes", "images", `${slug}-${type}.jpg`);
+  if (!fs.existsSync(file)) return null;
+  return `../recipes/images/${slug}-${type}.jpg`;
+}
+
+const catalog = loadCatalog().map(({ images, ...meal }) => ({
+  ...meal,
+  images: {
+    ingredients: imageUrl(meal.slug, "ingredients"),
+    instructions: imageUrl(meal.slug, "instructions"),
+  },
+}));
 
 fs.mkdirSync(catalogDir, { recursive: true });
 fs.mkdirSync(siteLib, { recursive: true });
@@ -25,7 +37,7 @@ for (const meal of catalog) {
 }
 
 const index = {
-  recipes: catalog.map(({ slug, name, servings, protein, starch, cuisine, staples, sourceWeek }) => ({
+  recipes: catalog.map(({ slug, name, servings, protein, starch, cuisine, staples, sourceWeek, images }) => ({
     slug,
     name,
     servings,
@@ -34,6 +46,7 @@ const index = {
     cuisine,
     staples,
     sourceWeek,
+    images,
     file: `${slug}.json`,
   })),
 };

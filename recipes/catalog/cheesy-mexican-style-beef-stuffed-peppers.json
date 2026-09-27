@@ -124,5 +124,9 @@
     "lime",
     "cilantro",
     "bell pepper"
-  ]
+  ],
+  "images": {
+    "ingredients": "../recipes/images/cheesy-mexican-style-beef-stuffed-peppers-ingredients.jpg",
+    "instructions": "../recipes/images/cheesy-mexican-style-beef-stuffed-peppers-instructions.jpg"
+  }
 }

@@ -92,5 +92,9 @@
   "cuisine": "mexican",
   "staples": [
     "onion"
-  ]
+  ],
+  "images": {
+    "ingredients": "../recipes/images/chipotle-veggie-tostadas-with-refried-beans-and-guacamole-ingredients.jpg",
+    "instructions": "../recipes/images/chipotle-veggie-tostadas-with-refried-beans-and-guacamole-instructions.jpg"
+  }
 }

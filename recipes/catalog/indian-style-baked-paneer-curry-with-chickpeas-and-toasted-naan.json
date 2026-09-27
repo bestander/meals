@@ -70,5 +70,9 @@
   "protein": "vegetarian",
   "starch": "bread",
   "cuisine": "indian",
-  "staples": []
+  "staples": [],
+  "images": {
+    "ingredients": "../recipes/images/indian-style-baked-paneer-curry-with-chickpeas-and-toasted-naan-ingredients.jpg",
+    "instructions": "../recipes/images/indian-style-baked-paneer-curry-with-chickpeas-and-toasted-naan-instructions.jpg"
+  }
 }

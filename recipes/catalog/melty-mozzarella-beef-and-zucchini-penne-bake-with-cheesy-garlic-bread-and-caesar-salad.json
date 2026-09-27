@@ -138,5 +138,9 @@
     "garlic",
     "butter",
     "zucchini"
-  ]
+  ],
+  "images": {
+    "ingredients": "../recipes/images/melty-mozzarella-beef-and-zucchini-penne-bake-with-cheesy-garlic-bread-and-caesar-salad-ingredients.jpg",
+    "instructions": "../recipes/images/melty-mozzarella-beef-and-zucchini-penne-bake-with-cheesy-garlic-bread-and-caesar-salad-instructions.jpg"
+  }
 }

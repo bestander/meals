@@ -125,5 +125,9 @@
     "lemon",
     "cilantro",
     "zucchini"
-  ]
+  ],
+  "images": {
+    "ingredients": "../recipes/images/apricot-almond-and-chickpea-tagine-with-zucchini-basmati-rice-and-chermoula-ingredients.jpg",
+    "instructions": "../recipes/images/apricot-almond-and-chickpea-tagine-with-zucchini-basmati-rice-and-chermoula-instructions.jpg"
+  }
 }
