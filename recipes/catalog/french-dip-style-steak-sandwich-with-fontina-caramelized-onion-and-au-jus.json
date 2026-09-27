@@ -1,0 +1,86 @@
+{
+  "name": "French Dip-Style Steak Sandwich with Fontina, Caramelized Onion & Au Jus",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Grass-Fed Flank Steaks",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Small Baguettes",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Broccoli",
+      "quantity": 16,
+      "unit": "oz"
+    },
+    {
+      "name": "Yellow Onion",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Shredded Fontina Cheese",
+      "quantity": 4,
+      "unit": "oz"
+    },
+    {
+      "name": "Beef Broth Concentrate",
+      "quantity": 2,
+      "unit": "tsp"
+    },
+    {
+      "name": "Vegetarian Worcestershire Sauce",
+      "quantity": 4,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Soy Glaze",
+      "quantity": 4,
+      "unit": "tbsp"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prepare the ingredients",
+      "text": "Preheat the oven to 450°F. Wash and dry the fresh produce. Cut off and discard the bottom 1/2 inch of the broccoli stem; cut the broccoli into small florets. Halve, peel, and thinly slice the onions. Halve the baguettes."
+    },
+    {
+      "step": 2,
+      "title": "Roast the broccoli",
+      "text": "Line a sheet pan with foil. Place the broccoli florets on the foil. Drizzle with olive oil and season with salt and pepper; toss to coat. Arrange in an even layer. Roast 14 to 18 minutes, or until browned and tender when pierced with a fork. Reserving the sheet pan, transfer to a bowl. Cover with foil to keep warm."
+    },
+    {
+      "step": 3,
+      "title": "Cook the steaks",
+      "text": "Meanwhile, pat the steaks dry with paper towels; season with salt and pepper on both sides. In a large nonstick pan, heat a drizzle of olive oil on medium-high until hot. Add the seasoned steaks. Cook 4 to 6 minutes per side for medium-rare, or until browned and cooked to your desired degree of doneness. Transfer to a cutting board; let rest at least 5 minutes. Slice crosswise against the grain."
+    },
+    {
+      "step": 4,
+      "title": "Caramelize the onion",
+      "text": "In the pan of reserved fond, heat a drizzle of olive oil on medium-high until hot. Add the sliced onions; season with salt and pepper. Cook, stirring occasionally, 7 to 9 minutes, or until lightly browned and softened. Transfer to a large bowl. Add the sliced steaks and soy glaze; toss to combine. Wipe out the pan."
+    },
+    {
+      "step": 5,
+      "title": "Toast the sandwiches",
+      "text": "Place the halved baguettes on the reserved sheet pan, cut side up. Drizzle with olive oil, then evenly top the bottom halves with the dressed steaks and caramelized onions and fontina. Toast in the oven 5 to 7 minutes, or until the baguettes are lightly browned and the cheese is melted. Transfer to a cutting board. Finish the toasted sandwiches using the top halves of the baguettes, then halve crosswise."
+    },
+    {
+      "step": 6,
+      "title": "Make the jus & serve",
+      "text": "Meanwhile, to the same pan, add the worcestershire sauce, broth concentrate, and 1 cup of water. Cook on medium-high, stirring frequently, 2 to 3 minutes, or until combined and simmering. Serve the halved sandwiches with the roasted broccoli. Serve the jus in a dipping bowl on the side."
+    }
+  ],
+  "slug": "french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus",
+  "sourceWeek": "2026-06-16",
+  "protein": "beef",
+  "starch": "bread",
+  "cuisine": "french",
+  "staples": [
+    "onion"
+  ]
+}

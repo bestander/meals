@@ -1,0 +1,92 @@
+{
+  "name": "Smoky Gouda Cheeseburgers with Caramelized Onion & Roasted Carrots",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "quantity": 20,
+      "unit": "oz"
+    },
+    {
+      "name": "Burger Buns",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Carrots",
+      "quantity": 24,
+      "unit": "oz"
+    },
+    {
+      "name": "Yellow Onions",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Chives",
+      "quantity": 2,
+      "unit": "bunches"
+    },
+    {
+      "name": "Smoked Gouda Cheese",
+      "quantity": 4,
+      "unit": "oz"
+    },
+    {
+      "name": "Mayonnaise",
+      "quantity": 4,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Vegetarian Worcestershire Sauce",
+      "quantity": 4,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Honey",
+      "quantity": 4,
+      "unit": "tsp"
+    },
+    {
+      "name": "Hot Sauce",
+      "quantity": 2,
+      "unit": "tbsp"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prepare & roast the carrots",
+      "text": "Preheat the oven to 450°F. Line a sheet pan with foil. Wash and dry the fresh produce. Peel the carrots; halve lengthwise, then cut crosswise into 2-inch pieces. Transfer to the sheet pan. Drizzle with olive oil; season with salt and pepper. Toss to coat; arrange in an even layer. Roast 16 to 20 minutes, or until browned and tender when pierced with a fork. Remove from the oven."
+    },
+    {
+      "step": 2,
+      "title": "Prepare the remaining ingredients & make the sauce",
+      "text": "Meanwhile, grate the gouda on the large side of a box grater. Halve, peel, and thinly slice the onions. Thinly slice the chives. In a bowl, combine the mayonnaise and half the worcestershire sauce. Taste, then season with salt and pepper if desired."
+    },
+    {
+      "step": 3,
+      "title": "Caramelize the onion",
+      "text": "In a large nonstick pan, heat a drizzle of olive oil on medium-high until hot. Add the sliced onions. Cook, stirring occasionally, 6 to 8 minutes, or until lightly browned and softened. Carefully add the honey, hot sauce, and remaining worcestershire sauce. Cook, stirring frequently, 1 to 2 minutes, or until combined and the onion is coated. Transfer to a bowl. Cover with foil to keep warm. Rinse and wipe out the pan."
+    },
+    {
+      "step": 4,
+      "title": "Form & cook the patties",
+      "text": "In a bowl, combine the beef and grated gouda; season with salt and pepper. Gently mix to combine. Form the mixture into 4 patties, about 1/2-inch thick. In the same pan, heat a drizzle of olive oil on medium-high until hot. Add the patties. Cook 4 to 5 minutes per side, or until the patties are browned and cooked through. Transfer to a work surface."
+    },
+    {
+      "step": 5,
+      "title": "Toast the buns & serve",
+      "text": "In the same pan, heat a drizzle of olive oil on medium-high until hot. Working in batches if necessary, add the buns, cut side down. Toast 30 seconds to 1 minute, or until lightly browned. Assemble the burgers using the toasted buns, cooked patties, and caramelized onions. Serve with the roasted carrots and sauce on the side. Garnish the carrots with the sliced chives."
+    }
+  ],
+  "slug": "smoky-gouda-cheeseburgers-with-caramelized-onion-and-roasted-carrots",
+  "sourceWeek": "2026-06-16",
+  "protein": "beef",
+  "starch": "other",
+  "cuisine": "other",
+  "staples": [
+    "onion",
+    "carrot"
+  ]
+}

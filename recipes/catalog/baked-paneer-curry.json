@@ -1,0 +1,57 @@
+{
+  "name": "Baked Paneer Curry",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Naan Bread",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Chickpeas",
+      "quantity": 2,
+      "unit": "15.5oz can"
+    },
+    {
+      "name": "Paneer Cheese",
+      "quantity": 8,
+      "unit": "oz"
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": 6,
+      "unit": "oz"
+    },
+    {
+      "name": "Heavy Cream",
+      "quantity": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Labneh Cheese",
+      "quantity": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Tomato Achaar",
+      "quantity": 4,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Tomato Sauce",
+      "quantity": 2,
+      "unit": "8oz can"
+    },
+    {
+      "name": "Vadouvan Curry Powder",
+      "quantity": 1,
+      "unit": "tbsp"
+    }
+  ],
+  "slug": "baked-paneer-curry",
+  "sourceWeek": "2026-04-20",
+  "protein": "vegetarian",
+  "starch": "bread",
+  "cuisine": "indian",
+  "staples": []
+}

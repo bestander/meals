@@ -1,0 +1,286 @@
+{
+  "recipes": [
+    {
+      "slug": "apricot-almond-and-chickpea-tagine-with-zucchini-basmati-rice-and-chermoula",
+      "name": "Apricot, Almond & Chickpea Tagine with Zucchini, Basmati Rice & Chermoula",
+      "servings": 4,
+      "protein": "vegetarian",
+      "starch": "rice",
+      "cuisine": "indian",
+      "staples": [
+        "onion",
+        "garlic",
+        "lemon",
+        "cilantro",
+        "zucchini"
+      ],
+      "sourceWeek": "2026-06-16",
+      "file": "apricot-almond-and-chickpea-tagine-with-zucchini-basmati-rice-and-chermoula.json"
+    },
+    {
+      "slug": "baked-cheesy-pulled-chicken-burritos-with-pinto-beans-corn-and-tomatillo-sauce",
+      "name": "Baked Cheesy Pulled Chicken Burritos with Pinto Beans, Corn & Tomatillo Sauce",
+      "servings": 4,
+      "protein": "chicken",
+      "starch": "bread",
+      "cuisine": "mexican",
+      "staples": [],
+      "sourceWeek": "2026-06-16",
+      "file": "baked-cheesy-pulled-chicken-burritos-with-pinto-beans-corn-and-tomatillo-sauce.json"
+    },
+    {
+      "slug": "baked-paneer-curry",
+      "name": "Baked Paneer Curry",
+      "servings": 4,
+      "protein": "vegetarian",
+      "starch": "bread",
+      "cuisine": "indian",
+      "staples": [],
+      "sourceWeek": "2026-04-20",
+      "file": "baked-paneer-curry.json"
+    },
+    {
+      "slug": "cheesy-mexican-style-beef-stuffed-peppers",
+      "name": "Cheesy Mexican-Style Beef Stuffed Peppers",
+      "servings": 4,
+      "protein": "chicken",
+      "starch": "rice",
+      "cuisine": "mexican",
+      "staples": [
+        "garlic",
+        "lime",
+        "cilantro",
+        "bell pepper"
+      ],
+      "sourceWeek": "2026-06-16",
+      "file": "cheesy-mexican-style-beef-stuffed-peppers.json"
+    },
+    {
+      "slug": "cheesy-zucchini-and-onion-quiche-with-hot-honey-romanesco",
+      "name": "Cheesy Zucchini & Onion Quiche with Hot Honey Romanesco",
+      "servings": 4,
+      "protein": "egg",
+      "starch": "other",
+      "cuisine": "french",
+      "staples": [
+        "onion",
+        "zucchini"
+      ],
+      "sourceWeek": "2026-06-16",
+      "file": "cheesy-zucchini-and-onion-quiche-with-hot-honey-romanesco.json"
+    },
+    {
+      "slug": "chipotle-veggie-tostadas-with-refried-beans-and-guacamole",
+      "name": "Chipotle Veggie Tostadas with Refried Beans & Guacamole",
+      "servings": 4,
+      "protein": "vegetarian",
+      "starch": "bread",
+      "cuisine": "mexican",
+      "staples": [
+        "onion"
+      ],
+      "sourceWeek": "2026-06-16",
+      "file": "chipotle-veggie-tostadas-with-refried-beans-and-guacamole.json"
+    },
+    {
+      "slug": "cozy-meatloaves-with-creamy-onion-gravy-plus-roasted-parsnips-carrots-and-potatoes",
+      "name": "Cozy Meatloaves with Creamy Onion Gravy plus Roasted Parsnips, Carrots & Potatoes",
+      "servings": 4,
+      "protein": "beef",
+      "starch": "potato",
+      "cuisine": "other",
+      "staples": [
+        "onion",
+        "garlic",
+        "carrot"
+      ],
+      "sourceWeek": "2026-06-16",
+      "file": "cozy-meatloaves-with-creamy-onion-gravy-plus-roasted-parsnips-carrots-and-potatoes.json"
+    },
+    {
+      "slug": "french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus",
+      "name": "French Dip-Style Steak Sandwich with Fontina, Caramelized Onion & Au Jus",
+      "servings": 4,
+      "protein": "beef",
+      "starch": "bread",
+      "cuisine": "french",
+      "staples": [
+        "onion"
+      ],
+      "sourceWeek": "2026-06-16",
+      "file": "french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus.json"
+    },
+    {
+      "slug": "french-onion-soup-with-baguette-and-grand-cru-cheese",
+      "name": "French Onion Soup with Baguette & Grand Cru Cheese",
+      "servings": 4,
+      "protein": "chicken",
+      "starch": "bread",
+      "cuisine": "french",
+      "staples": [
+        "onion",
+        "garlic",
+        "butter",
+        "soy sauce",
+        "thyme"
+      ],
+      "sourceWeek": "2026-06-16",
+      "file": "french-onion-soup-with-baguette-and-grand-cru-cheese.json"
+    },
+    {
+      "slug": "glazed-pork-roast-and-veggie-fried-rice-with-cumin-sichuan-mayo",
+      "name": "Glazed Pork Roast & Veggie Fried Rice with Cumin-Sichuan Mayo",
+      "servings": 4,
+      "protein": "pork",
+      "starch": "rice",
+      "cuisine": "other",
+      "staples": [
+        "garlic",
+        "soy sauce",
+        "carrot"
+      ],
+      "sourceWeek": "2026-06-16",
+      "file": "glazed-pork-roast-and-veggie-fried-rice-with-cumin-sichuan-mayo.json"
+    },
+    {
+      "slug": "homestyle-turkey-and-biscuit-pot-pie-with-buttermilk-biscuits",
+      "name": "Homestyle Turkey & Biscuit Pot Pie with Buttermilk Biscuits",
+      "servings": 4,
+      "protein": "chicken",
+      "starch": "bread",
+      "cuisine": "other",
+      "staples": [
+        "onion",
+        "garlic",
+        "butter",
+        "thyme",
+        "carrot"
+      ],
+      "sourceWeek": "2026-06-16",
+      "file": "homestyle-turkey-and-biscuit-pot-pie-with-buttermilk-biscuits.json"
+    },
+    {
+      "slug": "indian-style-baked-paneer-curry-with-chickpeas-and-toasted-naan",
+      "name": "Indian-Style Baked Paneer Curry with Chickpeas & Toasted Naan",
+      "servings": 4,
+      "protein": "vegetarian",
+      "starch": "bread",
+      "cuisine": "indian",
+      "staples": [],
+      "sourceWeek": "2026-06-16",
+      "file": "indian-style-baked-paneer-curry-with-chickpeas-and-toasted-naan.json"
+    },
+    {
+      "slug": "lemon-herb-chicken-and-artichoke-celery-salad-with-couscous-and-parmesan",
+      "name": "Lemon Herb Chicken & Artichoke-Celery Salad with Couscous & Parmesan",
+      "servings": 4,
+      "protein": "chicken",
+      "starch": "rice",
+      "cuisine": "mediterranean",
+      "staples": [
+        "garlic",
+        "lemon"
+      ],
+      "sourceWeek": "2026-06-16",
+      "file": "lemon-herb-chicken-and-artichoke-celery-salad-with-couscous-and-parmesan.json"
+    },
+    {
+      "slug": "melty-mozzarella-beef-and-zucchini-penne-bake-with-cheesy-garlic-bread-and-caesar-salad",
+      "name": "Melty Mozzarella, Beef & Zucchini Penne Bake with Cheesy Garlic Bread & Caesar Salad",
+      "servings": 4,
+      "protein": "chicken",
+      "starch": "pasta",
+      "cuisine": "other",
+      "staples": [
+        "garlic",
+        "butter",
+        "zucchini"
+      ],
+      "sourceWeek": "2026-06-16",
+      "file": "melty-mozzarella-beef-and-zucchini-penne-bake-with-cheesy-garlic-bread-and-caesar-salad.json"
+    },
+    {
+      "slug": "miso-butter-glazed-chicken-with-spicy-sesame-roasted-vegetables",
+      "name": "Miso Butter Glazed Chicken with Spicy Sesame Roasted Vegetables",
+      "servings": 4,
+      "protein": "chicken",
+      "starch": "potato",
+      "cuisine": "other",
+      "staples": [
+        "butter",
+        "soy sauce"
+      ],
+      "sourceWeek": "2026-06-16",
+      "file": "miso-butter-glazed-chicken-with-spicy-sesame-roasted-vegetables.json"
+    },
+    {
+      "slug": "mushroom-carrot-and-lentil-shepherds-pie-topped-with-cheddar-mashed-potatoes",
+      "name": "Mushroom, Carrot & Lentil Shepherd's Pie topped with Cheddar Mashed Potatoes",
+      "servings": 4,
+      "protein": "vegetarian",
+      "starch": "potato",
+      "cuisine": "other",
+      "staples": [
+        "onion",
+        "thyme",
+        "carrot"
+      ],
+      "sourceWeek": "2026-06-16",
+      "file": "mushroom-carrot-and-lentil-shepherds-pie-topped-with-cheddar-mashed-potatoes.json"
+    },
+    {
+      "slug": "pistachio-cod-with-mango-jalapeno-salsa-plus-purple-sweet-potato-mash-asparagus-and-charred-corn",
+      "name": "Pistachio Cod with Mango-Jalapeño Salsa plus Purple Sweet Potato Mash, Asparagus & Charred Corn",
+      "servings": 4,
+      "protein": "fish",
+      "starch": "potato",
+      "cuisine": "other",
+      "staples": [
+        "lime"
+      ],
+      "sourceWeek": "2026-06-16",
+      "file": "pistachio-cod-with-mango-jalapeno-salsa-plus-purple-sweet-potato-mash-asparagus-and-charred-corn.json"
+    },
+    {
+      "slug": "smoky-gouda-cheeseburgers-with-caramelized-onion-and-roasted-carrots",
+      "name": "Smoky Gouda Cheeseburgers with Caramelized Onion & Roasted Carrots",
+      "servings": 4,
+      "protein": "beef",
+      "starch": "other",
+      "cuisine": "other",
+      "staples": [
+        "onion",
+        "carrot"
+      ],
+      "sourceWeek": "2026-06-16",
+      "file": "smoky-gouda-cheeseburgers-with-caramelized-onion-and-roasted-carrots.json"
+    },
+    {
+      "slug": "southwest-chipotle-chicken-sandwich-with-crispy-bacon-and-avocado",
+      "name": "Southwest Chipotle Chicken Sandwich with Crispy Bacon & Avocado",
+      "servings": 4,
+      "protein": "chicken",
+      "starch": "bread",
+      "cuisine": "mexican",
+      "staples": [],
+      "sourceWeek": "2026-06-16",
+      "file": "southwest-chipotle-chicken-sandwich-with-crispy-bacon-and-avocado.json"
+    },
+    {
+      "slug": "thai-coconut-and-lemongrass-veggie-curry-with-potatoes-green-beans-bell-pepper-rice-and-peanuts",
+      "name": "Thai Coconut & Lemongrass Veggie Curry with Potatoes, Green Beans, Bell Pepper, Rice & Peanuts",
+      "servings": 4,
+      "protein": "vegetarian",
+      "starch": "potato",
+      "cuisine": "thai",
+      "staples": [
+        "lemon",
+        "lime",
+        "cilantro",
+        "bell pepper"
+      ],
+      "sourceWeek": "2026-06-16",
+      "file": "thai-coconut-and-lemongrass-veggie-curry-with-potatoes-green-beans-bell-pepper-rice-and-peanuts.json"
+    }
+  ]
+}

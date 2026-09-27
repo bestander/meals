@@ -1,0 +1,88 @@
+{
+  "name": "Glazed Pork Roast & Veggie Fried Rice with Cumin-Sichuan Mayo",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Pork Roast",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Pasture-Raised Egg",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Long Grain White Rice",
+      "quantity": 1,
+      "unit": "cup"
+    },
+    {
+      "name": "Snow Peas",
+      "quantity": 8,
+      "unit": "oz"
+    },
+    {
+      "name": "Garlic",
+      "quantity": 4,
+      "unit": "cloves"
+    },
+    {
+      "name": "Carrots",
+      "quantity": 12,
+      "unit": "oz"
+    },
+    {
+      "name": "Soy Sauce",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Cumin-Sichuan Peppercorn Sauce",
+      "quantity": 6,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Mayonnaise",
+      "quantity": 4,
+      "unit": "tbsp"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Cook the rice",
+      "text": "Preheat oven to 450°F. Rinse rice and drain. In a medium pot, combine rice, a big pinch of salt, and 2 cups of water. Heat to boiling on high. Reduce heat to low, cover, and cook without stirring for 13 to 15 minutes. Turn off heat and fluff with a fork."
+    },
+    {
+      "step": 2,
+      "title": "Glaze & roast the pork",
+      "text": "Line a sheet pan with foil; lightly oil the foil. Pat pork dry; season with salt and pepper. Add half the cumin-Sichuan sauce; turn to coat. Transfer to the sheet pan. Roast 20 to 26 minutes, or until cooked to desired doneness. Transfer to a cutting board; rest at least 5 minutes. Slice crosswise against the grain."
+    },
+    {
+      "step": 3,
+      "title": "Prepare the remaining ingredients",
+      "text": "Wash and dry produce. Peel carrots; thinly slice into rounds. Peel and roughly chop 4 cloves of garlic. Halve snow peas crosswise. Crack eggs into a bowl; season and beat until smooth. In a bowl, combine mayonnaise and remaining cumin-Sichuan sauce. Taste and season."
+    },
+    {
+      "step": 4,
+      "title": "Cook the vegetables & egg",
+      "text": "In a large nonstick pan, heat olive oil on medium-high. Add sliced carrots; season and cook 4 to 5 minutes until lightly browned. Add chopped garlic; cook 30 seconds to 1 minute. Add halved peas; cook 2 to 3 minutes. Move vegetables to one side of the pan. Add olive oil to the other side, then add beaten eggs. Cook 1 minute, then stir to combine with vegetables. Transfer to a large bowl; wipe out the pan."
+    },
+    {
+      "step": 5,
+      "title": "Make the fried rice & serve",
+      "text": "In the same pan, heat olive oil on medium-high. Add cooked rice in an even layer. Cook without stirring for 3 to 4 minutes until slightly crispy. Turn off heat and stir in soy sauce. Combine with the bowl of cooked vegetables and eggs. Serve sliced pork and fried rice with the cumin-Sichuan mayo."
+    }
+  ],
+  "slug": "glazed-pork-roast-and-veggie-fried-rice-with-cumin-sichuan-mayo",
+  "sourceWeek": "2026-06-16",
+  "protein": "pork",
+  "starch": "rice",
+  "cuisine": "other",
+  "staples": [
+    "garlic",
+    "soy sauce",
+    "carrot"
+  ]
+}

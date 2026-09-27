@@ -1,0 +1,74 @@
+{
+  "name": "Southwest Chipotle Chicken Sandwich with Crispy Bacon & Avocado",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Boneless Skinless Chicken Breasts",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Applewood Smoked Uncured Bacon",
+      "quantity": 8,
+      "unit": "oz"
+    },
+    {
+      "name": "Small Baguettes",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Avocado",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Pickled Peppadew Peppers",
+      "quantity": 1,
+      "unit": "oz"
+    },
+    {
+      "name": "Chipotle Chile Paste",
+      "quantity": 4,
+      "unit": "tsp"
+    },
+    {
+      "name": "Mayonnaise",
+      "quantity": 8,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Weeknight Hero Spice Blend",
+      "quantity": 1,
+      "unit": "tbsp"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prepare the ingredients",
+      "text": "Preheat the oven to 450°F. Wash and dry the fresh produce. Halve the baguettes. Halve and pit the avocados; using a spoon, remove the avocado from the skin, then thinly slice. Roughly chop the peppers. In a bowl, combine the mayonnaise and as much of the chile paste as you'd like."
+    },
+    {
+      "step": 2,
+      "title": "Roast the chicken & toast the baguettes",
+      "text": "Line 2 sheet pans with foil. Pat the chicken dry with paper towels. Place on one side of the sheet pans. Drizzle with olive oil and season on both sides with salt, pepper, and the spice blend. Roast 13 minutes. Leaving the oven on, remove from the oven. Carefully add the halved baguettes to the other side of the sheet pans, cut side up. Drizzle with olive oil; season with salt and pepper. Return to the oven and roast 6 to 8 minutes, or until the baguettes are toasted and the chicken is cooked through. Transfer the roasted chicken to a cutting board. When cool enough to handle, thinly slice crosswise."
+    },
+    {
+      "step": 3,
+      "title": "Cook the bacon",
+      "text": "Meanwhile, in a large nonstick pan, arrange the bacon in an even layer. Cook on medium-high 3 to 4 minutes, or until lightly browned. Flip and cook 1 to 2 minutes, or until cooked through and crispy. Transfer to a paper towel-lined plate."
+    },
+    {
+      "step": 4,
+      "title": "Assemble the sandwiches & serve",
+      "text": "Assemble the sandwiches using the toasted baguettes, chipotle mayo, sliced chicken, sliced avocados, chopped peppers, and cooked bacon."
+    }
+  ],
+  "slug": "southwest-chipotle-chicken-sandwich-with-crispy-bacon-and-avocado",
+  "sourceWeek": "2026-06-16",
+  "protein": "chicken",
+  "starch": "bread",
+  "cuisine": "mexican",
+  "staples": []
+}

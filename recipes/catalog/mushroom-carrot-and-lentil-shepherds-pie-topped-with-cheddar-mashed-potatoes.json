@@ -1,0 +1,122 @@
+{
+  "name": "Mushroom, Carrot & Lentil Shepherd's Pie topped with Cheddar Mashed Potatoes",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Button Mushrooms",
+      "quantity": 8,
+      "unit": "oz"
+    },
+    {
+      "name": "Lentils",
+      "quantity": 1,
+      "unit": "pieces"
+    },
+    {
+      "name": "Dried Thyme",
+      "quantity": 2,
+      "unit": "tsp"
+    },
+    {
+      "name": "Flour",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Tomato Paste",
+      "quantity": 1,
+      "unit": "pieces"
+    },
+    {
+      "name": "Carrot",
+      "quantity": 12,
+      "unit": "oz"
+    },
+    {
+      "name": "Potatoes",
+      "quantity": 32,
+      "unit": "oz"
+    },
+    {
+      "name": "Mushroom Stock Concentrate",
+      "quantity": 1,
+      "unit": "packets"
+    },
+    {
+      "name": "Veggie Stock Concentrate",
+      "quantity": 1,
+      "unit": "packets"
+    },
+    {
+      "name": "Sour Cream",
+      "quantity": 3,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": "pieces"
+    },
+    {
+      "name": "White Cheddar Cheese",
+      "quantity": 2,
+      "unit": "cup"
+    }
+  ],
+  "nutrition": {
+    "calories": 1010,
+    "protein_g": 34,
+    "fat_g": 46,
+    "saturated_fat_g": 26,
+    "sodium_mg": 1260,
+    "carbs_g": 101,
+    "fiber_g": 14
+  },
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Start prep & cook potatoes",
+      "text": "Wash and dry produce. Peel and dice potatoes into 1/2-inch pieces. Place in a large pot with enough salted water to cover by 2 inches. Bring to a boil and cook until tender, 15-20 minutes. Reserve 1 cup of the potato cooking liquid, then drain and return potatoes to the pot. Keep covered off heat."
+    },
+    {
+      "step": 2,
+      "title": "Finish prep",
+      "text": "While potatoes cook, trim and quarter mushrooms. Trim, peel, and finely dice carrots. Halve, peel, and finely dice one whole onion."
+    },
+    {
+      "step": 3,
+      "title": "Cook veggies",
+      "text": "Heat a large drizzle of olive oil in a large pan over medium-high heat. Add mushrooms and a big pinch of salt. Cook, stirring occasionally, until lightly browned, 3-5 minutes. Add another drizzle of olive oil, carrots, and diced onion; season with salt and pepper. Cook, stirring frequently, until veggies are browned and softened, 5-7 minutes more."
+    },
+    {
+      "step": 4,
+      "title": "Make filling",
+      "text": "Stir 2 TBSP butter into the pan with veggies until melted. Add thyme and tomato paste. Cook, stirring, until the paste is incorporated and the color has darkened, 1 minute. Add lentils and their liquid, veggie stock concentrate, mushroom stock concentrate, 3/4 cup water, and 1 tsp sugar. Scrape up any browned bits. Bring to a boil, then reduce to a low simmer. Cook until thickened, 2-3 minutes. Season generously with salt and pepper. Turn off heat."
+    },
+    {
+      "step": 5,
+      "title": "Mash potatoes",
+      "text": "To the pot with drained potatoes, add sour cream and 4 TBSP butter. Mash until smooth and creamy, adding splashes of the reserved potato cooking liquid as needed. Season with salt and pepper."
+    },
+    {
+      "step": 6,
+      "title": "Spread potatoes",
+      "text": "Heat broiler to high. Once the filling has thickened, spoon mashed potatoes on top. Spread into an even layer, leaving a 1-inch border around the edge of the pan. Sprinkle potatoes with cheddar cheese."
+    },
+    {
+      "step": 7,
+      "title": "Finish & serve",
+      "text": "Transfer the shepherd's pie to the oven and broil until the cheese is lightly browned, 3-4 minutes. Let rest for at least 5 minutes, then divide between plates and serve."
+    }
+  ],
+  "slug": "mushroom-carrot-and-lentil-shepherds-pie-topped-with-cheddar-mashed-potatoes",
+  "sourceWeek": "2026-06-16",
+  "protein": "vegetarian",
+  "starch": "potato",
+  "cuisine": "other",
+  "staples": [
+    "onion",
+    "thyme",
+    "carrot"
+  ]
+}

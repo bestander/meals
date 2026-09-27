@@ -1,0 +1,110 @@
+{
+  "name": "Pistachio Cod with Mango-Jalapeño Salsa plus Purple Sweet Potato Mash, Asparagus & Charred Corn",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Corn",
+      "quantity": 1,
+      "unit": "pieces"
+    },
+    {
+      "name": "Lime",
+      "quantity": 1,
+      "unit": "pieces"
+    },
+    {
+      "name": "Purple Sweet Potato",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Icelandic Cod",
+      "quantity": 20,
+      "unit": "oz"
+    },
+    {
+      "name": "Sour Cream",
+      "quantity": 3,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "quantity": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Asparagus",
+      "quantity": 12,
+      "unit": "oz"
+    },
+    {
+      "name": "Shallot",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Jalapeño",
+      "quantity": 1,
+      "unit": "pieces"
+    },
+    {
+      "name": "Mango Chutney",
+      "quantity": 4,
+      "unit": "oz"
+    },
+    {
+      "name": "Pistachios",
+      "quantity": 1,
+      "unit": "oz"
+    }
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein_g": 33,
+    "fat_g": 20,
+    "saturated_fat_g": 7,
+    "sodium_mg": 390,
+    "carbs_g": 76,
+    "fiber_g": 11
+  },
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prep",
+      "text": "Adjust rack to top position and preheat oven to 425°F. Wash and dry produce. Peel and dice sweet potatoes into 1/2-inch pieces. Finely chop pistachios. Trim and discard woody bottom ends from asparagus; chop into 1-inch pieces. Drain corn. Finely dice shallot until you have about 4 TBSP. Finely dice jalapeño until you have about 4 TBSP. Halve lime."
+    },
+    {
+      "step": 2,
+      "title": "Cook sweet potatoes",
+      "text": "Place sweet potatoes in a medium pot with enough salted water to cover by 2 inches. Bring to a boil and cook until tender, 15-20 minutes. Reserve 1 cup sweet potato cooking liquid, then drain. Return sweet potatoes to pot; add 2 TBSP butter and sour cream. Mash until smooth and creamy, adding splashes of reserved cooking liquid as needed. Keep covered off heat."
+    },
+    {
+      "step": 3,
+      "title": "Bake cod",
+      "text": "While sweet potatoes cook, in a small bowl, combine pistachios, panko, a drizzle of olive oil, salt, and pepper. Pat cod dry with paper towels. Season all over with salt and pepper. Mound tops of cod with pistachio mixture, pressing to adhere. Lightly coat a baking sheet with olive oil and add cod, coated sides up. Bake on top rack until crust is browned and cod is cooked through, 8-10 minutes."
+    },
+    {
+      "step": 4,
+      "title": "Cook asparagus & corn",
+      "text": "Heat a drizzle of olive oil in a large pan over medium-high heat. Add asparagus and cook until beginning to soften, 2-3 minutes. Add corn in a single layer and cook, undisturbed, until charred, 2-3 minutes. Continue to cook, stirring occasionally, until asparagus is tender and corn is charred, 2-3 minutes more."
+    },
+    {
+      "step": 5,
+      "title": "Make salsa",
+      "text": "While veggies cook, in a second small bowl, combine diced shallot, diced jalapeño, mango chutney, and juice from lime. Season with salt and pepper."
+    },
+    {
+      "step": 6,
+      "title": "Serve",
+      "text": "Divide sweet potato mash between plates and spread into a circle. Top with cod and asparagus and corn in separate sections. Top with mango-jalapeño salsa and serve."
+    }
+  ],
+  "slug": "pistachio-cod-with-mango-jalapeno-salsa-plus-purple-sweet-potato-mash-asparagus-and-charred-corn",
+  "sourceWeek": "2026-06-16",
+  "protein": "fish",
+  "starch": "potato",
+  "cuisine": "other",
+  "staples": [
+    "lime"
+  ]
+}

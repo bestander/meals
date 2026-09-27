@@ -1,0 +1,129 @@
+{
+  "name": "Apricot, Almond & Chickpea Tagine with Zucchini, Basmati Rice & Chermoula",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "quantity": 1,
+      "unit": "cup"
+    },
+    {
+      "name": "Sliced Almonds",
+      "quantity": 1,
+      "unit": "oz"
+    },
+    {
+      "name": "Veggie Stock Concentrate",
+      "quantity": 4,
+      "unit": "packets"
+    },
+    {
+      "name": "Sour Cream",
+      "quantity": 6,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Chickpeas",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": "pieces"
+    },
+    {
+      "name": "Zucchini",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": "pieces"
+    },
+    {
+      "name": "Garlic",
+      "quantity": 2,
+      "unit": "cloves"
+    },
+    {
+      "name": "Jalapeño",
+      "quantity": 1,
+      "unit": "pieces"
+    },
+    {
+      "name": "Dried Apricots",
+      "quantity": 2,
+      "unit": "oz"
+    },
+    {
+      "name": "Cilantro",
+      "quantity": 0.25,
+      "unit": "oz"
+    },
+    {
+      "name": "Tunisian Spice Blend",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Hot Sauce",
+      "quantity": 1,
+      "unit": "tsp"
+    }
+  ],
+  "nutrition": {
+    "calories": 920,
+    "protein_g": 20,
+    "fat_g": 47,
+    "saturated_fat_g": 13,
+    "sodium_mg": 1060,
+    "carbs_g": 103,
+    "fiber_g": 12
+  },
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prep",
+      "text": "Wash and dry produce. Halve, peel, and dice onion. Mince cilantro. Peel and mince or grate garlic. Zest and halve lemon. Mince jalapeño. Trim and halve zucchini lengthwise; cut crosswise into 1/2-inch-thick half-moons. Drain and rinse chickpeas."
+    },
+    {
+      "step": 2,
+      "title": "Cook rice",
+      "text": "Heat a drizzle of oil in a small pot over medium-high heat. Add 1/4 of the onion; cook, stirring, until softened, 2-3 minutes. Stir in rice, 1 1/2 cups water, two packets of stock concentrate, and a pinch of salt. Bring to a boil, then cover and reduce to a low simmer. Cook until rice is tender, 15-18 minutes. Keep covered off heat until serving."
+    },
+    {
+      "step": 3,
+      "title": "Mix chermoula & crema",
+      "text": "In a small bowl, combine cilantro, 3 TBSP olive oil, a pinch of garlic, salt, and pepper. Add lemon juice to taste and as much jalapeño as desired. In a separate small bowl, combine sour cream, a pinch of salt, and lemon zest to taste. Add water 1 tsp at a time until it reaches a drizzling consistency."
+    },
+    {
+      "step": 4,
+      "title": "Cook veggies",
+      "text": "Heat a large drizzle of oil in a large pan over medium-high heat. Add zucchini and remaining onion. Cook, stirring, until softened and lightly browned, 7-10 minutes. Add Tunisian Spice Blend, remaining garlic, and a big pinch of salt. Cook until fragrant, 1-2 minutes."
+    },
+    {
+      "step": 5,
+      "title": "Simmer tagine",
+      "text": "Add 2/3 cup water and remaining stock concentrate to the pan. Stir in chickpeas and bring to a low simmer. Cook until liquid has slightly reduced, 1-2 minutes. Reduce heat to low; stir in 2 TBSP butter until melted. Season with salt and pepper."
+    },
+    {
+      "step": 6,
+      "title": "Finish & serve",
+      "text": "Fluff rice with a fork; stir in 2 TBSP butter. Season with salt and pepper. Divide rice between plates and top with tagine, almonds, and apricots. Drizzle with lemon crema and chermoula. Serve with remaining lemon wedges on the side."
+    }
+  ],
+  "slug": "apricot-almond-and-chickpea-tagine-with-zucchini-basmati-rice-and-chermoula",
+  "sourceWeek": "2026-06-16",
+  "protein": "vegetarian",
+  "starch": "rice",
+  "cuisine": "indian",
+  "staples": [
+    "onion",
+    "garlic",
+    "lemon",
+    "cilantro",
+    "zucchini"
+  ]
+}

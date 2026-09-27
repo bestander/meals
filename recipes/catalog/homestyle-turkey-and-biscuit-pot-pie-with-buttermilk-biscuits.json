@@ -1,0 +1,109 @@
+{
+  "name": "Homestyle Turkey & Biscuit Pot Pie with Buttermilk Biscuits",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Thyme",
+      "quantity": 0.5,
+      "unit": "oz"
+    },
+    {
+      "name": "Ground Turkey",
+      "quantity": 20,
+      "unit": "oz"
+    },
+    {
+      "name": "Buttermilk Biscuits",
+      "quantity": 12,
+      "unit": "oz"
+    },
+    {
+      "name": "Carrots",
+      "quantity": 12,
+      "unit": "oz"
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": "pieces"
+    },
+    {
+      "name": "Cream Cheese",
+      "quantity": 4,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Chicken Stock Concentrate",
+      "quantity": 4,
+      "unit": "packets"
+    },
+    {
+      "name": "Garlic",
+      "quantity": 2,
+      "unit": "cloves"
+    },
+    {
+      "name": "Flour",
+      "quantity": 4,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Celery",
+      "quantity": 5,
+      "unit": "oz"
+    }
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein_g": 35,
+    "fat_g": 46,
+    "saturated_fat_g": 20,
+    "sodium_mg": 1360,
+    "carbs_g": 63,
+    "fiber_g": 4
+  },
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prep",
+      "text": "Adjust rack to top position and preheat oven to 425°F. Wash and dry produce. Strip all thyme leaves from stems; mince leaves. Trim, peel, and finely dice carrots. Finely dice celery. Halve, peel, and dice a whole onion. Peel and mince garlic."
+    },
+    {
+      "step": 2,
+      "title": "Cook turkey",
+      "text": "Heat a drizzle of oil in a large, preferably ovenproof, pan over medium-high heat. Add turkey; season with a big pinch of salt and pepper. Cook, breaking up meat into pieces, until browned, 3-5 minutes. Transfer to a plate."
+    },
+    {
+      "step": 3,
+      "title": "Cook veggies",
+      "text": "Reserve 1 tsp minced thyme for later. Heat a drizzle of oil in the same pan over medium-high heat. Add carrots, celery, and diced onion; season with salt and pepper. Cook, stirring, until veggies are softened, 5-7 minutes. Add garlic and remaining minced thyme; cook until fragrant, 30 seconds."
+    },
+    {
+      "step": 4,
+      "title": "Make filling",
+      "text": "Add 4 TBSP butter to the pan with veggies. Once melted, stir in flour; cook for 1 minute. Pour in 3 1/2 cups water, stock concentrates, salt, and pepper. Bring to a boil and cook until thickened, 3-5 minutes. Turn off heat. Stir in cream cheese until melted, then stir in turkey. Season with salt and pepper. If the pan isn't ovenproof, transfer filling to a 9-by-13-inch baking dish."
+    },
+    {
+      "step": 5,
+      "title": "Add biscuits & bake",
+      "text": "Melt 1 TBSP butter in a small microwave-safe bowl. Remove biscuits from package; peel apart each biscuit at the center to create two thinner ones. Evenly top turkey filling with biscuits, then brush with melted butter and sprinkle with the reserved minced thyme. Bake on top rack until biscuits are golden brown and turkey is cooked through, 12-15 minutes."
+    },
+    {
+      "step": 6,
+      "title": "Serve",
+      "text": "Let the pot pie cool for at least 5 minutes before serving. Divide between shallow bowls or plates."
+    }
+  ],
+  "slug": "homestyle-turkey-and-biscuit-pot-pie-with-buttermilk-biscuits",
+  "sourceWeek": "2026-06-16",
+  "protein": "chicken",
+  "starch": "bread",
+  "cuisine": "other",
+  "staples": [
+    "onion",
+    "garlic",
+    "butter",
+    "thyme",
+    "carrot"
+  ]
+}

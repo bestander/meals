@@ -1,0 +1,128 @@
+{
+  "name": "Cheesy Mexican-Style Beef Stuffed Peppers",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "quantity": 20,
+      "unit": "oz"
+    },
+    {
+      "name": "White Rice",
+      "quantity": 0.75,
+      "unit": "cup"
+    },
+    {
+      "name": "Tomato",
+      "quantity": 0.5,
+      "unit": "pieces"
+    },
+    {
+      "name": "Guacamole",
+      "quantity": 8,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Green Bell Pepper",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Garlic",
+      "quantity": 3,
+      "unit": "cloves"
+    },
+    {
+      "name": "Sour Cream",
+      "quantity": 3,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Lime",
+      "quantity": 3,
+      "unit": "pieces"
+    },
+    {
+      "name": "Cilantro",
+      "quantity": 0.25,
+      "unit": "oz"
+    },
+    {
+      "name": "Tomato Paste",
+      "quantity": 0.5,
+      "unit": "pieces"
+    },
+    {
+      "name": "Mexican Spice Blend",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Chicken Stock Concentrate",
+      "quantity": 3,
+      "unit": "packets"
+    },
+    {
+      "name": "Scallions",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Mexican Cheese Blend",
+      "quantity": 0.5,
+      "unit": "cup"
+    }
+  ],
+  "nutrition": {
+    "calories": 780,
+    "protein_g": 35,
+    "fat_g": 47,
+    "saturated_fat_g": 15,
+    "sodium_mg": 690,
+    "carbs_g": 52,
+    "fiber_g": 6
+  },
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Cook rice",
+      "text": "Adjust rack to top position and preheat oven to 425°F. Heat a drizzle of oil in a small pot over medium-high heat. Add tomato paste and cook, stirring, until darkened, 1-2 minutes. Add rice, one of the stock concentrates, 1 1/4 cups water, and a big pinch of salt. Bring to a boil, then cover and reduce to a low simmer. Cook until tender, 15-18 minutes. Keep covered off heat."
+    },
+    {
+      "step": 2,
+      "title": "Roast bell peppers",
+      "text": "Wash and dry produce. Halve bell peppers lengthwise; remove stems and seeds. Peel and mince or grate garlic. Place bell peppers on a baking sheet; drizzle each half with oil and rub to coat. Season with salt and pepper. Arrange cut sides down and roast on the top rack until tender, 10-15 minutes."
+    },
+    {
+      "step": 3,
+      "title": "Make pico & cook beef",
+      "text": "Dice tomato. Roughly chop cilantro. Trim and thinly slice scallions, separating whites from greens. Quarter limes. In a small bowl, mix tomato, scallion whites, half the cilantro, juice from 1 lime, and a pinch of salt and pepper. Heat a drizzle of oil in a large pan over medium-high heat. Add beef, garlic, Mexican Spice Blend, remaining stock concentrates, salt, and pepper. Cook until browned, 4-6 minutes. Transfer beef to a large bowl using a slotted spoon."
+    },
+    {
+      "step": 4,
+      "title": "Assemble stuffed peppers",
+      "text": "Fluff rice and add to the bowl with the beef. Stir to combine; season with salt and pepper. Flip roasted peppers over and stuff each half with the filling. Sprinkle with Mexican cheese blend."
+    },
+    {
+      "step": 5,
+      "title": "Broil stuffed peppers",
+      "text": "Heat broiler to high. Broil peppers on the top rack until cheese is melted and bubbly, 2-4 minutes."
+    },
+    {
+      "step": 6,
+      "title": "Finish & serve",
+      "text": "Combine guacamole with a squeeze of lime juice; season with salt and pepper. Top peppers with juice from two lime wedges and hot sauce if desired. Garnish with scallion greens. Serve with guacamole, pico de gallo, sour cream, and remaining lime wedges on the side."
+    }
+  ],
+  "slug": "cheesy-mexican-style-beef-stuffed-peppers",
+  "sourceWeek": "2026-06-16",
+  "protein": "chicken",
+  "starch": "rice",
+  "cuisine": "mexican",
+  "staples": [
+    "garlic",
+    "lime",
+    "cilantro",
+    "bell pepper"
+  ]
+}

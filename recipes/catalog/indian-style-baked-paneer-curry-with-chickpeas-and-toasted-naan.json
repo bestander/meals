@@ -1,0 +1,74 @@
+{
+  "name": "Indian-Style Baked Paneer Curry with Chickpeas & Toasted Naan",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Naan Bread",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Chickpeas",
+      "quantity": 2,
+      "unit": "15.5oz can"
+    },
+    {
+      "name": "Paneer Cheese",
+      "quantity": 8,
+      "unit": "oz"
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": 6,
+      "unit": "oz"
+    },
+    {
+      "name": "Heavy Cream",
+      "quantity": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Labneh Cheese",
+      "quantity": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Tomato Achaar",
+      "quantity": 4,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Tomato Sauce",
+      "quantity": 2,
+      "unit": "8oz can"
+    },
+    {
+      "name": "Vadouvan Curry Powder",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Single-Use Aluminum Tray",
+      "quantity": 2,
+      "unit": "pieces"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prepare the ingredients & bake the tray",
+      "text": "Preheat the oven to 450°F. Wash and dry the fresh produce. Drain and rinse the chickpeas. In the trays, combine the spinach, tomato sauce, tomato achaar, cream (shaking the packet before opening), curry powder, drained chickpeas, and paneer (tearing into bite-sized pieces before adding). Stir to combine. Add 2 tablespoons of water to each tray. Season with salt and pepper; stir to thoroughly combine. Tightly cover the trays with foil and bake 24 to 26 minutes, or until the liquid is slightly thickened. Remove from the oven. Carefully remove the foil; stir to combine."
+    },
+    {
+      "step": 2,
+      "title": "Warm the naan & serve",
+      "text": "Once the tray has baked about 15 minutes, place the naan on a piece of foil; drizzle each with olive oil. Stack the naan and wrap them in the foil. Place directly onto an oven rack; warm 7 to 9 minutes, or until heated through. Transfer to a work surface and carefully unwrap. Serve the baked trays topped with the labneh. Serve the warmed naan on the side."
+    }
+  ],
+  "slug": "indian-style-baked-paneer-curry-with-chickpeas-and-toasted-naan",
+  "sourceWeek": "2026-06-16",
+  "protein": "vegetarian",
+  "starch": "bread",
+  "cuisine": "indian",
+  "staples": []
+}

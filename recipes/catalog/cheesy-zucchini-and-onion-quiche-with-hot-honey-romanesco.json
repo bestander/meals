@@ -1,0 +1,87 @@
+{
+  "name": "Cheesy Zucchini & Onion Quiche with Hot Honey Romanesco",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Pasture-Raised Eggs",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Pie Crust",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Romanesco Cauliflower",
+      "quantity": 2,
+      "unit": "heads"
+    },
+    {
+      "name": "Yellow Onion",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Zucchini",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Shredded Cheddar & Monterey Jack Cheese Blend",
+      "quantity": 4,
+      "unit": "oz"
+    },
+    {
+      "name": "Calabrian Chile Paste",
+      "quantity": 3,
+      "unit": "tsp"
+    },
+    {
+      "name": "Honey",
+      "quantity": 4,
+      "unit": "tsp"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prepare the ingredients",
+      "text": "Preheat the oven to 400°F. Wash and dry the fresh produce. Halve the zucchini lengthwise, then thinly slice crosswise. Halve, peel, and medium dice the onions."
+    },
+    {
+      "step": 2,
+      "title": "Cook the vegetables",
+      "text": "In a large nonstick pan, heat a drizzle of olive oil on medium-high until hot. Add the sliced zucchini and diced onions; season with salt and pepper. Cook, stirring occasionally, 4 to 5 minutes, or until lightly browned and softened. Turn off the heat."
+    },
+    {
+      "step": 3,
+      "title": "Make the filling & assemble the quiches",
+      "text": "Crack the eggs into a large bowl. Add 4 tablespoons of water; beat until smooth. Add the cooked vegetables and half the cheddar and monterey jack; season with salt and pepper. Stir to combine. Place the pie crusts on a sheet pan, leaving them in their tins. Evenly divide the filling between the crusts. Top with the remaining cheddar and monterey jack; season with salt and pepper."
+    },
+    {
+      "step": 4,
+      "title": "Bake the quiches",
+      "text": "Bake the quiches 19 to 21 minutes, or until the crusts are lightly browned and the filling is set and cooked through. Remove from the oven and let stand at least 2 minutes."
+    },
+    {
+      "step": 5,
+      "title": "Roast the cauliflower",
+      "text": "Meanwhile, cut out and discard the core of the cauliflower; cut into small florets. Place on a sheet pan. Drizzle with olive oil and season with salt and pepper. Toss to coat; arrange in an even layer. Roast 22 to 24 minutes, or until browned and tender when pierced with a fork. Remove from the oven."
+    },
+    {
+      "step": 6,
+      "title": "Finish the cauliflower & serve",
+      "text": "In a large bowl, whisk together the honey, a drizzle of olive oil, and as much of the chile paste as you'd like. Add the roasted cauliflower; toss to thoroughly coat. Serve the baked quiches with the finished cauliflower on the side."
+    }
+  ],
+  "slug": "cheesy-zucchini-and-onion-quiche-with-hot-honey-romanesco",
+  "sourceWeek": "2026-06-16",
+  "protein": "egg",
+  "starch": "other",
+  "cuisine": "french",
+  "staples": [
+    "onion",
+    "zucchini"
+  ]
+}

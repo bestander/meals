@@ -1,0 +1,112 @@
+{
+  "name": "Cozy Meatloaves with Creamy Onion Gravy plus Roasted Parsnips, Carrots & Potatoes",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Sour Cream",
+      "quantity": 3,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Onion",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Beef Stock Concentrate",
+      "quantity": 2,
+      "unit": "packets"
+    },
+    {
+      "name": "Carrot",
+      "quantity": 18,
+      "unit": "oz"
+    },
+    {
+      "name": "Potatoes",
+      "quantity": 24,
+      "unit": "oz"
+    },
+    {
+      "name": "Ground Beef",
+      "quantity": 20,
+      "unit": "oz"
+    },
+    {
+      "name": "Parsnip",
+      "quantity": 12,
+      "unit": "oz"
+    },
+    {
+      "name": "Ketchup",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "quantity": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Flour",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "quantity": 2,
+      "unit": "tsp"
+    }
+  ],
+  "nutrition": {
+    "calories": 770,
+    "protein_g": 34,
+    "fat_g": 34,
+    "saturated_fat_g": 14,
+    "sodium_mg": 1440,
+    "carbs_g": 82,
+    "fiber_g": 11
+  },
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prep",
+      "text": "Adjust rack to top and middle positions and preheat oven to 425°F. Wash and dry produce. Trim, peel, and cut parsnips on a diagonal into 1/2-inch pieces. Trim, peel, and cut carrots on a diagonal into 1/2-inch pieces. Cut potatoes into 1/2-inch-thick wedges. Halve, peel, and cut half the onion into 1/2-inch wedges."
+    },
+    {
+      "step": 2,
+      "title": "Roast veggies",
+      "text": "Toss parsnips, carrots, potatoes, and onion wedges on a baking sheet with a drizzle of oil, salt, and pepper. Spread veggies out across the entire sheet. Roast on top rack for 10 minutes."
+    },
+    {
+      "step": 3,
+      "title": "Mix & form meatloaves",
+      "text": "While veggies roast, in a large bowl, combine beef, panko, ketchup, garlic powder, 2 tsp salt, and pepper. Form mixture into four 1-inch-tall loaves. Once veggies have roasted 10 minutes, remove sheet from oven. Leave veggies roasting on their sheet; place meatloaves on a second baking sheet. Return to oven and roast until veggies are browned and tender and meatloaves are cooked through, 17-20 minutes. Roast meatloaves on the middle rack, swapping rack positions with veggies halfway through."
+    },
+    {
+      "step": 4,
+      "title": "Start gravy",
+      "text": "Finely dice the remaining onion. Melt 2 TBSP butter in a medium pan over medium heat. Add diced onion and 2 tsp sugar; season with salt. Cook, stirring occasionally, until lightly browned and softened, 7-9 minutes. Sprinkle flour over onion mixture; cook, whisking constantly, until flour is lightly browned, 1-2 minutes."
+    },
+    {
+      "step": 5,
+      "title": "Finish gravy",
+      "text": "Slowly whisk 1 1/2 cups water and stock concentrate into the pan. Cook, whisking constantly, until thickened, 3-5 minutes. Remove from heat; whisk in sour cream. Taste and season with salt and pepper."
+    },
+    {
+      "step": 6,
+      "title": "Serve",
+      "text": "Divide meatloaves and veggies between plates. Top meatloaves with gravy and serve."
+    }
+  ],
+  "slug": "cozy-meatloaves-with-creamy-onion-gravy-plus-roasted-parsnips-carrots-and-potatoes",
+  "sourceWeek": "2026-06-16",
+  "protein": "beef",
+  "starch": "potato",
+  "cuisine": "other",
+  "staples": [
+    "onion",
+    "garlic",
+    "carrot"
+  ]
+}

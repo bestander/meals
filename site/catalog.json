@@ -1,0 +1,1969 @@
+[
+  {
+    "name": "Apricot, Almond & Chickpea Tagine with Zucchini, Basmati Rice & Chermoula",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Basmati Rice",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Sliced Almonds",
+        "quantity": 1,
+        "unit": "oz"
+      },
+      {
+        "name": "Veggie Stock Concentrate",
+        "quantity": 4,
+        "unit": "packets"
+      },
+      {
+        "name": "Sour Cream",
+        "quantity": 6,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Chickpeas",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "pieces"
+      },
+      {
+        "name": "Zucchini",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Lemon",
+        "quantity": 1,
+        "unit": "pieces"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 2,
+        "unit": "cloves"
+      },
+      {
+        "name": "Jalapeño",
+        "quantity": 1,
+        "unit": "pieces"
+      },
+      {
+        "name": "Dried Apricots",
+        "quantity": 2,
+        "unit": "oz"
+      },
+      {
+        "name": "Cilantro",
+        "quantity": 0.25,
+        "unit": "oz"
+      },
+      {
+        "name": "Tunisian Spice Blend",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Hot Sauce",
+        "quantity": 1,
+        "unit": "tsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 920,
+      "protein_g": 20,
+      "fat_g": 47,
+      "saturated_fat_g": 13,
+      "sodium_mg": 1060,
+      "carbs_g": 103,
+      "fiber_g": 12
+    },
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Prep",
+        "text": "Wash and dry produce. Halve, peel, and dice onion. Mince cilantro. Peel and mince or grate garlic. Zest and halve lemon. Mince jalapeño. Trim and halve zucchini lengthwise; cut crosswise into 1/2-inch-thick half-moons. Drain and rinse chickpeas."
+      },
+      {
+        "step": 2,
+        "title": "Cook rice",
+        "text": "Heat a drizzle of oil in a small pot over medium-high heat. Add 1/4 of the onion; cook, stirring, until softened, 2-3 minutes. Stir in rice, 1 1/2 cups water, two packets of stock concentrate, and a pinch of salt. Bring to a boil, then cover and reduce to a low simmer. Cook until rice is tender, 15-18 minutes. Keep covered off heat until serving."
+      },
+      {
+        "step": 3,
+        "title": "Mix chermoula & crema",
+        "text": "In a small bowl, combine cilantro, 3 TBSP olive oil, a pinch of garlic, salt, and pepper. Add lemon juice to taste and as much jalapeño as desired. In a separate small bowl, combine sour cream, a pinch of salt, and lemon zest to taste. Add water 1 tsp at a time until it reaches a drizzling consistency."
+      },
+      {
+        "step": 4,
+        "title": "Cook veggies",
+        "text": "Heat a large drizzle of oil in a large pan over medium-high heat. Add zucchini and remaining onion. Cook, stirring, until softened and lightly browned, 7-10 minutes. Add Tunisian Spice Blend, remaining garlic, and a big pinch of salt. Cook until fragrant, 1-2 minutes."
+      },
+      {
+        "step": 5,
+        "title": "Simmer tagine",
+        "text": "Add 2/3 cup water and remaining stock concentrate to the pan. Stir in chickpeas and bring to a low simmer. Cook until liquid has slightly reduced, 1-2 minutes. Reduce heat to low; stir in 2 TBSP butter until melted. Season with salt and pepper."
+      },
+      {
+        "step": 6,
+        "title": "Finish & serve",
+        "text": "Fluff rice with a fork; stir in 2 TBSP butter. Season with salt and pepper. Divide rice between plates and top with tagine, almonds, and apricots. Drizzle with lemon crema and chermoula. Serve with remaining lemon wedges on the side."
+      }
+    ],
+    "slug": "apricot-almond-and-chickpea-tagine-with-zucchini-basmati-rice-and-chermoula",
+    "sourceWeek": "2026-06-16",
+    "protein": "vegetarian",
+    "starch": "rice",
+    "cuisine": "indian",
+    "staples": [
+      "onion",
+      "garlic",
+      "lemon",
+      "cilantro",
+      "zucchini"
+    ]
+  },
+  {
+    "name": "Baked Cheesy Pulled Chicken Burritos with Pinto Beans, Corn & Tomatillo Sauce",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Cooked Pulled Chicken",
+        "quantity": 20,
+        "unit": "oz"
+      },
+      {
+        "name": "Flour Tortillas",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Pinto Beans",
+        "quantity": 2,
+        "unit": "15.5oz can"
+      },
+      {
+        "name": "Fire Grilled Corn",
+        "quantity": 6,
+        "unit": "oz"
+      },
+      {
+        "name": "Shredded Cheddar & Monterey Jack Cheese Blend",
+        "quantity": 4,
+        "unit": "oz"
+      },
+      {
+        "name": "Sour Cream",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Guajillo Chile Pepper Sauce",
+        "quantity": 0.67,
+        "unit": "cup"
+      },
+      {
+        "name": "Tomatillo-Poblano Sauce",
+        "quantity": 0.67,
+        "unit": "cup"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Make the filling",
+        "text": "Preheat the oven to 450°F. Drain and rinse the beans. In a large bowl, combine the drained beans, pulled chicken (tearing the pieces apart before adding), guajillo sauce, sour cream, and corn; season with salt and pepper if desired. Stir to combine."
+      },
+      {
+        "step": 2,
+        "title": "Bake the burritos & serve",
+        "text": "Lightly coat a large baking dish with a drizzle of olive oil. Spread about half the filling in the bottom of the baking dish. Wrap the tortillas in a damp paper towel and microwave on high 1 minute, or until heated through. Transfer to a work surface and carefully unwrap. Evenly divide the remaining filling among the center of the bottom half of each tortilla. Fold the three adjacent sides over the filling, then roll away from you until the burrito is seam side down. Transfer the burritos to the baking dish, seam side down. Drizzle with olive oil. Bake 10 minutes, or until the chicken is heated through. Leaving the oven on, remove from the oven. Evenly top with the tomatillo sauce and cheddar and monterey jack. Return to the oven and bake 5 to 7 minutes, or until the cheese is melted. Let stand at least 2 minutes before serving."
+      }
+    ],
+    "slug": "baked-cheesy-pulled-chicken-burritos-with-pinto-beans-corn-and-tomatillo-sauce",
+    "sourceWeek": "2026-06-16",
+    "protein": "chicken",
+    "starch": "bread",
+    "cuisine": "mexican",
+    "staples": []
+  },
+  {
+    "name": "Baked Paneer Curry",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Naan Bread",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Chickpeas",
+        "quantity": 2,
+        "unit": "15.5oz can"
+      },
+      {
+        "name": "Paneer Cheese",
+        "quantity": 8,
+        "unit": "oz"
+      },
+      {
+        "name": "Baby Spinach",
+        "quantity": 6,
+        "unit": "oz"
+      },
+      {
+        "name": "Heavy Cream",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Labneh Cheese",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Tomato Achaar",
+        "quantity": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Tomato Sauce",
+        "quantity": 2,
+        "unit": "8oz can"
+      },
+      {
+        "name": "Vadouvan Curry Powder",
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "slug": "baked-paneer-curry",
+    "sourceWeek": "2026-04-20",
+    "protein": "vegetarian",
+    "starch": "bread",
+    "cuisine": "indian",
+    "staples": []
+  },
+  {
+    "name": "Cheesy Mexican-Style Beef Stuffed Peppers",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Ground Beef",
+        "quantity": 20,
+        "unit": "oz"
+      },
+      {
+        "name": "White Rice",
+        "quantity": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "Tomato",
+        "quantity": 0.5,
+        "unit": "pieces"
+      },
+      {
+        "name": "Guacamole",
+        "quantity": 8,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Green Bell Pepper",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 3,
+        "unit": "cloves"
+      },
+      {
+        "name": "Sour Cream",
+        "quantity": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Lime",
+        "quantity": 3,
+        "unit": "pieces"
+      },
+      {
+        "name": "Cilantro",
+        "quantity": 0.25,
+        "unit": "oz"
+      },
+      {
+        "name": "Tomato Paste",
+        "quantity": 0.5,
+        "unit": "pieces"
+      },
+      {
+        "name": "Mexican Spice Blend",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Chicken Stock Concentrate",
+        "quantity": 3,
+        "unit": "packets"
+      },
+      {
+        "name": "Scallions",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Mexican Cheese Blend",
+        "quantity": 0.5,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 780,
+      "protein_g": 35,
+      "fat_g": 47,
+      "saturated_fat_g": 15,
+      "sodium_mg": 690,
+      "carbs_g": 52,
+      "fiber_g": 6
+    },
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Cook rice",
+        "text": "Adjust rack to top position and preheat oven to 425°F. Heat a drizzle of oil in a small pot over medium-high heat. Add tomato paste and cook, stirring, until darkened, 1-2 minutes. Add rice, one of the stock concentrates, 1 1/4 cups water, and a big pinch of salt. Bring to a boil, then cover and reduce to a low simmer. Cook until tender, 15-18 minutes. Keep covered off heat."
+      },
+      {
+        "step": 2,
+        "title": "Roast bell peppers",
+        "text": "Wash and dry produce. Halve bell peppers lengthwise; remove stems and seeds. Peel and mince or grate garlic. Place bell peppers on a baking sheet; drizzle each half with oil and rub to coat. Season with salt and pepper. Arrange cut sides down and roast on the top rack until tender, 10-15 minutes."
+      },
+      {
+        "step": 3,
+        "title": "Make pico & cook beef",
+        "text": "Dice tomato. Roughly chop cilantro. Trim and thinly slice scallions, separating whites from greens. Quarter limes. In a small bowl, mix tomato, scallion whites, half the cilantro, juice from 1 lime, and a pinch of salt and pepper. Heat a drizzle of oil in a large pan over medium-high heat. Add beef, garlic, Mexican Spice Blend, remaining stock concentrates, salt, and pepper. Cook until browned, 4-6 minutes. Transfer beef to a large bowl using a slotted spoon."
+      },
+      {
+        "step": 4,
+        "title": "Assemble stuffed peppers",
+        "text": "Fluff rice and add to the bowl with the beef. Stir to combine; season with salt and pepper. Flip roasted peppers over and stuff each half with the filling. Sprinkle with Mexican cheese blend."
+      },
+      {
+        "step": 5,
+        "title": "Broil stuffed peppers",
+        "text": "Heat broiler to high. Broil peppers on the top rack until cheese is melted and bubbly, 2-4 minutes."
+      },
+      {
+        "step": 6,
+        "title": "Finish & serve",
+        "text": "Combine guacamole with a squeeze of lime juice; season with salt and pepper. Top peppers with juice from two lime wedges and hot sauce if desired. Garnish with scallion greens. Serve with guacamole, pico de gallo, sour cream, and remaining lime wedges on the side."
+      }
+    ],
+    "slug": "cheesy-mexican-style-beef-stuffed-peppers",
+    "sourceWeek": "2026-06-16",
+    "protein": "chicken",
+    "starch": "rice",
+    "cuisine": "mexican",
+    "staples": [
+      "garlic",
+      "lime",
+      "cilantro",
+      "bell pepper"
+    ]
+  },
+  {
+    "name": "Cheesy Zucchini & Onion Quiche with Hot Honey Romanesco",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Pasture-Raised Eggs",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Pie Crust",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Romanesco Cauliflower",
+        "quantity": 2,
+        "unit": "heads"
+      },
+      {
+        "name": "Yellow Onion",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Zucchini",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Shredded Cheddar & Monterey Jack Cheese Blend",
+        "quantity": 4,
+        "unit": "oz"
+      },
+      {
+        "name": "Calabrian Chile Paste",
+        "quantity": 3,
+        "unit": "tsp"
+      },
+      {
+        "name": "Honey",
+        "quantity": 4,
+        "unit": "tsp"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Prepare the ingredients",
+        "text": "Preheat the oven to 400°F. Wash and dry the fresh produce. Halve the zucchini lengthwise, then thinly slice crosswise. Halve, peel, and medium dice the onions."
+      },
+      {
+        "step": 2,
+        "title": "Cook the vegetables",
+        "text": "In a large nonstick pan, heat a drizzle of olive oil on medium-high until hot. Add the sliced zucchini and diced onions; season with salt and pepper. Cook, stirring occasionally, 4 to 5 minutes, or until lightly browned and softened. Turn off the heat."
+      },
+      {
+        "step": 3,
+        "title": "Make the filling & assemble the quiches",
+        "text": "Crack the eggs into a large bowl. Add 4 tablespoons of water; beat until smooth. Add the cooked vegetables and half the cheddar and monterey jack; season with salt and pepper. Stir to combine. Place the pie crusts on a sheet pan, leaving them in their tins. Evenly divide the filling between the crusts. Top with the remaining cheddar and monterey jack; season with salt and pepper."
+      },
+      {
+        "step": 4,
+        "title": "Bake the quiches",
+        "text": "Bake the quiches 19 to 21 minutes, or until the crusts are lightly browned and the filling is set and cooked through. Remove from the oven and let stand at least 2 minutes."
+      },
+      {
+        "step": 5,
+        "title": "Roast the cauliflower",
+        "text": "Meanwhile, cut out and discard the core of the cauliflower; cut into small florets. Place on a sheet pan. Drizzle with olive oil and season with salt and pepper. Toss to coat; arrange in an even layer. Roast 22 to 24 minutes, or until browned and tender when pierced with a fork. Remove from the oven."
+      },
+      {
+        "step": 6,
+        "title": "Finish the cauliflower & serve",
+        "text": "In a large bowl, whisk together the honey, a drizzle of olive oil, and as much of the chile paste as you'd like. Add the roasted cauliflower; toss to thoroughly coat. Serve the baked quiches with the finished cauliflower on the side."
+      }
+    ],
+    "slug": "cheesy-zucchini-and-onion-quiche-with-hot-honey-romanesco",
+    "sourceWeek": "2026-06-16",
+    "protein": "egg",
+    "starch": "other",
+    "cuisine": "french",
+    "staples": [
+      "onion",
+      "zucchini"
+    ]
+  },
+  {
+    "name": "Chipotle Veggie Tostadas with Refried Beans & Guacamole",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Flour Tortillas",
+        "quantity": 8,
+        "unit": "pieces"
+      },
+      {
+        "name": "Pinto Beans",
+        "quantity": 2,
+        "unit": "15.5oz can"
+      },
+      {
+        "name": "Poblano Pepper",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Red Onion",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Scallions",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Grape Tomatoes",
+        "quantity": 8,
+        "unit": "oz"
+      },
+      {
+        "name": "Grated Cotija Cheese",
+        "quantity": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Sour Cream",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Chipotle Chile Paste",
+        "quantity": 4,
+        "unit": "tsp"
+      },
+      {
+        "name": "Guacamole",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Light Brown Sugar",
+        "quantity": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Prepare the ingredients",
+        "text": "Preheat the oven to 450°F. Wash and dry the fresh produce. Thinly slice the scallions, separating the white bottoms and hollow green tops. Drain and rinse the beans. Halve the tomatoes. Halve, peel, and medium dice the onions. Cut off and discard the stem of the peppers. Halve lengthwise; remove the ribs and seeds, then medium dice. In a bowl, combine the guacamole and 2 tablespoons of the sour cream; season with salt and pepper."
+      },
+      {
+        "step": 2,
+        "title": "Cook & mash the beans",
+        "text": "In a large nonstick pan, heat a drizzle of olive oil on medium-high until hot. Add the sliced white bottoms of the scallions; season with salt and pepper. Cook, stirring constantly, 30 seconds to 1 minute, or until slightly softened. Carefully add the drained beans and 1/2 cup of water; season with salt and pepper. Cook, stirring frequently and mashing the beans, 4 to 5 minutes, or until slightly thickened. Transfer to a bowl; stir in the remaining sour cream. Taste, then season with salt and pepper if desired. Cover with foil to keep warm. Rinse and wipe out the pan."
+      },
+      {
+        "step": 3,
+        "title": "Toast the tortillas",
+        "text": "Place the tortillas on a sheet pan. Using a fork, prick the tortillas all over. Drizzle with olive oil and season with salt and pepper; turn to coat. Arrange in an even layer. Toast in the oven 4 to 6 minutes, or until lightly browned and crispy. Remove from the oven."
+      },
+      {
+        "step": 4,
+        "title": "Cook the vegetables",
+        "text": "In the same pan, heat a drizzle of olive oil on medium-high until hot. Add the halved tomatoes, diced onions, and diced peppers in an even layer. Cook, without stirring, 1 to 2 minutes, or until lightly browned. Carefully add the sugar, 4 tablespoons of water, and as much of the chile paste as you'd like. Season with salt and pepper. Cook, stirring occasionally, 3 to 4 minutes, or until the vegetables are coated and softened. Turn off the heat."
+      },
+      {
+        "step": 5,
+        "title": "Assemble the tostadas & serve",
+        "text": "Assemble the tostadas using the toasted tortillas, mashed beans, and cooked vegetables. Serve topped with the creamy guacamole. Garnish with the cotija and sliced green tops of the scallions."
+      }
+    ],
+    "slug": "chipotle-veggie-tostadas-with-refried-beans-and-guacamole",
+    "sourceWeek": "2026-06-16",
+    "protein": "vegetarian",
+    "starch": "bread",
+    "cuisine": "mexican",
+    "staples": [
+      "onion"
+    ]
+  },
+  {
+    "name": "Cozy Meatloaves with Creamy Onion Gravy plus Roasted Parsnips, Carrots & Potatoes",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Sour Cream",
+        "quantity": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Onion",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Beef Stock Concentrate",
+        "quantity": 2,
+        "unit": "packets"
+      },
+      {
+        "name": "Carrot",
+        "quantity": 18,
+        "unit": "oz"
+      },
+      {
+        "name": "Potatoes",
+        "quantity": 24,
+        "unit": "oz"
+      },
+      {
+        "name": "Ground Beef",
+        "quantity": 20,
+        "unit": "oz"
+      },
+      {
+        "name": "Parsnip",
+        "quantity": 12,
+        "unit": "oz"
+      },
+      {
+        "name": "Ketchup",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Flour",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Garlic Powder",
+        "quantity": 2,
+        "unit": "tsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 770,
+      "protein_g": 34,
+      "fat_g": 34,
+      "saturated_fat_g": 14,
+      "sodium_mg": 1440,
+      "carbs_g": 82,
+      "fiber_g": 11
+    },
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Prep",
+        "text": "Adjust rack to top and middle positions and preheat oven to 425°F. Wash and dry produce. Trim, peel, and cut parsnips on a diagonal into 1/2-inch pieces. Trim, peel, and cut carrots on a diagonal into 1/2-inch pieces. Cut potatoes into 1/2-inch-thick wedges. Halve, peel, and cut half the onion into 1/2-inch wedges."
+      },
+      {
+        "step": 2,
+        "title": "Roast veggies",
+        "text": "Toss parsnips, carrots, potatoes, and onion wedges on a baking sheet with a drizzle of oil, salt, and pepper. Spread veggies out across the entire sheet. Roast on top rack for 10 minutes."
+      },
+      {
+        "step": 3,
+        "title": "Mix & form meatloaves",
+        "text": "While veggies roast, in a large bowl, combine beef, panko, ketchup, garlic powder, 2 tsp salt, and pepper. Form mixture into four 1-inch-tall loaves. Once veggies have roasted 10 minutes, remove sheet from oven. Leave veggies roasting on their sheet; place meatloaves on a second baking sheet. Return to oven and roast until veggies are browned and tender and meatloaves are cooked through, 17-20 minutes. Roast meatloaves on the middle rack, swapping rack positions with veggies halfway through."
+      },
+      {
+        "step": 4,
+        "title": "Start gravy",
+        "text": "Finely dice the remaining onion. Melt 2 TBSP butter in a medium pan over medium heat. Add diced onion and 2 tsp sugar; season with salt. Cook, stirring occasionally, until lightly browned and softened, 7-9 minutes. Sprinkle flour over onion mixture; cook, whisking constantly, until flour is lightly browned, 1-2 minutes."
+      },
+      {
+        "step": 5,
+        "title": "Finish gravy",
+        "text": "Slowly whisk 1 1/2 cups water and stock concentrate into the pan. Cook, whisking constantly, until thickened, 3-5 minutes. Remove from heat; whisk in sour cream. Taste and season with salt and pepper."
+      },
+      {
+        "step": 6,
+        "title": "Serve",
+        "text": "Divide meatloaves and veggies between plates. Top meatloaves with gravy and serve."
+      }
+    ],
+    "slug": "cozy-meatloaves-with-creamy-onion-gravy-plus-roasted-parsnips-carrots-and-potatoes",
+    "sourceWeek": "2026-06-16",
+    "protein": "beef",
+    "starch": "potato",
+    "cuisine": "other",
+    "staples": [
+      "onion",
+      "garlic",
+      "carrot"
+    ]
+  },
+  {
+    "name": "French Dip-Style Steak Sandwich with Fontina, Caramelized Onion & Au Jus",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Grass-Fed Flank Steaks",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Small Baguettes",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Broccoli",
+        "quantity": 16,
+        "unit": "oz"
+      },
+      {
+        "name": "Yellow Onion",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Shredded Fontina Cheese",
+        "quantity": 4,
+        "unit": "oz"
+      },
+      {
+        "name": "Beef Broth Concentrate",
+        "quantity": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "Vegetarian Worcestershire Sauce",
+        "quantity": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Soy Glaze",
+        "quantity": 4,
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Prepare the ingredients",
+        "text": "Preheat the oven to 450°F. Wash and dry the fresh produce. Cut off and discard the bottom 1/2 inch of the broccoli stem; cut the broccoli into small florets. Halve, peel, and thinly slice the onions. Halve the baguettes."
+      },
+      {
+        "step": 2,
+        "title": "Roast the broccoli",
+        "text": "Line a sheet pan with foil. Place the broccoli florets on the foil. Drizzle with olive oil and season with salt and pepper; toss to coat. Arrange in an even layer. Roast 14 to 18 minutes, or until browned and tender when pierced with a fork. Reserving the sheet pan, transfer to a bowl. Cover with foil to keep warm."
+      },
+      {
+        "step": 3,
+        "title": "Cook the steaks",
+        "text": "Meanwhile, pat the steaks dry with paper towels; season with salt and pepper on both sides. In a large nonstick pan, heat a drizzle of olive oil on medium-high until hot. Add the seasoned steaks. Cook 4 to 6 minutes per side for medium-rare, or until browned and cooked to your desired degree of doneness. Transfer to a cutting board; let rest at least 5 minutes. Slice crosswise against the grain."
+      },
+      {
+        "step": 4,
+        "title": "Caramelize the onion",
+        "text": "In the pan of reserved fond, heat a drizzle of olive oil on medium-high until hot. Add the sliced onions; season with salt and pepper. Cook, stirring occasionally, 7 to 9 minutes, or until lightly browned and softened. Transfer to a large bowl. Add the sliced steaks and soy glaze; toss to combine. Wipe out the pan."
+      },
+      {
+        "step": 5,
+        "title": "Toast the sandwiches",
+        "text": "Place the halved baguettes on the reserved sheet pan, cut side up. Drizzle with olive oil, then evenly top the bottom halves with the dressed steaks and caramelized onions and fontina. Toast in the oven 5 to 7 minutes, or until the baguettes are lightly browned and the cheese is melted. Transfer to a cutting board. Finish the toasted sandwiches using the top halves of the baguettes, then halve crosswise."
+      },
+      {
+        "step": 6,
+        "title": "Make the jus & serve",
+        "text": "Meanwhile, to the same pan, add the worcestershire sauce, broth concentrate, and 1 cup of water. Cook on medium-high, stirring frequently, 2 to 3 minutes, or until combined and simmering. Serve the halved sandwiches with the roasted broccoli. Serve the jus in a dipping bowl on the side."
+      }
+    ],
+    "slug": "french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus",
+    "sourceWeek": "2026-06-16",
+    "protein": "beef",
+    "starch": "bread",
+    "cuisine": "french",
+    "staples": [
+      "onion"
+    ]
+  },
+  {
+    "name": "French Onion Soup with Baguette & Grand Cru Cheese",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Small Baguette",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Yellow Onion",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 4,
+        "unit": "cloves"
+      },
+      {
+        "name": "Thyme",
+        "quantity": 2,
+        "unit": "bunches"
+      },
+      {
+        "name": "Chives",
+        "quantity": 2,
+        "unit": "bunches"
+      },
+      {
+        "name": "Grand Cru Cheese",
+        "quantity": 8,
+        "unit": "oz"
+      },
+      {
+        "name": "Garlic & Herb Flavored Butter",
+        "quantity": 2,
+        "unit": "oz"
+      },
+      {
+        "name": "Chicken Bone Broth",
+        "quantity": 2,
+        "unit": "cup"
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Beef Broth Concentrate",
+        "quantity": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "Sherry Vinegar",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "All-Purpose Flour",
+        "quantity": 4,
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Prepare the ingredients",
+        "text": "Preheat the oven to 450°F. Wash and dry the fresh produce. Halve, peel, and thinly slice the onions. Peel and roughly chop 4 cloves of garlic. Pick the thyme leaves off the stems. Cut the baguettes crosswise into equal-sized pieces. Grate the grand cru on the large side of a box grater. Thinly slice the chives."
+      },
+      {
+        "step": 2,
+        "title": "Caramelize the onions",
+        "text": "In a large pot, heat a drizzle of olive oil on medium until hot. Add the sliced onions; season with salt and pepper. Cover and cook, stirring occasionally, 10 to 20 minutes, or until dark and caramelized (if the onions start to burn, add 1 tablespoon of water at a time). Add the chopped garlic and thyme leaves. Cook, stirring occasionally, 2 to 3 minutes, or until softened. Add the vinegar (carefully, as the liquid may splatter) and soy sauce. Cook, stirring constantly, 1 to 2 minutes, or until the liquid has cooked off."
+      },
+      {
+        "step": 3,
+        "title": "Start the soup",
+        "text": "Add the butter. Cook, stirring constantly, 30 seconds to 1 minute, or until melted and combined. Add the flour. Cook, stirring constantly, 1 to 2 minutes, or until thoroughly combined. Carefully add the broth, broth concentrate, and 2 cups of water. Cook, stirring constantly and scraping up any browned bits, 2 to 3 minutes, or until slightly thickened and combined. Season with salt and pepper. Turn off the heat."
+      },
+      {
+        "step": 4,
+        "title": "Finish the soup & serve",
+        "text": "Place 4 oven-safe bowls on a sheet pan. Evenly divide the soup between the bowls; top each with enough baguette pieces to cover. Evenly top with the grated grand cru. Toast in the oven 4 to 6 minutes, or until the cheese is melted. If desired, broil 2 to 3 minutes, or until the cheese is bubbly and golden brown. Remove from the oven. Let stand at least 2 minutes before serving. Garnish with the sliced chives."
+      }
+    ],
+    "slug": "french-onion-soup-with-baguette-and-grand-cru-cheese",
+    "sourceWeek": "2026-06-16",
+    "protein": "chicken",
+    "starch": "bread",
+    "cuisine": "french",
+    "staples": [
+      "onion",
+      "garlic",
+      "butter",
+      "soy sauce",
+      "thyme"
+    ]
+  },
+  {
+    "name": "Glazed Pork Roast & Veggie Fried Rice with Cumin-Sichuan Mayo",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Pork Roast",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Pasture-Raised Egg",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Long Grain White Rice",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Snow Peas",
+        "quantity": 8,
+        "unit": "oz"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 4,
+        "unit": "cloves"
+      },
+      {
+        "name": "Carrots",
+        "quantity": 12,
+        "unit": "oz"
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Cumin-Sichuan Peppercorn Sauce",
+        "quantity": 6,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Mayonnaise",
+        "quantity": 4,
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Cook the rice",
+        "text": "Preheat oven to 450°F. Rinse rice and drain. In a medium pot, combine rice, a big pinch of salt, and 2 cups of water. Heat to boiling on high. Reduce heat to low, cover, and cook without stirring for 13 to 15 minutes. Turn off heat and fluff with a fork."
+      },
+      {
+        "step": 2,
+        "title": "Glaze & roast the pork",
+        "text": "Line a sheet pan with foil; lightly oil the foil. Pat pork dry; season with salt and pepper. Add half the cumin-Sichuan sauce; turn to coat. Transfer to the sheet pan. Roast 20 to 26 minutes, or until cooked to desired doneness. Transfer to a cutting board; rest at least 5 minutes. Slice crosswise against the grain."
+      },
+      {
+        "step": 3,
+        "title": "Prepare the remaining ingredients",
+        "text": "Wash and dry produce. Peel carrots; thinly slice into rounds. Peel and roughly chop 4 cloves of garlic. Halve snow peas crosswise. Crack eggs into a bowl; season and beat until smooth. In a bowl, combine mayonnaise and remaining cumin-Sichuan sauce. Taste and season."
+      },
+      {
+        "step": 4,
+        "title": "Cook the vegetables & egg",
+        "text": "In a large nonstick pan, heat olive oil on medium-high. Add sliced carrots; season and cook 4 to 5 minutes until lightly browned. Add chopped garlic; cook 30 seconds to 1 minute. Add halved peas; cook 2 to 3 minutes. Move vegetables to one side of the pan. Add olive oil to the other side, then add beaten eggs. Cook 1 minute, then stir to combine with vegetables. Transfer to a large bowl; wipe out the pan."
+      },
+      {
+        "step": 5,
+        "title": "Make the fried rice & serve",
+        "text": "In the same pan, heat olive oil on medium-high. Add cooked rice in an even layer. Cook without stirring for 3 to 4 minutes until slightly crispy. Turn off heat and stir in soy sauce. Combine with the bowl of cooked vegetables and eggs. Serve sliced pork and fried rice with the cumin-Sichuan mayo."
+      }
+    ],
+    "slug": "glazed-pork-roast-and-veggie-fried-rice-with-cumin-sichuan-mayo",
+    "sourceWeek": "2026-06-16",
+    "protein": "pork",
+    "starch": "rice",
+    "cuisine": "other",
+    "staples": [
+      "garlic",
+      "soy sauce",
+      "carrot"
+    ]
+  },
+  {
+    "name": "Homestyle Turkey & Biscuit Pot Pie with Buttermilk Biscuits",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Thyme",
+        "quantity": 0.5,
+        "unit": "oz"
+      },
+      {
+        "name": "Ground Turkey",
+        "quantity": 20,
+        "unit": "oz"
+      },
+      {
+        "name": "Buttermilk Biscuits",
+        "quantity": 12,
+        "unit": "oz"
+      },
+      {
+        "name": "Carrots",
+        "quantity": 12,
+        "unit": "oz"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "pieces"
+      },
+      {
+        "name": "Cream Cheese",
+        "quantity": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Chicken Stock Concentrate",
+        "quantity": 4,
+        "unit": "packets"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 2,
+        "unit": "cloves"
+      },
+      {
+        "name": "Flour",
+        "quantity": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Celery",
+        "quantity": 5,
+        "unit": "oz"
+      }
+    ],
+    "nutrition": {
+      "calories": 820,
+      "protein_g": 35,
+      "fat_g": 46,
+      "saturated_fat_g": 20,
+      "sodium_mg": 1360,
+      "carbs_g": 63,
+      "fiber_g": 4
+    },
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Prep",
+        "text": "Adjust rack to top position and preheat oven to 425°F. Wash and dry produce. Strip all thyme leaves from stems; mince leaves. Trim, peel, and finely dice carrots. Finely dice celery. Halve, peel, and dice a whole onion. Peel and mince garlic."
+      },
+      {
+        "step": 2,
+        "title": "Cook turkey",
+        "text": "Heat a drizzle of oil in a large, preferably ovenproof, pan over medium-high heat. Add turkey; season with a big pinch of salt and pepper. Cook, breaking up meat into pieces, until browned, 3-5 minutes. Transfer to a plate."
+      },
+      {
+        "step": 3,
+        "title": "Cook veggies",
+        "text": "Reserve 1 tsp minced thyme for later. Heat a drizzle of oil in the same pan over medium-high heat. Add carrots, celery, and diced onion; season with salt and pepper. Cook, stirring, until veggies are softened, 5-7 minutes. Add garlic and remaining minced thyme; cook until fragrant, 30 seconds."
+      },
+      {
+        "step": 4,
+        "title": "Make filling",
+        "text": "Add 4 TBSP butter to the pan with veggies. Once melted, stir in flour; cook for 1 minute. Pour in 3 1/2 cups water, stock concentrates, salt, and pepper. Bring to a boil and cook until thickened, 3-5 minutes. Turn off heat. Stir in cream cheese until melted, then stir in turkey. Season with salt and pepper. If the pan isn't ovenproof, transfer filling to a 9-by-13-inch baking dish."
+      },
+      {
+        "step": 5,
+        "title": "Add biscuits & bake",
+        "text": "Melt 1 TBSP butter in a small microwave-safe bowl. Remove biscuits from package; peel apart each biscuit at the center to create two thinner ones. Evenly top turkey filling with biscuits, then brush with melted butter and sprinkle with the reserved minced thyme. Bake on top rack until biscuits are golden brown and turkey is cooked through, 12-15 minutes."
+      },
+      {
+        "step": 6,
+        "title": "Serve",
+        "text": "Let the pot pie cool for at least 5 minutes before serving. Divide between shallow bowls or plates."
+      }
+    ],
+    "slug": "homestyle-turkey-and-biscuit-pot-pie-with-buttermilk-biscuits",
+    "sourceWeek": "2026-06-16",
+    "protein": "chicken",
+    "starch": "bread",
+    "cuisine": "other",
+    "staples": [
+      "onion",
+      "garlic",
+      "butter",
+      "thyme",
+      "carrot"
+    ]
+  },
+  {
+    "name": "Indian-Style Baked Paneer Curry with Chickpeas & Toasted Naan",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Naan Bread",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Chickpeas",
+        "quantity": 2,
+        "unit": "15.5oz can"
+      },
+      {
+        "name": "Paneer Cheese",
+        "quantity": 8,
+        "unit": "oz"
+      },
+      {
+        "name": "Baby Spinach",
+        "quantity": 6,
+        "unit": "oz"
+      },
+      {
+        "name": "Heavy Cream",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Labneh Cheese",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Tomato Achaar",
+        "quantity": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Tomato Sauce",
+        "quantity": 2,
+        "unit": "8oz can"
+      },
+      {
+        "name": "Vadouvan Curry Powder",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Single-Use Aluminum Tray",
+        "quantity": 2,
+        "unit": "pieces"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Prepare the ingredients & bake the tray",
+        "text": "Preheat the oven to 450°F. Wash and dry the fresh produce. Drain and rinse the chickpeas. In the trays, combine the spinach, tomato sauce, tomato achaar, cream (shaking the packet before opening), curry powder, drained chickpeas, and paneer (tearing into bite-sized pieces before adding). Stir to combine. Add 2 tablespoons of water to each tray. Season with salt and pepper; stir to thoroughly combine. Tightly cover the trays with foil and bake 24 to 26 minutes, or until the liquid is slightly thickened. Remove from the oven. Carefully remove the foil; stir to combine."
+      },
+      {
+        "step": 2,
+        "title": "Warm the naan & serve",
+        "text": "Once the tray has baked about 15 minutes, place the naan on a piece of foil; drizzle each with olive oil. Stack the naan and wrap them in the foil. Place directly onto an oven rack; warm 7 to 9 minutes, or until heated through. Transfer to a work surface and carefully unwrap. Serve the baked trays topped with the labneh. Serve the warmed naan on the side."
+      }
+    ],
+    "slug": "indian-style-baked-paneer-curry-with-chickpeas-and-toasted-naan",
+    "sourceWeek": "2026-06-16",
+    "protein": "vegetarian",
+    "starch": "bread",
+    "cuisine": "indian",
+    "staples": []
+  },
+  {
+    "name": "Lemon Herb Chicken & Artichoke-Celery Salad with Couscous & Parmesan",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Israeli Couscous",
+        "quantity": 1.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Parmesan Cheese Block",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Dried Oregano",
+        "quantity": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "Garlic Powder",
+        "quantity": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "Celery",
+        "quantity": 5,
+        "unit": "oz"
+      },
+      {
+        "name": "Chicken Stock Concentrate",
+        "quantity": 2,
+        "unit": "packets"
+      },
+      {
+        "name": "Lemon",
+        "quantity": 1,
+        "unit": "pieces"
+      },
+      {
+        "name": "Marinated Artichoke Hearts",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Chicken Cutlets",
+        "quantity": 24,
+        "unit": "oz"
+      }
+    ],
+    "nutrition": {
+      "calories": 590,
+      "protein_g": 49,
+      "fat_g": 23,
+      "saturated_fat_g": 8,
+      "sodium_mg": 500,
+      "carbs_g": 48,
+      "fiber_g": 3
+    },
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Prep & cook couscous",
+        "text": "Wash and dry produce. Zest and quarter lemon. Thinly slice celery on a diagonal. Thinly slice artichokes. Melt 2 TBSP butter in a small pot over medium-high heat. Add couscous; cook, stirring, 30 seconds. Stir in 2 cups water, stock concentrate, and a pinch of salt. Bring to a boil, then cover and reduce to a low simmer. Cook until couscous is tender, 6-8 minutes. Keep covered off heat until ready to serve."
+      },
+      {
+        "step": 2,
+        "title": "Make salad",
+        "text": "While couscous cooks, in a medium bowl, whisk together lemon zest, half the oregano, half the garlic powder, a large drizzle of olive oil, juice from two lemon wedges, salt, and pepper. Add celery and artichokes. Grate half the Parmesan into the bowl; toss to combine. Refrigerate until ready to serve."
+      },
+      {
+        "step": 3,
+        "title": "Cook chicken",
+        "text": "Pat chicken dry with paper towels and season all over with remaining oregano, remaining garlic powder, salt, and pepper. Heat a drizzle of oil in a large pan over medium-high heat. Add chicken; cook until browned and cooked through, 5-7 minutes per side. Transfer to a cutting board; squeeze juice from two lemon wedges over chicken."
+      },
+      {
+        "step": 4,
+        "title": "Finish & serve",
+        "text": "Slice chicken crosswise. Divide couscous, chicken, and salad between plates in separate sections. Grate remaining Parmesan over salad. Serve with any remaining lemon wedges on the side."
+      }
+    ],
+    "slug": "lemon-herb-chicken-and-artichoke-celery-salad-with-couscous-and-parmesan",
+    "sourceWeek": "2026-06-16",
+    "protein": "chicken",
+    "starch": "rice",
+    "cuisine": "mediterranean",
+    "staples": [
+      "garlic",
+      "lemon"
+    ]
+  },
+  {
+    "name": "Melty Mozzarella, Beef & Zucchini Penne Bake with Cheesy Garlic Bread & Caesar Salad",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Zucchini",
+        "quantity": 1,
+        "unit": "pieces"
+      },
+      {
+        "name": "Caesar Dressing",
+        "quantity": 6,
+        "unit": "oz"
+      },
+      {
+        "name": "Ground Beef",
+        "quantity": 20,
+        "unit": "oz"
+      },
+      {
+        "name": "Demi-Baguette",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Marinara Sauce",
+        "quantity": 28,
+        "unit": "oz"
+      },
+      {
+        "name": "Ricotta Cheese",
+        "quantity": 8,
+        "unit": "oz"
+      },
+      {
+        "name": "Mozzarella Cheese",
+        "quantity": 2,
+        "unit": "cup"
+      },
+      {
+        "name": "Baby Lettuce",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Parmesan Cheese Block",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Garlic Powder",
+        "quantity": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "Garlic Herb Butter",
+        "quantity": 8,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Croutons",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Tomato Paste",
+        "quantity": 1,
+        "unit": "pieces"
+      },
+      {
+        "name": "Chicken Stock Concentrate",
+        "quantity": 4,
+        "unit": "packets"
+      },
+      {
+        "name": "Penne Pasta",
+        "quantity": 12,
+        "unit": "oz"
+      },
+      {
+        "name": "Italian Seasoning",
+        "quantity": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 970,
+      "protein_g": 37,
+      "fat_g": 53,
+      "saturated_fat_g": 19,
+      "sodium_mg": 1570,
+      "carbs_g": 77,
+      "fiber_g": 6
+    },
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Prep",
+        "text": "Adjust racks to middle and top positions and preheat oven to 425°F. Bring a large pot of salted water to a boil. Wash and dry produce. Trim and quarter zucchini lengthwise; slice crosswise into 1/4-inch-thick quarter-moons. Grate half the Parmesan. Halve baguettes lengthwise. Trim and discard root end from lettuce; chop leaves into bite-size pieces."
+      },
+      {
+        "step": 2,
+        "title": "Cook pasta",
+        "text": "Once water is boiling, add penne to pot. Cook, stirring occasionally, until al dente, 9-11 minutes. Reserve 1 cup pasta cooking water, then drain. Keep empty pot handy for the next step."
+      },
+      {
+        "step": 3,
+        "title": "Make sauce",
+        "text": "While pasta cooks, heat a drizzle of oil in a large pan over medium-high heat. Add zucchini, beef, Italian Seasoning, garlic powder, a big pinch of salt, and pepper. Cook, breaking up meat into pieces, until zucchini is tender and beef is cooked through, 5-7 minutes. Remove pan from heat. Transfer beef mixture to pot used for pasta. Add marinara, tomato paste, stock concentrates, and 1/2 cup reserved pasta cooking water. Bring to a boil over medium-high heat; cook, stirring occasionally, until sauce has slightly thickened, 2-3 minutes. Remove pot from heat."
+      },
+      {
+        "step": 4,
+        "title": "Bake pasta",
+        "text": "Add drained penne to pot with sauce; stir to combine. Taste and season with salt and pepper if needed. Transfer pasta mixture to a lightly oiled 9-by-13-inch baking dish. Carefully dollop ricotta all over pasta and top with half the mozzarella. Bake, uncovered, on middle rack until cheese melts, 10-15 minutes."
+      },
+      {
+        "step": 5,
+        "title": "Bake garlic bread",
+        "text": "Place garlic herb butter in a medium microwave-safe bowl; microwave until softened, 10-15 seconds. Stir in grated Parmesan, remaining mozzarella, half the dressing, and pepper. Evenly spread cut sides of baguettes with butter mixture. Place on a baking sheet and bake on top rack until cheese is browned, 10-15 minutes."
+      },
+      {
+        "step": 6,
+        "title": "Broil pasta",
+        "text": "Once garlic bread is done, remove sheet from oven and increase oven temperature to broil. Transfer penne bake to top rack; broil until cheese is browned, 2-3 minutes more. Remove from the oven and let cool for 5 minutes before serving."
+      },
+      {
+        "step": 7,
+        "title": "Finish & serve",
+        "text": "While penne bake cools, in a large bowl, toss together lettuce, croutons, and remaining dressing. Halve cheesy garlic bread on a diagonal. Transfer salad to a serving bowl; grate remaining Parmesan over top. Serve penne bake, salad, and cheesy garlic bread family style."
+      }
+    ],
+    "slug": "melty-mozzarella-beef-and-zucchini-penne-bake-with-cheesy-garlic-bread-and-caesar-salad",
+    "sourceWeek": "2026-06-16",
+    "protein": "chicken",
+    "starch": "pasta",
+    "cuisine": "other",
+    "staples": [
+      "garlic",
+      "butter",
+      "zucchini"
+    ]
+  },
+  {
+    "name": "Miso Butter Glazed Chicken with Spicy Sesame Roasted Vegetables",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Potatoes",
+        "quantity": 24,
+        "unit": "oz"
+      },
+      {
+        "name": "Romanesco Cauliflower",
+        "quantity": 2,
+        "unit": "heads"
+      },
+      {
+        "name": "Scallions",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Salted Butter",
+        "quantity": 1,
+        "unit": "oz"
+      },
+      {
+        "name": "Sweet White Miso Paste",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Gochujang",
+        "quantity": 4,
+        "unit": "tsp"
+      },
+      {
+        "name": "Sesame Oil",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Rice Vinegar",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Honey",
+        "quantity": 4,
+        "unit": "tsp"
+      },
+      {
+        "name": "Black & White Sesame Seeds",
+        "quantity": 2,
+        "unit": "tsp"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Prepare the ingredients & start the sauce",
+        "text": "Preheat the oven to 450°F. Wash and dry the fresh produce. Cut out and discard the core of the cauliflower; cut into small florets. Medium dice the potatoes. Thinly slice the scallions, separating the white bottoms and hollow green tops. In a large bowl, combine the soy sauce, sesame oil, a drizzle of olive oil, and as much of the gochujang as you'd like. Add the cauliflower florets and diced potatoes; season with salt and pepper. Toss to thoroughly coat. In a separate bowl, whisk together the miso paste, vinegar, honey, sliced white bottoms of the scallions, and 1/2 cup of water."
+      },
+      {
+        "step": 2,
+        "title": "Roast the vegetables",
+        "text": "Line 2 sheet pans with foil. Place the seasoned vegetables on the sheet pans; drizzle with olive oil and arrange in an even layer. Roast 24 to 28 minutes, or until lightly browned and tender when pierced with a fork. Remove from the oven."
+      },
+      {
+        "step": 3,
+        "title": "Cook the chicken",
+        "text": "Meanwhile, pat the chicken dry with paper towels; season with salt and pepper on both sides. In a large nonstick pan, heat a drizzle of olive oil on medium-high until hot. Add the seasoned chicken. Cook 6 to 9 minutes per side, or until browned and cooked through. Transfer to a cutting board. When cool enough to handle, slice the cooked chicken crosswise."
+      },
+      {
+        "step": 4,
+        "title": "Finish the sauce & serve",
+        "text": "Add the sauce to the pan of reserved fond. Cook on medium-high, stirring frequently, 30 seconds to 1 minute, or until slightly thickened. Turn off the heat. Stir in the butter until melted and combined. Serve the sliced chicken with the roasted vegetables. Top the chicken with the finished sauce. Garnish with the sesame seeds and sliced green tops of the scallions."
+      }
+    ],
+    "slug": "miso-butter-glazed-chicken-with-spicy-sesame-roasted-vegetables",
+    "sourceWeek": "2026-06-16",
+    "protein": "chicken",
+    "starch": "potato",
+    "cuisine": "other",
+    "staples": [
+      "butter",
+      "soy sauce"
+    ]
+  },
+  {
+    "name": "Mushroom, Carrot & Lentil Shepherd's Pie topped with Cheddar Mashed Potatoes",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Button Mushrooms",
+        "quantity": 8,
+        "unit": "oz"
+      },
+      {
+        "name": "Lentils",
+        "quantity": 1,
+        "unit": "pieces"
+      },
+      {
+        "name": "Dried Thyme",
+        "quantity": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "Flour",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Tomato Paste",
+        "quantity": 1,
+        "unit": "pieces"
+      },
+      {
+        "name": "Carrot",
+        "quantity": 12,
+        "unit": "oz"
+      },
+      {
+        "name": "Potatoes",
+        "quantity": 32,
+        "unit": "oz"
+      },
+      {
+        "name": "Mushroom Stock Concentrate",
+        "quantity": 1,
+        "unit": "packets"
+      },
+      {
+        "name": "Veggie Stock Concentrate",
+        "quantity": 1,
+        "unit": "packets"
+      },
+      {
+        "name": "Sour Cream",
+        "quantity": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "pieces"
+      },
+      {
+        "name": "White Cheddar Cheese",
+        "quantity": 2,
+        "unit": "cup"
+      }
+    ],
+    "nutrition": {
+      "calories": 1010,
+      "protein_g": 34,
+      "fat_g": 46,
+      "saturated_fat_g": 26,
+      "sodium_mg": 1260,
+      "carbs_g": 101,
+      "fiber_g": 14
+    },
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Start prep & cook potatoes",
+        "text": "Wash and dry produce. Peel and dice potatoes into 1/2-inch pieces. Place in a large pot with enough salted water to cover by 2 inches. Bring to a boil and cook until tender, 15-20 minutes. Reserve 1 cup of the potato cooking liquid, then drain and return potatoes to the pot. Keep covered off heat."
+      },
+      {
+        "step": 2,
+        "title": "Finish prep",
+        "text": "While potatoes cook, trim and quarter mushrooms. Trim, peel, and finely dice carrots. Halve, peel, and finely dice one whole onion."
+      },
+      {
+        "step": 3,
+        "title": "Cook veggies",
+        "text": "Heat a large drizzle of olive oil in a large pan over medium-high heat. Add mushrooms and a big pinch of salt. Cook, stirring occasionally, until lightly browned, 3-5 minutes. Add another drizzle of olive oil, carrots, and diced onion; season with salt and pepper. Cook, stirring frequently, until veggies are browned and softened, 5-7 minutes more."
+      },
+      {
+        "step": 4,
+        "title": "Make filling",
+        "text": "Stir 2 TBSP butter into the pan with veggies until melted. Add thyme and tomato paste. Cook, stirring, until the paste is incorporated and the color has darkened, 1 minute. Add lentils and their liquid, veggie stock concentrate, mushroom stock concentrate, 3/4 cup water, and 1 tsp sugar. Scrape up any browned bits. Bring to a boil, then reduce to a low simmer. Cook until thickened, 2-3 minutes. Season generously with salt and pepper. Turn off heat."
+      },
+      {
+        "step": 5,
+        "title": "Mash potatoes",
+        "text": "To the pot with drained potatoes, add sour cream and 4 TBSP butter. Mash until smooth and creamy, adding splashes of the reserved potato cooking liquid as needed. Season with salt and pepper."
+      },
+      {
+        "step": 6,
+        "title": "Spread potatoes",
+        "text": "Heat broiler to high. Once the filling has thickened, spoon mashed potatoes on top. Spread into an even layer, leaving a 1-inch border around the edge of the pan. Sprinkle potatoes with cheddar cheese."
+      },
+      {
+        "step": 7,
+        "title": "Finish & serve",
+        "text": "Transfer the shepherd's pie to the oven and broil until the cheese is lightly browned, 3-4 minutes. Let rest for at least 5 minutes, then divide between plates and serve."
+      }
+    ],
+    "slug": "mushroom-carrot-and-lentil-shepherds-pie-topped-with-cheddar-mashed-potatoes",
+    "sourceWeek": "2026-06-16",
+    "protein": "vegetarian",
+    "starch": "potato",
+    "cuisine": "other",
+    "staples": [
+      "onion",
+      "thyme",
+      "carrot"
+    ]
+  },
+  {
+    "name": "Pistachio Cod with Mango-Jalapeño Salsa plus Purple Sweet Potato Mash, Asparagus & Charred Corn",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Corn",
+        "quantity": 1,
+        "unit": "pieces"
+      },
+      {
+        "name": "Lime",
+        "quantity": 1,
+        "unit": "pieces"
+      },
+      {
+        "name": "Purple Sweet Potato",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Icelandic Cod",
+        "quantity": 20,
+        "unit": "oz"
+      },
+      {
+        "name": "Sour Cream",
+        "quantity": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Asparagus",
+        "quantity": 12,
+        "unit": "oz"
+      },
+      {
+        "name": "Shallot",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Jalapeño",
+        "quantity": 1,
+        "unit": "pieces"
+      },
+      {
+        "name": "Mango Chutney",
+        "quantity": 4,
+        "unit": "oz"
+      },
+      {
+        "name": "Pistachios",
+        "quantity": 1,
+        "unit": "oz"
+      }
+    ],
+    "nutrition": {
+      "calories": 640,
+      "protein_g": 33,
+      "fat_g": 20,
+      "saturated_fat_g": 7,
+      "sodium_mg": 390,
+      "carbs_g": 76,
+      "fiber_g": 11
+    },
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Prep",
+        "text": "Adjust rack to top position and preheat oven to 425°F. Wash and dry produce. Peel and dice sweet potatoes into 1/2-inch pieces. Finely chop pistachios. Trim and discard woody bottom ends from asparagus; chop into 1-inch pieces. Drain corn. Finely dice shallot until you have about 4 TBSP. Finely dice jalapeño until you have about 4 TBSP. Halve lime."
+      },
+      {
+        "step": 2,
+        "title": "Cook sweet potatoes",
+        "text": "Place sweet potatoes in a medium pot with enough salted water to cover by 2 inches. Bring to a boil and cook until tender, 15-20 minutes. Reserve 1 cup sweet potato cooking liquid, then drain. Return sweet potatoes to pot; add 2 TBSP butter and sour cream. Mash until smooth and creamy, adding splashes of reserved cooking liquid as needed. Keep covered off heat."
+      },
+      {
+        "step": 3,
+        "title": "Bake cod",
+        "text": "While sweet potatoes cook, in a small bowl, combine pistachios, panko, a drizzle of olive oil, salt, and pepper. Pat cod dry with paper towels. Season all over with salt and pepper. Mound tops of cod with pistachio mixture, pressing to adhere. Lightly coat a baking sheet with olive oil and add cod, coated sides up. Bake on top rack until crust is browned and cod is cooked through, 8-10 minutes."
+      },
+      {
+        "step": 4,
+        "title": "Cook asparagus & corn",
+        "text": "Heat a drizzle of olive oil in a large pan over medium-high heat. Add asparagus and cook until beginning to soften, 2-3 minutes. Add corn in a single layer and cook, undisturbed, until charred, 2-3 minutes. Continue to cook, stirring occasionally, until asparagus is tender and corn is charred, 2-3 minutes more."
+      },
+      {
+        "step": 5,
+        "title": "Make salsa",
+        "text": "While veggies cook, in a second small bowl, combine diced shallot, diced jalapeño, mango chutney, and juice from lime. Season with salt and pepper."
+      },
+      {
+        "step": 6,
+        "title": "Serve",
+        "text": "Divide sweet potato mash between plates and spread into a circle. Top with cod and asparagus and corn in separate sections. Top with mango-jalapeño salsa and serve."
+      }
+    ],
+    "slug": "pistachio-cod-with-mango-jalapeno-salsa-plus-purple-sweet-potato-mash-asparagus-and-charred-corn",
+    "sourceWeek": "2026-06-16",
+    "protein": "fish",
+    "starch": "potato",
+    "cuisine": "other",
+    "staples": [
+      "lime"
+    ]
+  },
+  {
+    "name": "Smoky Gouda Cheeseburgers with Caramelized Onion & Roasted Carrots",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Ground Beef",
+        "quantity": 20,
+        "unit": "oz"
+      },
+      {
+        "name": "Burger Buns",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Carrots",
+        "quantity": 24,
+        "unit": "oz"
+      },
+      {
+        "name": "Yellow Onions",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Chives",
+        "quantity": 2,
+        "unit": "bunches"
+      },
+      {
+        "name": "Smoked Gouda Cheese",
+        "quantity": 4,
+        "unit": "oz"
+      },
+      {
+        "name": "Mayonnaise",
+        "quantity": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Vegetarian Worcestershire Sauce",
+        "quantity": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Honey",
+        "quantity": 4,
+        "unit": "tsp"
+      },
+      {
+        "name": "Hot Sauce",
+        "quantity": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Prepare & roast the carrots",
+        "text": "Preheat the oven to 450°F. Line a sheet pan with foil. Wash and dry the fresh produce. Peel the carrots; halve lengthwise, then cut crosswise into 2-inch pieces. Transfer to the sheet pan. Drizzle with olive oil; season with salt and pepper. Toss to coat; arrange in an even layer. Roast 16 to 20 minutes, or until browned and tender when pierced with a fork. Remove from the oven."
+      },
+      {
+        "step": 2,
+        "title": "Prepare the remaining ingredients & make the sauce",
+        "text": "Meanwhile, grate the gouda on the large side of a box grater. Halve, peel, and thinly slice the onions. Thinly slice the chives. In a bowl, combine the mayonnaise and half the worcestershire sauce. Taste, then season with salt and pepper if desired."
+      },
+      {
+        "step": 3,
+        "title": "Caramelize the onion",
+        "text": "In a large nonstick pan, heat a drizzle of olive oil on medium-high until hot. Add the sliced onions. Cook, stirring occasionally, 6 to 8 minutes, or until lightly browned and softened. Carefully add the honey, hot sauce, and remaining worcestershire sauce. Cook, stirring frequently, 1 to 2 minutes, or until combined and the onion is coated. Transfer to a bowl. Cover with foil to keep warm. Rinse and wipe out the pan."
+      },
+      {
+        "step": 4,
+        "title": "Form & cook the patties",
+        "text": "In a bowl, combine the beef and grated gouda; season with salt and pepper. Gently mix to combine. Form the mixture into 4 patties, about 1/2-inch thick. In the same pan, heat a drizzle of olive oil on medium-high until hot. Add the patties. Cook 4 to 5 minutes per side, or until the patties are browned and cooked through. Transfer to a work surface."
+      },
+      {
+        "step": 5,
+        "title": "Toast the buns & serve",
+        "text": "In the same pan, heat a drizzle of olive oil on medium-high until hot. Working in batches if necessary, add the buns, cut side down. Toast 30 seconds to 1 minute, or until lightly browned. Assemble the burgers using the toasted buns, cooked patties, and caramelized onions. Serve with the roasted carrots and sauce on the side. Garnish the carrots with the sliced chives."
+      }
+    ],
+    "slug": "smoky-gouda-cheeseburgers-with-caramelized-onion-and-roasted-carrots",
+    "sourceWeek": "2026-06-16",
+    "protein": "beef",
+    "starch": "other",
+    "cuisine": "other",
+    "staples": [
+      "onion",
+      "carrot"
+    ]
+  },
+  {
+    "name": "Southwest Chipotle Chicken Sandwich with Crispy Bacon & Avocado",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Applewood Smoked Uncured Bacon",
+        "quantity": 8,
+        "unit": "oz"
+      },
+      {
+        "name": "Small Baguettes",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Avocado",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Pickled Peppadew Peppers",
+        "quantity": 1,
+        "unit": "oz"
+      },
+      {
+        "name": "Chipotle Chile Paste",
+        "quantity": 4,
+        "unit": "tsp"
+      },
+      {
+        "name": "Mayonnaise",
+        "quantity": 8,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Weeknight Hero Spice Blend",
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Prepare the ingredients",
+        "text": "Preheat the oven to 450°F. Wash and dry the fresh produce. Halve the baguettes. Halve and pit the avocados; using a spoon, remove the avocado from the skin, then thinly slice. Roughly chop the peppers. In a bowl, combine the mayonnaise and as much of the chile paste as you'd like."
+      },
+      {
+        "step": 2,
+        "title": "Roast the chicken & toast the baguettes",
+        "text": "Line 2 sheet pans with foil. Pat the chicken dry with paper towels. Place on one side of the sheet pans. Drizzle with olive oil and season on both sides with salt, pepper, and the spice blend. Roast 13 minutes. Leaving the oven on, remove from the oven. Carefully add the halved baguettes to the other side of the sheet pans, cut side up. Drizzle with olive oil; season with salt and pepper. Return to the oven and roast 6 to 8 minutes, or until the baguettes are toasted and the chicken is cooked through. Transfer the roasted chicken to a cutting board. When cool enough to handle, thinly slice crosswise."
+      },
+      {
+        "step": 3,
+        "title": "Cook the bacon",
+        "text": "Meanwhile, in a large nonstick pan, arrange the bacon in an even layer. Cook on medium-high 3 to 4 minutes, or until lightly browned. Flip and cook 1 to 2 minutes, or until cooked through and crispy. Transfer to a paper towel-lined plate."
+      },
+      {
+        "step": 4,
+        "title": "Assemble the sandwiches & serve",
+        "text": "Assemble the sandwiches using the toasted baguettes, chipotle mayo, sliced chicken, sliced avocados, chopped peppers, and cooked bacon."
+      }
+    ],
+    "slug": "southwest-chipotle-chicken-sandwich-with-crispy-bacon-and-avocado",
+    "sourceWeek": "2026-06-16",
+    "protein": "chicken",
+    "starch": "bread",
+    "cuisine": "mexican",
+    "staples": []
+  },
+  {
+    "name": "Thai Coconut & Lemongrass Veggie Curry with Potatoes, Green Beans, Bell Pepper, Rice & Peanuts",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Sweet Thai Chili Sauce",
+        "quantity": 2,
+        "unit": "oz"
+      },
+      {
+        "name": "Basil Paste",
+        "quantity": 1,
+        "unit": "oz"
+      },
+      {
+        "name": "Coconut Milk",
+        "quantity": 1,
+        "unit": "pieces"
+      },
+      {
+        "name": "Green Beans",
+        "quantity": 16,
+        "unit": "oz"
+      },
+      {
+        "name": "Curry Powder",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Cilantro",
+        "quantity": 0.5,
+        "unit": "oz"
+      },
+      {
+        "name": "Potatoes",
+        "quantity": 24,
+        "unit": "oz"
+      },
+      {
+        "name": "Bell Pepper",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Peanuts",
+        "quantity": 1,
+        "unit": "oz"
+      },
+      {
+        "name": "Jasmine Rice",
+        "quantity": 1.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Lime",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Lemongrass Puree",
+        "quantity": 4,
+        "unit": "oz"
+      }
+    ],
+    "nutrition": {
+      "calories": 880,
+      "protein_g": 14,
+      "fat_g": 36,
+      "saturated_fat_g": 20,
+      "sodium_mg": 190,
+      "carbs_g": 125,
+      "fiber_g": 9,
+      "added_sugars_g": 8
+    },
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Cook rice & prep",
+        "text": "In a small pot, combine rice, 2 1/2 cups water, and a pinch of salt. Bring to a boil, then cover and reduce to a low simmer. Cook until rice is tender, 15-18 minutes. Keep covered off heat until ready to serve. Wash and dry produce. Dice potatoes into 1/4-inch pieces. Trim green beans if necessary; cut crosswise into 2-inch pieces. Halve, core, and thinly slice bell pepper into strips. Quarter limes. Roughly chop cilantro. Roughly chop peanuts."
+      },
+      {
+        "step": 2,
+        "title": "Start curry",
+        "text": "Heat a large drizzle of oil in a large high-sided pan over medium-high heat. Add potatoes and a big pinch of salt. Cook, stirring occasionally, until softened, 5 minutes. Add another drizzle of oil, green beans, and bell pepper; stir to combine. Season with curry powder and salt, and cook, stirring constantly, until veggies soften, 2 minutes more."
+      },
+      {
+        "step": 3,
+        "title": "Finish curry",
+        "text": "Thoroughly shake coconut milk in container before opening. Stir coconut milk, chili sauce, lemongrass paste, all the basil paste, 1/2 cup water, and 2 tsp sugar into the pan with veggies. Add a squeeze of lime juice. Bring to a simmer, then reduce heat to medium-low and cover. Simmer until sauce has thickened and veggies are tender, 4-6 minutes. Turn off heat. Taste and season with salt and more lime juice if desired."
+      },
+      {
+        "step": 4,
+        "title": "Serve",
+        "text": "Fluff rice with a fork and stir in 2 TBSP butter. Divide rice between shallow bowls. Top rice with veggie curry. Top curry with cilantro and peanuts. Serve with any remaining lime wedges on the side."
+      }
+    ],
+    "slug": "thai-coconut-and-lemongrass-veggie-curry-with-potatoes-green-beans-bell-pepper-rice-and-peanuts",
+    "sourceWeek": "2026-06-16",
+    "protein": "vegetarian",
+    "starch": "potato",
+    "cuisine": "thai",
+    "staples": [
+      "lemon",
+      "lime",
+      "cilantro",
+      "bell pepper"
+    ]
+  }
+]

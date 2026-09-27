@@ -1,0 +1,109 @@
+{
+  "name": "Thai Coconut & Lemongrass Veggie Curry with Potatoes, Green Beans, Bell Pepper, Rice & Peanuts",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Sweet Thai Chili Sauce",
+      "quantity": 2,
+      "unit": "oz"
+    },
+    {
+      "name": "Basil Paste",
+      "quantity": 1,
+      "unit": "oz"
+    },
+    {
+      "name": "Coconut Milk",
+      "quantity": 1,
+      "unit": "pieces"
+    },
+    {
+      "name": "Green Beans",
+      "quantity": 16,
+      "unit": "oz"
+    },
+    {
+      "name": "Curry Powder",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Cilantro",
+      "quantity": 0.5,
+      "unit": "oz"
+    },
+    {
+      "name": "Potatoes",
+      "quantity": 24,
+      "unit": "oz"
+    },
+    {
+      "name": "Bell Pepper",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Peanuts",
+      "quantity": 1,
+      "unit": "oz"
+    },
+    {
+      "name": "Jasmine Rice",
+      "quantity": 1.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Lime",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Lemongrass Puree",
+      "quantity": 4,
+      "unit": "oz"
+    }
+  ],
+  "nutrition": {
+    "calories": 880,
+    "protein_g": 14,
+    "fat_g": 36,
+    "saturated_fat_g": 20,
+    "sodium_mg": 190,
+    "carbs_g": 125,
+    "fiber_g": 9,
+    "added_sugars_g": 8
+  },
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Cook rice & prep",
+      "text": "In a small pot, combine rice, 2 1/2 cups water, and a pinch of salt. Bring to a boil, then cover and reduce to a low simmer. Cook until rice is tender, 15-18 minutes. Keep covered off heat until ready to serve. Wash and dry produce. Dice potatoes into 1/4-inch pieces. Trim green beans if necessary; cut crosswise into 2-inch pieces. Halve, core, and thinly slice bell pepper into strips. Quarter limes. Roughly chop cilantro. Roughly chop peanuts."
+    },
+    {
+      "step": 2,
+      "title": "Start curry",
+      "text": "Heat a large drizzle of oil in a large high-sided pan over medium-high heat. Add potatoes and a big pinch of salt. Cook, stirring occasionally, until softened, 5 minutes. Add another drizzle of oil, green beans, and bell pepper; stir to combine. Season with curry powder and salt, and cook, stirring constantly, until veggies soften, 2 minutes more."
+    },
+    {
+      "step": 3,
+      "title": "Finish curry",
+      "text": "Thoroughly shake coconut milk in container before opening. Stir coconut milk, chili sauce, lemongrass paste, all the basil paste, 1/2 cup water, and 2 tsp sugar into the pan with veggies. Add a squeeze of lime juice. Bring to a simmer, then reduce heat to medium-low and cover. Simmer until sauce has thickened and veggies are tender, 4-6 minutes. Turn off heat. Taste and season with salt and more lime juice if desired."
+    },
+    {
+      "step": 4,
+      "title": "Serve",
+      "text": "Fluff rice with a fork and stir in 2 TBSP butter. Divide rice between shallow bowls. Top rice with veggie curry. Top curry with cilantro and peanuts. Serve with any remaining lime wedges on the side."
+    }
+  ],
+  "slug": "thai-coconut-and-lemongrass-veggie-curry-with-potatoes-green-beans-bell-pepper-rice-and-peanuts",
+  "sourceWeek": "2026-06-16",
+  "protein": "vegetarian",
+  "starch": "potato",
+  "cuisine": "thai",
+  "staples": [
+    "lemon",
+    "lime",
+    "cilantro",
+    "bell pepper"
+  ]
+}

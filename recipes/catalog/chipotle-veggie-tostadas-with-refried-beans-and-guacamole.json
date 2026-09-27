@@ -1,0 +1,96 @@
+{
+  "name": "Chipotle Veggie Tostadas with Refried Beans & Guacamole",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Flour Tortillas",
+      "quantity": 8,
+      "unit": "pieces"
+    },
+    {
+      "name": "Pinto Beans",
+      "quantity": 2,
+      "unit": "15.5oz can"
+    },
+    {
+      "name": "Poblano Pepper",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Red Onion",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Scallions",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Grape Tomatoes",
+      "quantity": 8,
+      "unit": "oz"
+    },
+    {
+      "name": "Grated Cotija Cheese",
+      "quantity": 4,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Sour Cream",
+      "quantity": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Chipotle Chile Paste",
+      "quantity": 4,
+      "unit": "tsp"
+    },
+    {
+      "name": "Guacamole",
+      "quantity": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Light Brown Sugar",
+      "quantity": 2,
+      "unit": "tbsp"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prepare the ingredients",
+      "text": "Preheat the oven to 450°F. Wash and dry the fresh produce. Thinly slice the scallions, separating the white bottoms and hollow green tops. Drain and rinse the beans. Halve the tomatoes. Halve, peel, and medium dice the onions. Cut off and discard the stem of the peppers. Halve lengthwise; remove the ribs and seeds, then medium dice. In a bowl, combine the guacamole and 2 tablespoons of the sour cream; season with salt and pepper."
+    },
+    {
+      "step": 2,
+      "title": "Cook & mash the beans",
+      "text": "In a large nonstick pan, heat a drizzle of olive oil on medium-high until hot. Add the sliced white bottoms of the scallions; season with salt and pepper. Cook, stirring constantly, 30 seconds to 1 minute, or until slightly softened. Carefully add the drained beans and 1/2 cup of water; season with salt and pepper. Cook, stirring frequently and mashing the beans, 4 to 5 minutes, or until slightly thickened. Transfer to a bowl; stir in the remaining sour cream. Taste, then season with salt and pepper if desired. Cover with foil to keep warm. Rinse and wipe out the pan."
+    },
+    {
+      "step": 3,
+      "title": "Toast the tortillas",
+      "text": "Place the tortillas on a sheet pan. Using a fork, prick the tortillas all over. Drizzle with olive oil and season with salt and pepper; turn to coat. Arrange in an even layer. Toast in the oven 4 to 6 minutes, or until lightly browned and crispy. Remove from the oven."
+    },
+    {
+      "step": 4,
+      "title": "Cook the vegetables",
+      "text": "In the same pan, heat a drizzle of olive oil on medium-high until hot. Add the halved tomatoes, diced onions, and diced peppers in an even layer. Cook, without stirring, 1 to 2 minutes, or until lightly browned. Carefully add the sugar, 4 tablespoons of water, and as much of the chile paste as you'd like. Season with salt and pepper. Cook, stirring occasionally, 3 to 4 minutes, or until the vegetables are coated and softened. Turn off the heat."
+    },
+    {
+      "step": 5,
+      "title": "Assemble the tostadas & serve",
+      "text": "Assemble the tostadas using the toasted tortillas, mashed beans, and cooked vegetables. Serve topped with the creamy guacamole. Garnish with the cotija and sliced green tops of the scallions."
+    }
+  ],
+  "slug": "chipotle-veggie-tostadas-with-refried-beans-and-guacamole",
+  "sourceWeek": "2026-06-16",
+  "protein": "vegetarian",
+  "starch": "bread",
+  "cuisine": "mexican",
+  "staples": [
+    "onion"
+  ]
+}

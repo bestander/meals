@@ -1,0 +1,91 @@
+{
+  "name": "Lemon Herb Chicken & Artichoke-Celery Salad with Couscous & Parmesan",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Israeli Couscous",
+      "quantity": 1.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Parmesan Cheese Block",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Dried Oregano",
+      "quantity": 2,
+      "unit": "tsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "quantity": 2,
+      "unit": "tsp"
+    },
+    {
+      "name": "Celery",
+      "quantity": 5,
+      "unit": "oz"
+    },
+    {
+      "name": "Chicken Stock Concentrate",
+      "quantity": 2,
+      "unit": "packets"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": "pieces"
+    },
+    {
+      "name": "Marinated Artichoke Hearts",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Chicken Cutlets",
+      "quantity": 24,
+      "unit": "oz"
+    }
+  ],
+  "nutrition": {
+    "calories": 590,
+    "protein_g": 49,
+    "fat_g": 23,
+    "saturated_fat_g": 8,
+    "sodium_mg": 500,
+    "carbs_g": 48,
+    "fiber_g": 3
+  },
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prep & cook couscous",
+      "text": "Wash and dry produce. Zest and quarter lemon. Thinly slice celery on a diagonal. Thinly slice artichokes. Melt 2 TBSP butter in a small pot over medium-high heat. Add couscous; cook, stirring, 30 seconds. Stir in 2 cups water, stock concentrate, and a pinch of salt. Bring to a boil, then cover and reduce to a low simmer. Cook until couscous is tender, 6-8 minutes. Keep covered off heat until ready to serve."
+    },
+    {
+      "step": 2,
+      "title": "Make salad",
+      "text": "While couscous cooks, in a medium bowl, whisk together lemon zest, half the oregano, half the garlic powder, a large drizzle of olive oil, juice from two lemon wedges, salt, and pepper. Add celery and artichokes. Grate half the Parmesan into the bowl; toss to combine. Refrigerate until ready to serve."
+    },
+    {
+      "step": 3,
+      "title": "Cook chicken",
+      "text": "Pat chicken dry with paper towels and season all over with remaining oregano, remaining garlic powder, salt, and pepper. Heat a drizzle of oil in a large pan over medium-high heat. Add chicken; cook until browned and cooked through, 5-7 minutes per side. Transfer to a cutting board; squeeze juice from two lemon wedges over chicken."
+    },
+    {
+      "step": 4,
+      "title": "Finish & serve",
+      "text": "Slice chicken crosswise. Divide couscous, chicken, and salad between plates in separate sections. Grate remaining Parmesan over salad. Serve with any remaining lemon wedges on the side."
+    }
+  ],
+  "slug": "lemon-herb-chicken-and-artichoke-celery-salad-with-couscous-and-parmesan",
+  "sourceWeek": "2026-06-16",
+  "protein": "chicken",
+  "starch": "rice",
+  "cuisine": "mediterranean",
+  "staples": [
+    "garlic",
+    "lemon"
+  ]
+}

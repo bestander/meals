@@ -1,0 +1,100 @@
+{
+  "name": "French Onion Soup with Baguette & Grand Cru Cheese",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Small Baguette",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Yellow Onion",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Garlic",
+      "quantity": 4,
+      "unit": "cloves"
+    },
+    {
+      "name": "Thyme",
+      "quantity": 2,
+      "unit": "bunches"
+    },
+    {
+      "name": "Chives",
+      "quantity": 2,
+      "unit": "bunches"
+    },
+    {
+      "name": "Grand Cru Cheese",
+      "quantity": 8,
+      "unit": "oz"
+    },
+    {
+      "name": "Garlic & Herb Flavored Butter",
+      "quantity": 2,
+      "unit": "oz"
+    },
+    {
+      "name": "Chicken Bone Broth",
+      "quantity": 2,
+      "unit": "cup"
+    },
+    {
+      "name": "Soy Sauce",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Beef Broth Concentrate",
+      "quantity": 2,
+      "unit": "tsp"
+    },
+    {
+      "name": "Sherry Vinegar",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "quantity": 4,
+      "unit": "tbsp"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prepare the ingredients",
+      "text": "Preheat the oven to 450°F. Wash and dry the fresh produce. Halve, peel, and thinly slice the onions. Peel and roughly chop 4 cloves of garlic. Pick the thyme leaves off the stems. Cut the baguettes crosswise into equal-sized pieces. Grate the grand cru on the large side of a box grater. Thinly slice the chives."
+    },
+    {
+      "step": 2,
+      "title": "Caramelize the onions",
+      "text": "In a large pot, heat a drizzle of olive oil on medium until hot. Add the sliced onions; season with salt and pepper. Cover and cook, stirring occasionally, 10 to 20 minutes, or until dark and caramelized (if the onions start to burn, add 1 tablespoon of water at a time). Add the chopped garlic and thyme leaves. Cook, stirring occasionally, 2 to 3 minutes, or until softened. Add the vinegar (carefully, as the liquid may splatter) and soy sauce. Cook, stirring constantly, 1 to 2 minutes, or until the liquid has cooked off."
+    },
+    {
+      "step": 3,
+      "title": "Start the soup",
+      "text": "Add the butter. Cook, stirring constantly, 30 seconds to 1 minute, or until melted and combined. Add the flour. Cook, stirring constantly, 1 to 2 minutes, or until thoroughly combined. Carefully add the broth, broth concentrate, and 2 cups of water. Cook, stirring constantly and scraping up any browned bits, 2 to 3 minutes, or until slightly thickened and combined. Season with salt and pepper. Turn off the heat."
+    },
+    {
+      "step": 4,
+      "title": "Finish the soup & serve",
+      "text": "Place 4 oven-safe bowls on a sheet pan. Evenly divide the soup between the bowls; top each with enough baguette pieces to cover. Evenly top with the grated grand cru. Toast in the oven 4 to 6 minutes, or until the cheese is melted. If desired, broil 2 to 3 minutes, or until the cheese is bubbly and golden brown. Remove from the oven. Let stand at least 2 minutes before serving. Garnish with the sliced chives."
+    }
+  ],
+  "slug": "french-onion-soup-with-baguette-and-grand-cru-cheese",
+  "sourceWeek": "2026-06-16",
+  "protein": "chicken",
+  "starch": "bread",
+  "cuisine": "french",
+  "staples": [
+    "onion",
+    "garlic",
+    "butter",
+    "soy sauce",
+    "thyme"
+  ]
+}

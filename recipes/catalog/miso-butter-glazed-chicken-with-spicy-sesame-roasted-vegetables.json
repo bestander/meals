@@ -1,0 +1,97 @@
+{
+  "name": "Miso Butter Glazed Chicken with Spicy Sesame Roasted Vegetables",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Boneless Skinless Chicken Breasts",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Potatoes",
+      "quantity": 24,
+      "unit": "oz"
+    },
+    {
+      "name": "Romanesco Cauliflower",
+      "quantity": 2,
+      "unit": "heads"
+    },
+    {
+      "name": "Scallions",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Salted Butter",
+      "quantity": 1,
+      "unit": "oz"
+    },
+    {
+      "name": "Sweet White Miso Paste",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Gochujang",
+      "quantity": 4,
+      "unit": "tsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Rice Vinegar",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Honey",
+      "quantity": 4,
+      "unit": "tsp"
+    },
+    {
+      "name": "Black & White Sesame Seeds",
+      "quantity": 2,
+      "unit": "tsp"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prepare the ingredients & start the sauce",
+      "text": "Preheat the oven to 450°F. Wash and dry the fresh produce. Cut out and discard the core of the cauliflower; cut into small florets. Medium dice the potatoes. Thinly slice the scallions, separating the white bottoms and hollow green tops. In a large bowl, combine the soy sauce, sesame oil, a drizzle of olive oil, and as much of the gochujang as you'd like. Add the cauliflower florets and diced potatoes; season with salt and pepper. Toss to thoroughly coat. In a separate bowl, whisk together the miso paste, vinegar, honey, sliced white bottoms of the scallions, and 1/2 cup of water."
+    },
+    {
+      "step": 2,
+      "title": "Roast the vegetables",
+      "text": "Line 2 sheet pans with foil. Place the seasoned vegetables on the sheet pans; drizzle with olive oil and arrange in an even layer. Roast 24 to 28 minutes, or until lightly browned and tender when pierced with a fork. Remove from the oven."
+    },
+    {
+      "step": 3,
+      "title": "Cook the chicken",
+      "text": "Meanwhile, pat the chicken dry with paper towels; season with salt and pepper on both sides. In a large nonstick pan, heat a drizzle of olive oil on medium-high until hot. Add the seasoned chicken. Cook 6 to 9 minutes per side, or until browned and cooked through. Transfer to a cutting board. When cool enough to handle, slice the cooked chicken crosswise."
+    },
+    {
+      "step": 4,
+      "title": "Finish the sauce & serve",
+      "text": "Add the sauce to the pan of reserved fond. Cook on medium-high, stirring frequently, 30 seconds to 1 minute, or until slightly thickened. Turn off the heat. Stir in the butter until melted and combined. Serve the sliced chicken with the roasted vegetables. Top the chicken with the finished sauce. Garnish with the sesame seeds and sliced green tops of the scallions."
+    }
+  ],
+  "slug": "miso-butter-glazed-chicken-with-spicy-sesame-roasted-vegetables",
+  "sourceWeek": "2026-06-16",
+  "protein": "chicken",
+  "starch": "potato",
+  "cuisine": "other",
+  "staples": [
+    "butter",
+    "soy sauce"
+  ]
+}

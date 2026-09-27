@@ -1,0 +1,142 @@
+{
+  "name": "Melty Mozzarella, Beef & Zucchini Penne Bake with Cheesy Garlic Bread & Caesar Salad",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "quantity": 1,
+      "unit": "pieces"
+    },
+    {
+      "name": "Caesar Dressing",
+      "quantity": 6,
+      "unit": "oz"
+    },
+    {
+      "name": "Ground Beef",
+      "quantity": 20,
+      "unit": "oz"
+    },
+    {
+      "name": "Demi-Baguette",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Marinara Sauce",
+      "quantity": 28,
+      "unit": "oz"
+    },
+    {
+      "name": "Ricotta Cheese",
+      "quantity": 8,
+      "unit": "oz"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "quantity": 2,
+      "unit": "cup"
+    },
+    {
+      "name": "Baby Lettuce",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Parmesan Cheese Block",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Garlic Powder",
+      "quantity": 2,
+      "unit": "tsp"
+    },
+    {
+      "name": "Garlic Herb Butter",
+      "quantity": 8,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Croutons",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Tomato Paste",
+      "quantity": 1,
+      "unit": "pieces"
+    },
+    {
+      "name": "Chicken Stock Concentrate",
+      "quantity": 4,
+      "unit": "packets"
+    },
+    {
+      "name": "Penne Pasta",
+      "quantity": 12,
+      "unit": "oz"
+    },
+    {
+      "name": "Italian Seasoning",
+      "quantity": 2,
+      "unit": "tbsp"
+    }
+  ],
+  "nutrition": {
+    "calories": 970,
+    "protein_g": 37,
+    "fat_g": 53,
+    "saturated_fat_g": 19,
+    "sodium_mg": 1570,
+    "carbs_g": 77,
+    "fiber_g": 6
+  },
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prep",
+      "text": "Adjust racks to middle and top positions and preheat oven to 425°F. Bring a large pot of salted water to a boil. Wash and dry produce. Trim and quarter zucchini lengthwise; slice crosswise into 1/4-inch-thick quarter-moons. Grate half the Parmesan. Halve baguettes lengthwise. Trim and discard root end from lettuce; chop leaves into bite-size pieces."
+    },
+    {
+      "step": 2,
+      "title": "Cook pasta",
+      "text": "Once water is boiling, add penne to pot. Cook, stirring occasionally, until al dente, 9-11 minutes. Reserve 1 cup pasta cooking water, then drain. Keep empty pot handy for the next step."
+    },
+    {
+      "step": 3,
+      "title": "Make sauce",
+      "text": "While pasta cooks, heat a drizzle of oil in a large pan over medium-high heat. Add zucchini, beef, Italian Seasoning, garlic powder, a big pinch of salt, and pepper. Cook, breaking up meat into pieces, until zucchini is tender and beef is cooked through, 5-7 minutes. Remove pan from heat. Transfer beef mixture to pot used for pasta. Add marinara, tomato paste, stock concentrates, and 1/2 cup reserved pasta cooking water. Bring to a boil over medium-high heat; cook, stirring occasionally, until sauce has slightly thickened, 2-3 minutes. Remove pot from heat."
+    },
+    {
+      "step": 4,
+      "title": "Bake pasta",
+      "text": "Add drained penne to pot with sauce; stir to combine. Taste and season with salt and pepper if needed. Transfer pasta mixture to a lightly oiled 9-by-13-inch baking dish. Carefully dollop ricotta all over pasta and top with half the mozzarella. Bake, uncovered, on middle rack until cheese melts, 10-15 minutes."
+    },
+    {
+      "step": 5,
+      "title": "Bake garlic bread",
+      "text": "Place garlic herb butter in a medium microwave-safe bowl; microwave until softened, 10-15 seconds. Stir in grated Parmesan, remaining mozzarella, half the dressing, and pepper. Evenly spread cut sides of baguettes with butter mixture. Place on a baking sheet and bake on top rack until cheese is browned, 10-15 minutes."
+    },
+    {
+      "step": 6,
+      "title": "Broil pasta",
+      "text": "Once garlic bread is done, remove sheet from oven and increase oven temperature to broil. Transfer penne bake to top rack; broil until cheese is browned, 2-3 minutes more. Remove from the oven and let cool for 5 minutes before serving."
+    },
+    {
+      "step": 7,
+      "title": "Finish & serve",
+      "text": "While penne bake cools, in a large bowl, toss together lettuce, croutons, and remaining dressing. Halve cheesy garlic bread on a diagonal. Transfer salad to a serving bowl; grate remaining Parmesan over top. Serve penne bake, salad, and cheesy garlic bread family style."
+    }
+  ],
+  "slug": "melty-mozzarella-beef-and-zucchini-penne-bake-with-cheesy-garlic-bread-and-caesar-salad",
+  "sourceWeek": "2026-06-16",
+  "protein": "chicken",
+  "starch": "pasta",
+  "cuisine": "other",
+  "staples": [
+    "garlic",
+    "butter",
+    "zucchini"
+  ]
+}

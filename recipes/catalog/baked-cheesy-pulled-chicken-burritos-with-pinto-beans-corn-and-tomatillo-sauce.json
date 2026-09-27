@@ -1,0 +1,64 @@
+{
+  "name": "Baked Cheesy Pulled Chicken Burritos with Pinto Beans, Corn & Tomatillo Sauce",
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "Cooked Pulled Chicken",
+      "quantity": 20,
+      "unit": "oz"
+    },
+    {
+      "name": "Flour Tortillas",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Pinto Beans",
+      "quantity": 2,
+      "unit": "15.5oz can"
+    },
+    {
+      "name": "Fire Grilled Corn",
+      "quantity": 6,
+      "unit": "oz"
+    },
+    {
+      "name": "Shredded Cheddar & Monterey Jack Cheese Blend",
+      "quantity": 4,
+      "unit": "oz"
+    },
+    {
+      "name": "Sour Cream",
+      "quantity": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Guajillo Chile Pepper Sauce",
+      "quantity": 0.67,
+      "unit": "cup"
+    },
+    {
+      "name": "Tomatillo-Poblano Sauce",
+      "quantity": 0.67,
+      "unit": "cup"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Make the filling",
+      "text": "Preheat the oven to 450°F. Drain and rinse the beans. In a large bowl, combine the drained beans, pulled chicken (tearing the pieces apart before adding), guajillo sauce, sour cream, and corn; season with salt and pepper if desired. Stir to combine."
+    },
+    {
+      "step": 2,
+      "title": "Bake the burritos & serve",
+      "text": "Lightly coat a large baking dish with a drizzle of olive oil. Spread about half the filling in the bottom of the baking dish. Wrap the tortillas in a damp paper towel and microwave on high 1 minute, or until heated through. Transfer to a work surface and carefully unwrap. Evenly divide the remaining filling among the center of the bottom half of each tortilla. Fold the three adjacent sides over the filling, then roll away from you until the burrito is seam side down. Transfer the burritos to the baking dish, seam side down. Drizzle with olive oil. Bake 10 minutes, or until the chicken is heated through. Leaving the oven on, remove from the oven. Evenly top with the tomatillo sauce and cheddar and monterey jack. Return to the oven and bake 5 to 7 minutes, or until the cheese is melted. Let stand at least 2 minutes before serving."
+    }
+  ],
+  "slug": "baked-cheesy-pulled-chicken-burritos-with-pinto-beans-corn-and-tomatillo-sauce",
+  "sourceWeek": "2026-06-16",
+  "protein": "chicken",
+  "starch": "bread",
+  "cuisine": "mexican",
+  "staples": []
+}
