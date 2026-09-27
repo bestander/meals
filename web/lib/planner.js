@@ -4,34 +4,40 @@ import { mealLastCooked, weeksSince } from "./storage.js";
 function diversityPenalty(meal, selected) {
   let penalty = 0;
   for (const s of selected) {
-    if (meal.protein === s.protein && meal.protein !== "other") penalty += 3;
-    if (meal.starch === s.starch && meal.starch !== "other") penalty += 2;
-    if (meal.cuisine === s.cuisine && meal.cuisine !== "other") penalty += 1;
+    if (meal.protein === s.protein && meal.protein !== "other") penalty += 8;
+    if (meal.starch === s.starch && meal.starch !== "other") penalty += 4;
+    if (meal.cuisine === s.cuisine && meal.cuisine !== "other") penalty += 3;
   }
   return penalty;
 }
 
 function groupingBonus(meal, selected) {
   if (selected.length === 0) return 0;
-  let bonus = 0;
-  for (const s of selected) {
-    bonus += stapleOverlap(meal, s) * 0.5;
-  }
-  return bonus;
+  let shared = 0;
+  for (const other of selected) shared += stapleOverlap(meal, other);
+  return shared * 2;
 }
 
-function scoreMeal(meal, selected, planning, targetWeek) {
+function hubScore(meal, eligible) {
+  let score = 0;
+  for (const other of eligible) {
+    if (other.name === meal.name) continue;
+    score += stapleOverlap(meal, other);
+  }
+  return Math.min(score, 8);
+}
+
+function scoreMeal(meal, selected, planning, targetWeek, eligible) {
   const lastCooked = mealLastCooked(planning, meal.name);
   const weeks = weeksSince(targetWeek, lastCooked);
   const cooldown = planning.settings.cooldownWeeks;
 
   if (weeks < cooldown) return -Infinity;
 
-  const rotation = weeks === Infinity ? 10 : Math.min(weeks, 12);
-  const diversity = diversityPenalty(meal, selected);
-  const grouping = groupingBonus(meal, selected);
+  const rotation = weeks === Infinity ? 2 : Math.min(weeks, 12) * 0.25;
+  if (selected.length === 0) return rotation + hubScore(meal, eligible);
 
-  return rotation - diversity + grouping;
+  return rotation + groupingBonus(meal, selected) - diversityPenalty(meal, selected);
 }
 
 function pickCandidate(candidates, randomize) {
@@ -64,7 +70,7 @@ export function suggestMeals(
   for (let i = 0; i < count; i++) {
     const candidates = available
       .filter((m) => !selected.some((s) => s.name === m.name))
-      .map((m) => ({ meal: m, score: scoreMeal(m, selected, planning, targetWeek) }))
+      .map((m) => ({ meal: m, score: scoreMeal(m, selected, planning, targetWeek, available) }))
       .filter((c) => c.score > -Infinity)
       .sort((a, b) => b.score - a.score);
 

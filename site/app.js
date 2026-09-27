@@ -302,7 +302,7 @@ function planView() {
     el("header", { class: "view-header" }, [
       el("div", {}, [
         el("h1", {}, "This week"),
-        el("p", { class: "subtitle" }, "Rotation, variety, and shared staples pick the set. Ordering stays outside this site."),
+        el("p", { class: "subtitle" }, "Suggest a set keeps meals that share groceries, and avoids a second meal with the same protein, starch, or cuisine."),
       ]),
       el("label", { class: "field" }, [
         "Week of",
