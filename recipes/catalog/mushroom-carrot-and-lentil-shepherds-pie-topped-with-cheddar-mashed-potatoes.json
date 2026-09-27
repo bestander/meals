@@ -9,7 +9,7 @@
     },
     {
       "name": "Lentils",
-      "quantity": 1,
+      "quantity": 2,
       "unit": "pieces"
     },
     {
@@ -24,7 +24,7 @@
     },
     {
       "name": "Tomato Paste",
-      "quantity": 1,
+      "quantity": 2,
       "unit": "pieces"
     },
     {
@@ -39,12 +39,12 @@
     },
     {
       "name": "Mushroom Stock Concentrate",
-      "quantity": 1,
+      "quantity": 2,
       "unit": "packets"
     },
     {
       "name": "Veggie Stock Concentrate",
-      "quantity": 1,
+      "quantity": 2,
       "unit": "packets"
     },
     {

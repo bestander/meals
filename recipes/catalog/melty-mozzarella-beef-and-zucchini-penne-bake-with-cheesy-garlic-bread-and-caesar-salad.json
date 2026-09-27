@@ -4,7 +4,7 @@
   "ingredients": [
     {
       "name": "Zucchini",
-      "quantity": 1,
+      "quantity": 2,
       "unit": "pieces"
     },
     {
@@ -64,7 +64,7 @@
     },
     {
       "name": "Tomato Paste",
-      "quantity": 1,
+      "quantity": 2,
       "unit": "pieces"
     },
     {

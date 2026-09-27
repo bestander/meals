@@ -555,7 +555,8 @@ function render() {
       : route.name === "recipe"
         ? recipeView()
         : recipesView();
-  app.replaceChildren(nav(), el("main", {}, view), lightboxOverlay());
+  const overlay = lightboxOverlay();
+  app.replaceChildren(nav(), el("main", {}, view), ...(overlay ? [overlay] : []));
   if (focusedId) {
     const next = document.getElementById(focusedId);
     if (next) {

@@ -4,12 +4,12 @@
   "ingredients": [
     {
       "name": "Corn",
-      "quantity": 1,
+      "quantity": 2,
       "unit": "pieces"
     },
     {
       "name": "Lime",
-      "quantity": 1,
+      "quantity": 2,
       "unit": "pieces"
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "name": "Jalapeño",
-      "quantity": 1,
+      "quantity": 2,
       "unit": "pieces"
     },
     {

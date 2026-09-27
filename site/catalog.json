@@ -277,7 +277,7 @@
       },
       {
         "name": "Tomato",
-        "quantity": 0.5,
+        "quantity": 1,
         "unit": "pieces"
       },
       {
@@ -312,7 +312,7 @@
       },
       {
         "name": "Tomato Paste",
-        "quantity": 0.5,
+        "quantity": 1,
         "unit": "pieces"
       },
       {
@@ -992,7 +992,7 @@
     "ingredients": [
       {
         "name": "Thyme",
-        "quantity": 0.5,
+        "quantity": 0.75,
         "unit": "oz"
       },
       {
@@ -1037,7 +1037,7 @@
       },
       {
         "name": "Celery",
-        "quantity": 5,
+        "quantity": 2.5,
         "unit": "oz"
       }
     ],
@@ -1278,7 +1278,7 @@
     "ingredients": [
       {
         "name": "Zucchini",
-        "quantity": 1,
+        "quantity": 2,
         "unit": "pieces"
       },
       {
@@ -1338,7 +1338,7 @@
       },
       {
         "name": "Tomato Paste",
-        "quantity": 1,
+        "quantity": 2,
         "unit": "pieces"
       },
       {
@@ -1530,7 +1530,7 @@
       },
       {
         "name": "Lentils",
-        "quantity": 1,
+        "quantity": 2,
         "unit": "pieces"
       },
       {
@@ -1545,7 +1545,7 @@
       },
       {
         "name": "Tomato Paste",
-        "quantity": 1,
+        "quantity": 2,
         "unit": "pieces"
       },
       {
@@ -1560,12 +1560,12 @@
       },
       {
         "name": "Mushroom Stock Concentrate",
-        "quantity": 1,
+        "quantity": 2,
         "unit": "packets"
       },
       {
         "name": "Veggie Stock Concentrate",
-        "quantity": 1,
+        "quantity": 2,
         "unit": "packets"
       },
       {
@@ -1651,12 +1651,12 @@
     "ingredients": [
       {
         "name": "Corn",
-        "quantity": 1,
+        "quantity": 2,
         "unit": "pieces"
       },
       {
         "name": "Lime",
-        "quantity": 1,
+        "quantity": 2,
         "unit": "pieces"
       },
       {
@@ -1691,7 +1691,7 @@
       },
       {
         "name": "Jalapeño",
-        "quantity": 1,
+        "quantity": 2,
         "unit": "pieces"
       },
       {
@@ -1949,7 +1949,7 @@
       },
       {
         "name": "Coconut Milk",
-        "quantity": 1,
+        "quantity": 2,
         "unit": "pieces"
       },
       {
