@@ -46,15 +46,22 @@ function Nav({ route, setRoute }) {
   `;
 }
 
+function mealThumb(meal) {
+  if (meal.images?.dish) return "dish";
+  if (meal.images?.ingredients) return "ingredients";
+  return null;
+}
+
 function MealCard({ meal, onView, onSwap, showSwap }) {
+  const thumb = mealThumb(meal);
   return html`
     <article class="meal-card">
-      ${meal.images?.ingredients && html`
+      ${thumb && html`
         <img
           class="meal-thumb meal-thumb-clickable"
-          src="/api/images/${meal.slug}/ingredients"
-          alt="Ingredients"
-          onClick=${() => onView(meal.slug, "ingredients")}
+          src="/api/images/${meal.slug}/${thumb}"
+          alt=${thumb === "dish" ? meal.name : "Ingredients"}
+          onClick=${() => onView(meal.slug, thumb === "dish" ? "instructions" : "ingredients")}
         />
       `}
       <div class="meal-card-body">
@@ -669,6 +676,19 @@ function RecipeView({ slug, goBack, initialTab = "instructions" }) {
         ${recipe.cuisine !== "other" && html`<${Tag} label=${recipe.cuisine} variant="cuisine" />`}
         <${Tag} label=${`${recipe.servings} servings`} variant="default" />
       </div>
+
+      ${recipe.images?.dish && html`
+        <img
+          class="recipe-image recipe-image-clickable"
+          src="/api/images/${recipe.slug}/dish"
+          alt=${recipe.name}
+          onClick=${() => setLightbox({
+            src: `/api/images/${recipe.slug}/dish`,
+            alt: recipe.name,
+          })}
+        />
+        ${recipe.photoCredit && html`<p class="photo-credit">${recipe.photoCredit}</p>`}
+      `}
 
       <div class="tabs">
         <button class=${tab === "instructions" ? "tab active" : "tab"} onClick=${() => setTab("instructions")}>

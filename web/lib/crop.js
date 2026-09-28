@@ -11,7 +11,7 @@ const PYTHON = path.join(ROOT, ".venv", "bin", "python");
 export function listCropImages() {
   return fs
     .readdirSync(IMAGES_DIR)
-    .filter((f) => f.endsWith(".jpg") && !f.startsWith("_"))
+    .filter((f) => f.endsWith(".jpg") && !f.startsWith("_") && !f.endsWith("-dish.jpg"))
     .sort()
     .map((name) => ({ name }));
 }

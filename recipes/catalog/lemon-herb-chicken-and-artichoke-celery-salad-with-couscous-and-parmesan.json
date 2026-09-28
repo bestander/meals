@@ -90,6 +90,7 @@
   ],
   "images": {
     "ingredients": "../recipes/images/lemon-herb-chicken-and-artichoke-celery-salad-with-couscous-and-parmesan-ingredients.jpg",
-    "instructions": "../recipes/images/lemon-herb-chicken-and-artichoke-celery-salad-with-couscous-and-parmesan-instructions.jpg"
+    "instructions": "../recipes/images/lemon-herb-chicken-and-artichoke-celery-salad-with-couscous-and-parmesan-instructions.jpg",
+    "dish": null
   }
 }

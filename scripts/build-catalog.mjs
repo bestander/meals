@@ -19,6 +19,7 @@ const catalog = loadCatalog().map(({ images, ...meal }) => ({
   images: {
     ingredients: imageUrl(meal.slug, "ingredients"),
     instructions: imageUrl(meal.slug, "instructions"),
+    dish: imageUrl(meal.slug, "dish"),
   },
 }));
 

@@ -1,0 +1,80 @@
+{
+  "name": "Chicken Saltimbocca",
+  "servings": 4,
+  "source": "https://www.insidetherustickitchen.com/chicken-saltimbocca/",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Prosciutto",
+      "quantity": 4,
+      "unit": "slices"
+    },
+    {
+      "name": "Sage",
+      "quantity": 8,
+      "unit": "leaves"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "quantity": 0.25,
+      "unit": "cup"
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "White Wine",
+      "quantity": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Butter",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": "pieces"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prepare the cutlets",
+      "text": "Cut each chicken breast in half horizontally and pound the pieces to about 1/4 inch thick. Season lightly with pepper. Lay a slice of prosciutto and a sage leaf on each cutlet and secure them with a toothpick. Dust lightly with flour."
+    },
+    {
+      "step": 2,
+      "title": "Brown the chicken",
+      "text": "Heat the olive oil in a large skillet over medium heat. Cook the cutlets prosciutto-side down 4 to 5 minutes, until the ham is crisp, then flip and cook about 4 minutes more, until the chicken is cooked through. Set them on a plate."
+    },
+    {
+      "step": 3,
+      "title": "Make the wine sauce",
+      "text": "Pour the wine into the skillet and scrape up the browned bits. Simmer 2 to 3 minutes, until reduced by about half. Take the pan off the heat and swirl in the butter. Pull out the toothpicks, spoon the sauce over the chicken, and finish with a squeeze of lemon. Use chicken stock instead of wine if you prefer."
+    }
+  ],
+  "photoCredit": "Photo: Fanny Schertzer, Wikimedia Commons (CC BY 3.0)",
+  "slug": "chicken-saltimbocca",
+  "sourceWeek": "2026-09-27",
+  "protein": "chicken",
+  "starch": "other",
+  "cuisine": "italian",
+  "staples": [
+    "lemon",
+    "butter",
+    "olive oil"
+  ],
+  "images": {
+    "ingredients": null,
+    "instructions": null,
+    "dish": "../recipes/images/chicken-saltimbocca-dish.jpg"
+  }
+}

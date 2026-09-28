@@ -17,7 +17,8 @@
       "sourceWeek": "2026-06-16",
       "images": {
         "ingredients": "../recipes/images/apricot-almond-and-chickpea-tagine-with-zucchini-basmati-rice-and-chermoula-ingredients.jpg",
-        "instructions": "../recipes/images/apricot-almond-and-chickpea-tagine-with-zucchini-basmati-rice-and-chermoula-instructions.jpg"
+        "instructions": "../recipes/images/apricot-almond-and-chickpea-tagine-with-zucchini-basmati-rice-and-chermoula-instructions.jpg",
+        "dish": null
       },
       "file": "apricot-almond-and-chickpea-tagine-with-zucchini-basmati-rice-and-chermoula.json"
     },
@@ -32,7 +33,8 @@
       "sourceWeek": "2026-06-16",
       "images": {
         "ingredients": "../recipes/images/baked-cheesy-pulled-chicken-burritos-with-pinto-beans-corn-and-tomatillo-sauce-ingredients.jpg",
-        "instructions": "../recipes/images/baked-cheesy-pulled-chicken-burritos-with-pinto-beans-corn-and-tomatillo-sauce-instructions.jpg"
+        "instructions": "../recipes/images/baked-cheesy-pulled-chicken-burritos-with-pinto-beans-corn-and-tomatillo-sauce-instructions.jpg",
+        "dish": null
       },
       "file": "baked-cheesy-pulled-chicken-burritos-with-pinto-beans-corn-and-tomatillo-sauce.json"
     },
@@ -47,7 +49,8 @@
       "sourceWeek": "2026-04-20",
       "images": {
         "ingredients": null,
-        "instructions": null
+        "instructions": null,
+        "dish": null
       },
       "file": "baked-paneer-curry.json"
     },
@@ -55,7 +58,7 @@
       "slug": "cheesy-mexican-style-beef-stuffed-peppers",
       "name": "Cheesy Mexican-Style Beef Stuffed Peppers",
       "servings": 4,
-      "protein": "chicken",
+      "protein": "beef",
       "starch": "rice",
       "cuisine": "mexican",
       "staples": [
@@ -67,7 +70,8 @@
       "sourceWeek": "2026-06-16",
       "images": {
         "ingredients": "../recipes/images/cheesy-mexican-style-beef-stuffed-peppers-ingredients.jpg",
-        "instructions": "../recipes/images/cheesy-mexican-style-beef-stuffed-peppers-instructions.jpg"
+        "instructions": "../recipes/images/cheesy-mexican-style-beef-stuffed-peppers-instructions.jpg",
+        "dish": null
       },
       "file": "cheesy-mexican-style-beef-stuffed-peppers.json"
     },
@@ -85,9 +89,30 @@
       "sourceWeek": "2026-06-16",
       "images": {
         "ingredients": "../recipes/images/cheesy-zucchini-and-onion-quiche-with-hot-honey-romanesco-ingredients.jpg",
-        "instructions": "../recipes/images/cheesy-zucchini-and-onion-quiche-with-hot-honey-romanesco-instructions.jpg"
+        "instructions": "../recipes/images/cheesy-zucchini-and-onion-quiche-with-hot-honey-romanesco-instructions.jpg",
+        "dish": null
       },
       "file": "cheesy-zucchini-and-onion-quiche-with-hot-honey-romanesco.json"
+    },
+    {
+      "slug": "chicken-saltimbocca",
+      "name": "Chicken Saltimbocca",
+      "servings": 4,
+      "protein": "chicken",
+      "starch": "other",
+      "cuisine": "italian",
+      "staples": [
+        "lemon",
+        "butter",
+        "olive oil"
+      ],
+      "sourceWeek": "2026-09-27",
+      "images": {
+        "ingredients": null,
+        "instructions": null,
+        "dish": "../recipes/images/chicken-saltimbocca-dish.jpg"
+      },
+      "file": "chicken-saltimbocca.json"
     },
     {
       "slug": "chipotle-veggie-tostadas-with-refried-beans-and-guacamole",
@@ -102,9 +127,52 @@
       "sourceWeek": "2026-06-16",
       "images": {
         "ingredients": "../recipes/images/chipotle-veggie-tostadas-with-refried-beans-and-guacamole-ingredients.jpg",
-        "instructions": "../recipes/images/chipotle-veggie-tostadas-with-refried-beans-and-guacamole-instructions.jpg"
+        "instructions": "../recipes/images/chipotle-veggie-tostadas-with-refried-beans-and-guacamole-instructions.jpg",
+        "dish": null
       },
       "file": "chipotle-veggie-tostadas-with-refried-beans-and-guacamole.json"
+    },
+    {
+      "slug": "cod-provencal-with-tomatoes-capers-and-olives",
+      "name": "Cod Provençal with Tomatoes, Capers and Olives",
+      "servings": 4,
+      "protein": "fish",
+      "starch": "bread",
+      "cuisine": "french",
+      "staples": [
+        "onion",
+        "garlic",
+        "lemon",
+        "olive oil",
+        "thyme",
+        "parsley"
+      ],
+      "sourceWeek": "2026-09-27",
+      "images": {
+        "ingredients": null,
+        "instructions": null,
+        "dish": "../recipes/images/cod-provencal-with-tomatoes-capers-and-olives-dish.jpg"
+      },
+      "file": "cod-provencal-with-tomatoes-capers-and-olives.json"
+    },
+    {
+      "slug": "confit-duck-legs-with-lentils",
+      "name": "Confit Duck Legs with Lentils",
+      "servings": 4,
+      "protein": "duck",
+      "starch": "bread",
+      "cuisine": "french",
+      "staples": [
+        "olive oil",
+        "parsley"
+      ],
+      "sourceWeek": "2026-09-27",
+      "images": {
+        "ingredients": null,
+        "instructions": null,
+        "dish": "../recipes/images/confit-duck-legs-with-lentils-dish.jpg"
+      },
+      "file": "confit-duck-legs-with-lentils.json"
     },
     {
       "slug": "cozy-meatloaves-with-creamy-onion-gravy-plus-roasted-parsnips-carrots-and-potatoes",
@@ -121,9 +189,29 @@
       "sourceWeek": "2026-06-16",
       "images": {
         "ingredients": "../recipes/images/cozy-meatloaves-with-creamy-onion-gravy-plus-roasted-parsnips-carrots-and-potatoes-ingredients.jpg",
-        "instructions": "../recipes/images/cozy-meatloaves-with-creamy-onion-gravy-plus-roasted-parsnips-carrots-and-potatoes-instructions.jpg"
+        "instructions": "../recipes/images/cozy-meatloaves-with-creamy-onion-gravy-plus-roasted-parsnips-carrots-and-potatoes-instructions.jpg",
+        "dish": null
       },
       "file": "cozy-meatloaves-with-creamy-onion-gravy-plus-roasted-parsnips-carrots-and-potatoes.json"
+    },
+    {
+      "slug": "duck-breast-with-cherry-sauce",
+      "name": "Duck Breast with Cherry Sauce",
+      "servings": 4,
+      "protein": "duck",
+      "starch": "potato",
+      "cuisine": "french",
+      "staples": [
+        "butter",
+        "thyme"
+      ],
+      "sourceWeek": "2026-09-27",
+      "images": {
+        "ingredients": null,
+        "instructions": null,
+        "dish": "../recipes/images/duck-breast-with-cherry-sauce-dish.jpg"
+      },
+      "file": "duck-breast-with-cherry-sauce.json"
     },
     {
       "slug": "french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus",
@@ -138,7 +226,8 @@
       "sourceWeek": "2026-06-16",
       "images": {
         "ingredients": "../recipes/images/french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus-ingredients.jpg",
-        "instructions": "../recipes/images/french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus-instructions.jpg"
+        "instructions": "../recipes/images/french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus-instructions.jpg",
+        "dish": null
       },
       "file": "french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus.json"
     },
@@ -159,7 +248,8 @@
       "sourceWeek": "2026-06-16",
       "images": {
         "ingredients": "../recipes/images/french-onion-soup-with-baguette-and-grand-cru-cheese-ingredients.jpg",
-        "instructions": "../recipes/images/french-onion-soup-with-baguette-and-grand-cru-cheese-instructions.jpg"
+        "instructions": "../recipes/images/french-onion-soup-with-baguette-and-grand-cru-cheese-instructions.jpg",
+        "dish": null
       },
       "file": "french-onion-soup-with-baguette-and-grand-cru-cheese.json"
     },
@@ -178,7 +268,8 @@
       "sourceWeek": "2026-06-16",
       "images": {
         "ingredients": "../recipes/images/glazed-pork-roast-and-veggie-fried-rice-with-cumin-sichuan-mayo-ingredients.jpg",
-        "instructions": "../recipes/images/glazed-pork-roast-and-veggie-fried-rice-with-cumin-sichuan-mayo-instructions.jpg"
+        "instructions": "../recipes/images/glazed-pork-roast-and-veggie-fried-rice-with-cumin-sichuan-mayo-instructions.jpg",
+        "dish": null
       },
       "file": "glazed-pork-roast-and-veggie-fried-rice-with-cumin-sichuan-mayo.json"
     },
@@ -199,7 +290,8 @@
       "sourceWeek": "2026-06-16",
       "images": {
         "ingredients": "../recipes/images/homestyle-turkey-and-biscuit-pot-pie-with-buttermilk-biscuits-ingredients.jpg",
-        "instructions": "../recipes/images/homestyle-turkey-and-biscuit-pot-pie-with-buttermilk-biscuits-instructions.jpg"
+        "instructions": "../recipes/images/homestyle-turkey-and-biscuit-pot-pie-with-buttermilk-biscuits-instructions.jpg",
+        "dish": null
       },
       "file": "homestyle-turkey-and-biscuit-pot-pie-with-buttermilk-biscuits.json"
     },
@@ -214,7 +306,8 @@
       "sourceWeek": "2026-06-16",
       "images": {
         "ingredients": "../recipes/images/indian-style-baked-paneer-curry-with-chickpeas-and-toasted-naan-ingredients.jpg",
-        "instructions": "../recipes/images/indian-style-baked-paneer-curry-with-chickpeas-and-toasted-naan-instructions.jpg"
+        "instructions": "../recipes/images/indian-style-baked-paneer-curry-with-chickpeas-and-toasted-naan-instructions.jpg",
+        "dish": null
       },
       "file": "indian-style-baked-paneer-curry-with-chickpeas-and-toasted-naan.json"
     },
@@ -232,7 +325,8 @@
       "sourceWeek": "2026-06-16",
       "images": {
         "ingredients": "../recipes/images/lemon-herb-chicken-and-artichoke-celery-salad-with-couscous-and-parmesan-ingredients.jpg",
-        "instructions": "../recipes/images/lemon-herb-chicken-and-artichoke-celery-salad-with-couscous-and-parmesan-instructions.jpg"
+        "instructions": "../recipes/images/lemon-herb-chicken-and-artichoke-celery-salad-with-couscous-and-parmesan-instructions.jpg",
+        "dish": null
       },
       "file": "lemon-herb-chicken-and-artichoke-celery-salad-with-couscous-and-parmesan.json"
     },
@@ -240,7 +334,7 @@
       "slug": "melty-mozzarella-beef-and-zucchini-penne-bake-with-cheesy-garlic-bread-and-caesar-salad",
       "name": "Melty Mozzarella, Beef & Zucchini Penne Bake with Cheesy Garlic Bread & Caesar Salad",
       "servings": 4,
-      "protein": "chicken",
+      "protein": "beef",
       "starch": "pasta",
       "cuisine": "other",
       "staples": [
@@ -251,7 +345,8 @@
       "sourceWeek": "2026-06-16",
       "images": {
         "ingredients": "../recipes/images/melty-mozzarella-beef-and-zucchini-penne-bake-with-cheesy-garlic-bread-and-caesar-salad-ingredients.jpg",
-        "instructions": "../recipes/images/melty-mozzarella-beef-and-zucchini-penne-bake-with-cheesy-garlic-bread-and-caesar-salad-instructions.jpg"
+        "instructions": "../recipes/images/melty-mozzarella-beef-and-zucchini-penne-bake-with-cheesy-garlic-bread-and-caesar-salad-instructions.jpg",
+        "dish": null
       },
       "file": "melty-mozzarella-beef-and-zucchini-penne-bake-with-cheesy-garlic-bread-and-caesar-salad.json"
     },
@@ -269,9 +364,30 @@
       "sourceWeek": "2026-06-16",
       "images": {
         "ingredients": "../recipes/images/miso-butter-glazed-chicken-with-spicy-sesame-roasted-vegetables-ingredients.jpg",
-        "instructions": "../recipes/images/miso-butter-glazed-chicken-with-spicy-sesame-roasted-vegetables-instructions.jpg"
+        "instructions": "../recipes/images/miso-butter-glazed-chicken-with-spicy-sesame-roasted-vegetables-instructions.jpg",
+        "dish": null
       },
       "file": "miso-butter-glazed-chicken-with-spicy-sesame-roasted-vegetables.json"
+    },
+    {
+      "slug": "moules-mariniere",
+      "name": "Moules Marinière",
+      "servings": 4,
+      "protein": "fish",
+      "starch": "bread",
+      "cuisine": "french",
+      "staples": [
+        "garlic",
+        "butter",
+        "parsley"
+      ],
+      "sourceWeek": "2026-09-27",
+      "images": {
+        "ingredients": null,
+        "instructions": null,
+        "dish": "../recipes/images/moules-mariniere-dish.jpg"
+      },
+      "file": "moules-mariniere.json"
     },
     {
       "slug": "mushroom-carrot-and-lentil-shepherds-pie-topped-with-cheddar-mashed-potatoes",
@@ -288,7 +404,8 @@
       "sourceWeek": "2026-06-16",
       "images": {
         "ingredients": "../recipes/images/mushroom-carrot-and-lentil-shepherds-pie-topped-with-cheddar-mashed-potatoes-ingredients.jpg",
-        "instructions": "../recipes/images/mushroom-carrot-and-lentil-shepherds-pie-topped-with-cheddar-mashed-potatoes-instructions.jpg"
+        "instructions": "../recipes/images/mushroom-carrot-and-lentil-shepherds-pie-topped-with-cheddar-mashed-potatoes-instructions.jpg",
+        "dish": null
       },
       "file": "mushroom-carrot-and-lentil-shepherds-pie-topped-with-cheddar-mashed-potatoes.json"
     },
@@ -305,9 +422,49 @@
       "sourceWeek": "2026-06-16",
       "images": {
         "ingredients": "../recipes/images/pistachio-cod-with-mango-jalapeno-salsa-plus-purple-sweet-potato-mash-asparagus-and-charred-corn-ingredients.jpg",
-        "instructions": "../recipes/images/pistachio-cod-with-mango-jalapeno-salsa-plus-purple-sweet-potato-mash-asparagus-and-charred-corn-instructions.jpg"
+        "instructions": "../recipes/images/pistachio-cod-with-mango-jalapeno-salsa-plus-purple-sweet-potato-mash-asparagus-and-charred-corn-instructions.jpg",
+        "dish": null
       },
       "file": "pistachio-cod-with-mango-jalapeno-salsa-plus-purple-sweet-potato-mash-asparagus-and-charred-corn.json"
+    },
+    {
+      "slug": "pork-chops-with-dijon-sauce",
+      "name": "Pork Chops with Dijon Sauce",
+      "servings": 4,
+      "protein": "pork",
+      "starch": "other",
+      "cuisine": "french",
+      "staples": [
+        "butter",
+        "olive oil",
+        "parsley"
+      ],
+      "sourceWeek": "2026-09-27",
+      "images": {
+        "ingredients": null,
+        "instructions": null,
+        "dish": "../recipes/images/pork-chops-with-dijon-sauce-dish.jpg"
+      },
+      "file": "pork-chops-with-dijon-sauce.json"
+    },
+    {
+      "slug": "rosemary-lamb-chops-with-potatoes-and-tomatoes",
+      "name": "Rosemary Lamb Chops with Potatoes and Tomatoes",
+      "servings": 4,
+      "protein": "lamb",
+      "starch": "potato",
+      "cuisine": "mediterranean",
+      "staples": [
+        "garlic",
+        "olive oil"
+      ],
+      "sourceWeek": "2026-09-27",
+      "images": {
+        "ingredients": null,
+        "instructions": null,
+        "dish": "../recipes/images/rosemary-lamb-chops-with-potatoes-and-tomatoes-dish.jpg"
+      },
+      "file": "rosemary-lamb-chops-with-potatoes-and-tomatoes.json"
     },
     {
       "slug": "smoky-gouda-cheeseburgers-with-caramelized-onion-and-roasted-carrots",
@@ -323,7 +480,8 @@
       "sourceWeek": "2026-06-16",
       "images": {
         "ingredients": "../recipes/images/smoky-gouda-cheeseburgers-with-caramelized-onion-and-roasted-carrots-ingredients.jpg",
-        "instructions": "../recipes/images/smoky-gouda-cheeseburgers-with-caramelized-onion-and-roasted-carrots-instructions.jpg"
+        "instructions": "../recipes/images/smoky-gouda-cheeseburgers-with-caramelized-onion-and-roasted-carrots-instructions.jpg",
+        "dish": null
       },
       "file": "smoky-gouda-cheeseburgers-with-caramelized-onion-and-roasted-carrots.json"
     },
@@ -338,9 +496,70 @@
       "sourceWeek": "2026-06-16",
       "images": {
         "ingredients": "../recipes/images/southwest-chipotle-chicken-sandwich-with-crispy-bacon-and-avocado-ingredients.jpg",
-        "instructions": "../recipes/images/southwest-chipotle-chicken-sandwich-with-crispy-bacon-and-avocado-instructions.jpg"
+        "instructions": "../recipes/images/southwest-chipotle-chicken-sandwich-with-crispy-bacon-and-avocado-instructions.jpg",
+        "dish": null
       },
       "file": "southwest-chipotle-chicken-sandwich-with-crispy-bacon-and-avocado.json"
+    },
+    {
+      "slug": "spanish-garlic-pork-tenderloin",
+      "name": "Spanish Garlic Pork Tenderloin",
+      "servings": 4,
+      "protein": "pork",
+      "starch": "potato",
+      "cuisine": "spanish",
+      "staples": [
+        "garlic",
+        "olive oil",
+        "thyme",
+        "parsley"
+      ],
+      "sourceWeek": "2026-09-27",
+      "images": {
+        "ingredients": null,
+        "instructions": null,
+        "dish": "../recipes/images/spanish-garlic-pork-tenderloin-dish.jpg"
+      },
+      "file": "spanish-garlic-pork-tenderloin.json"
+    },
+    {
+      "slug": "steak-au-poivre",
+      "name": "Steak au Poivre",
+      "servings": 4,
+      "protein": "beef",
+      "starch": "other",
+      "cuisine": "french",
+      "staples": [
+        "butter",
+        "olive oil",
+        "thyme"
+      ],
+      "sourceWeek": "2026-09-27",
+      "images": {
+        "ingredients": null,
+        "instructions": null,
+        "dish": "../recipes/images/steak-au-poivre-dish.jpg"
+      },
+      "file": "steak-au-poivre.json"
+    },
+    {
+      "slug": "steak-tagliata-with-rocket-tomatoes-and-parmesan",
+      "name": "Steak Tagliata with Rocket, Tomatoes and Parmesan",
+      "servings": 4,
+      "protein": "beef",
+      "starch": "potato",
+      "cuisine": "italian",
+      "staples": [
+        "garlic",
+        "olive oil"
+      ],
+      "sourceWeek": "2026-09-27",
+      "images": {
+        "ingredients": null,
+        "instructions": null,
+        "dish": "../recipes/images/steak-tagliata-with-rocket-tomatoes-and-parmesan-dish.jpg"
+      },
+      "file": "steak-tagliata-with-rocket-tomatoes-and-parmesan.json"
     },
     {
       "slug": "thai-coconut-and-lemongrass-veggie-curry-with-potatoes-green-beans-bell-pepper-rice-and-peanuts",
@@ -358,7 +577,8 @@
       "sourceWeek": "2026-06-16",
       "images": {
         "ingredients": "../recipes/images/thai-coconut-and-lemongrass-veggie-curry-with-potatoes-green-beans-bell-pepper-rice-and-peanuts-ingredients.jpg",
-        "instructions": "../recipes/images/thai-coconut-and-lemongrass-veggie-curry-with-potatoes-green-beans-bell-pepper-rice-and-peanuts-instructions.jpg"
+        "instructions": "../recipes/images/thai-coconut-and-lemongrass-veggie-curry-with-potatoes-green-beans-bell-pepper-rice-and-peanuts-instructions.jpg",
+        "dish": null
       },
       "file": "thai-coconut-and-lemongrass-veggie-curry-with-potatoes-green-beans-bell-pepper-rice-and-peanuts.json"
     }

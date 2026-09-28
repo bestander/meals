@@ -1,0 +1,86 @@
+{
+  "name": "Spanish Garlic Pork Tenderloin",
+  "servings": 4,
+  "source": "https://spainonafork.com/spanish-garlic-pork-tenderloin-authentic-solomillo-al-ajillo-recipe/",
+  "ingredients": [
+    {
+      "name": "Pork Tenderloin",
+      "quantity": 1.25,
+      "unit": "lb"
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": 0.25,
+      "unit": "cup"
+    },
+    {
+      "name": "Garlic",
+      "quantity": 14,
+      "unit": "cloves"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "White Wine",
+      "quantity": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Chicken Stock",
+      "quantity": 1,
+      "unit": "cup"
+    },
+    {
+      "name": "Thyme",
+      "quantity": 4,
+      "unit": "sprigs"
+    },
+    {
+      "name": "Parsley",
+      "quantity": 1,
+      "unit": "bunch"
+    },
+    {
+      "name": "Yukon Gold Potato",
+      "quantity": 1.5,
+      "unit": "lb"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Roast the potatoes",
+      "text": "Heat the oven to 425°F. Cut the potatoes into wedges, toss with a spoonful of the olive oil, salt, and pepper, and roast about 25 minutes."
+    },
+    {
+      "step": 2,
+      "title": "Sear the pork",
+      "text": "Slice the tenderloin into 3/4-inch medallions and season them. Warm the rest of the oil in a large skillet. Add 6 unpeeled garlic cloves and cook about 5 minutes, until fragrant, then set them aside. Sear the medallions about 2 minutes per side and set them aside. They finish in the sauce."
+    },
+    {
+      "step": 3,
+      "title": "Make the garlic sauce",
+      "text": "Thinly slice the remaining garlic and cook it in the same pan for 1 minute. Stir in the flour, then the wine, and cook until the wine reduces. Add the stock and thyme and simmer about 4 minutes, until lightly thickened. Return the pork and the cooked garlic cloves and simmer 3 to 4 minutes, until the pork reaches 145°F. Chop the parsley and scatter it over the top. Serve with the potatoes."
+    }
+  ],
+  "photoCredit": "Photo: Anagoria, Wikimedia Commons (CC BY-SA 4.0)",
+  "slug": "spanish-garlic-pork-tenderloin",
+  "sourceWeek": "2026-09-27",
+  "protein": "pork",
+  "starch": "potato",
+  "cuisine": "spanish",
+  "staples": [
+    "garlic",
+    "olive oil",
+    "thyme",
+    "parsley"
+  ],
+  "images": {
+    "ingredients": null,
+    "instructions": null,
+    "dish": "../recipes/images/spanish-garlic-pork-tenderloin-dish.jpg"
+  }
+}

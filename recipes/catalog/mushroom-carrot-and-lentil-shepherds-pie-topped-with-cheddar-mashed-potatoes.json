@@ -121,6 +121,7 @@
   ],
   "images": {
     "ingredients": "../recipes/images/mushroom-carrot-and-lentil-shepherds-pie-topped-with-cheddar-mashed-potatoes-ingredients.jpg",
-    "instructions": "../recipes/images/mushroom-carrot-and-lentil-shepherds-pie-topped-with-cheddar-mashed-potatoes-instructions.jpg"
+    "instructions": "../recipes/images/mushroom-carrot-and-lentil-shepherds-pie-topped-with-cheddar-mashed-potatoes-instructions.jpg",
+    "dish": null
   }
 }

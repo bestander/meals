@@ -1,0 +1,89 @@
+{
+  "name": "Confit Duck Legs with Lentils",
+  "servings": 4,
+  "source": "https://www.waitrose.com/ecom/recipe/easy-confit-duck-and-lentil-casserole",
+  "ingredients": [
+    {
+      "name": "Confit Duck Legs",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Leek",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Rosemary",
+      "quantity": 4,
+      "unit": "sprigs"
+    },
+    {
+      "name": "Tomato",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Tomato Paste",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Canned Lentils",
+      "quantity": 2,
+      "unit": "cans"
+    },
+    {
+      "name": "Chicken Stock",
+      "quantity": 2,
+      "unit": "cup"
+    },
+    {
+      "name": "Parsley",
+      "quantity": 1,
+      "unit": "bunch"
+    },
+    {
+      "name": "Crusty Bread",
+      "quantity": 1,
+      "unit": "loaf"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Warm the duck",
+      "text": "Heat the oven to 400°F. Put the confit duck legs and any fat from the package in a baking dish, cover, and bake 15 minutes. Use legs that are already confit; cooking raw legs in fat takes several hours."
+    },
+    {
+      "step": 2,
+      "title": "Cook the lentils",
+      "text": "Meanwhile, slice the leeks and chop the tomatoes. Warm the olive oil in an ovenproof skillet and cook the leeks with the rosemary for about 5 minutes, until soft. Stir in the tomatoes, tomato paste, and drained lentils. Cook 10 minutes, then stir in 1 cup of the stock."
+    },
+    {
+      "step": 3,
+      "title": "Crisp and serve",
+      "text": "Raise the oven to 425°F. Lift the duck out of its fat and set the legs on the lentils. Bake uncovered about 15 minutes, until the skin is browned. Loosen the lentils with a splash more stock if they look dry. Chop the parsley, scatter it over the top, and serve with the bread."
+    }
+  ],
+  "photoCredit": "Photo: Tangopaso, Wikimedia Commons (CC BY-SA 3.0)",
+  "slug": "confit-duck-legs-with-lentils",
+  "sourceWeek": "2026-09-27",
+  "protein": "duck",
+  "starch": "bread",
+  "cuisine": "french",
+  "staples": [
+    "olive oil",
+    "parsley"
+  ],
+  "images": {
+    "ingredients": null,
+    "instructions": null,
+    "dish": "../recipes/images/confit-duck-legs-with-lentils-dish.jpg"
+  }
+}

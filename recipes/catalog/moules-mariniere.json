@@ -1,0 +1,75 @@
+{
+  "name": "Moules Marinière",
+  "servings": 4,
+  "source": "https://www.bbcgoodfood.com/recipes/moules-mariniere",
+  "ingredients": [
+    {
+      "name": "Mussels",
+      "quantity": 4,
+      "unit": "lb"
+    },
+    {
+      "name": "Butter",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Shallot",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Garlic",
+      "quantity": 1,
+      "unit": "cloves"
+    },
+    {
+      "name": "White Wine",
+      "quantity": 1,
+      "unit": "cup"
+    },
+    {
+      "name": "Parsley",
+      "quantity": 1,
+      "unit": "bunch"
+    },
+    {
+      "name": "Crusty Bread",
+      "quantity": 1,
+      "unit": "loaf"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Clean the mussels",
+      "text": "Rinse the mussels under cold water. Pull off any beards and scrub the shells. Discard any that are cracked, and any that stay open when you tap them."
+    },
+    {
+      "step": 2,
+      "title": "Steam",
+      "text": "Melt the butter in a large pot with a lid. Cook the sliced shallots and chopped garlic 3 to 4 minutes, until soft. Add the mussels and wine, cover, and cook over high heat 4 to 5 minutes, shaking the pot once or twice, until the shells open. Discard any that stay closed."
+    },
+    {
+      "step": 3,
+      "title": "Serve",
+      "text": "Stir in the chopped parsley and a little black pepper. Spoon the mussels and their broth into bowls and serve with the bread for dipping."
+    }
+  ],
+  "photoCredit": "Photo: Thomon, Wikimedia Commons (CC BY-SA 4.0)",
+  "slug": "moules-mariniere",
+  "sourceWeek": "2026-09-27",
+  "protein": "fish",
+  "starch": "bread",
+  "cuisine": "french",
+  "staples": [
+    "garlic",
+    "butter",
+    "parsley"
+  ],
+  "images": {
+    "ingredients": null,
+    "instructions": null,
+    "dish": "../recipes/images/moules-mariniere-dish.jpg"
+  }
+}

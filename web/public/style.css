@@ -305,6 +305,12 @@ h2 { font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem; }
   opacity: 0.92;
 }
 
+.photo-credit {
+  margin: -1rem 0 1.25rem;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
 .image-lightbox-overlay {
   position: fixed;
   inset: 0;

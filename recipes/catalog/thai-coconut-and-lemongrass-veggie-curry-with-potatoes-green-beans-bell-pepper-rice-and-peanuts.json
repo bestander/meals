@@ -108,6 +108,7 @@
   ],
   "images": {
     "ingredients": "../recipes/images/thai-coconut-and-lemongrass-veggie-curry-with-potatoes-green-beans-bell-pepper-rice-and-peanuts-ingredients.jpg",
-    "instructions": "../recipes/images/thai-coconut-and-lemongrass-veggie-curry-with-potatoes-green-beans-bell-pepper-rice-and-peanuts-instructions.jpg"
+    "instructions": "../recipes/images/thai-coconut-and-lemongrass-veggie-curry-with-potatoes-green-beans-bell-pepper-rice-and-peanuts-instructions.jpg",
+    "dish": null
   }
 }

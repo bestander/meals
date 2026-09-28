@@ -63,6 +63,7 @@
   "staples": [],
   "images": {
     "ingredients": "../recipes/images/baked-cheesy-pulled-chicken-burritos-with-pinto-beans-corn-and-tomatillo-sauce-ingredients.jpg",
-    "instructions": "../recipes/images/baked-cheesy-pulled-chicken-burritos-with-pinto-beans-corn-and-tomatillo-sauce-instructions.jpg"
+    "instructions": "../recipes/images/baked-cheesy-pulled-chicken-burritos-with-pinto-beans-corn-and-tomatillo-sauce-instructions.jpg",
+    "dish": null
   }
 }

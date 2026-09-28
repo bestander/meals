@@ -111,6 +111,7 @@
   ],
   "images": {
     "ingredients": "../recipes/images/cozy-meatloaves-with-creamy-onion-gravy-plus-roasted-parsnips-carrots-and-potatoes-ingredients.jpg",
-    "instructions": "../recipes/images/cozy-meatloaves-with-creamy-onion-gravy-plus-roasted-parsnips-carrots-and-potatoes-instructions.jpg"
+    "instructions": "../recipes/images/cozy-meatloaves-with-creamy-onion-gravy-plus-roasted-parsnips-carrots-and-potatoes-instructions.jpg",
+    "dish": null
   }
 }

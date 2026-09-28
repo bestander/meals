@@ -41,6 +41,7 @@ export function loadCatalog() {
         images: {
           ingredients: imageExists(slug, "ingredients"),
           instructions: imageExists(slug, "instructions"),
+          dish: imageExists(slug, "dish"),
         },
       };
 

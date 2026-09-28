@@ -173,7 +173,7 @@ function recipeCards(meals) {
   const planningWeek = nextMonday();
   return el("div", { class: "recipe-grid" }, meals.map((meal) =>
     el("article", { class: "card" }, [
-      photoButton(meal.images?.ingredients, `${meal.name} ingredients card`, "card-photo"),
+      photoButton(meal.images?.dish || meal.images?.ingredients, meal.images?.dish ? meal.name : `${meal.name} ingredients card`, "card-photo"),
       el("h3", {}, meal.name),
       el("div", { class: "tags" }, [
         tag(meal.protein, "protein"),
@@ -273,6 +273,10 @@ function recipeView() {
       tag(`${meal.servings} servings`),
       cookedLabel(meal, nextMonday()),
     ]),
+    meal.images?.dish
+      ? photoButton(meal.images.dish, meal.name, "recipe-photo")
+      : null,
+    meal.photoCredit ? el("p", { class: "photo-credit" }, meal.photoCredit) : null,
     el("div", { class: "tabs" }, [
       tabBtn("instructions", "Instructions"),
       tabBtn("ingredients", "Ingredients"),
@@ -409,7 +413,7 @@ function planView() {
       : el("p", { class: "hint" }, "Suggest a set, or it will fill in from meals you have not cooked recently."),
     el("div", { class: "meal-grid" }, [
       ...meals.map((meal, index) => el("article", { class: "card" }, [
-        photoButton(meal.images?.ingredients, `${meal.name} ingredients card`, "card-photo"),
+        photoButton(meal.images?.dish || meal.images?.ingredients, meal.images?.dish ? meal.name : `${meal.name} ingredients card`, "card-photo"),
         el("h3", {}, meal.name),
         el("div", { class: "tags" }, [
           tag(meal.protein, "protein"),

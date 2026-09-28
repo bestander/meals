@@ -1,0 +1,84 @@
+{
+  "name": "Steak Tagliata with Rocket, Tomatoes and Parmesan",
+  "servings": 4,
+  "source": "https://www.deliciousmagazine.co.uk/recipes/steak-tagliata/",
+  "ingredients": [
+    {
+      "name": "Rump Steak",
+      "quantity": 1.25,
+      "unit": "lb"
+    },
+    {
+      "name": "Yukon Gold Potato",
+      "quantity": 1,
+      "unit": "lb"
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": 4,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Oregano",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Garlic",
+      "quantity": 1,
+      "unit": "cloves"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Beefsteak Tomato",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "Arugula",
+      "quantity": 3,
+      "unit": "oz"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "quantity": 1.5,
+      "unit": "oz"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Crush the potatoes",
+      "text": "Boil the potatoes in salted water 15 to 20 minutes, until tender. Drain, crush lightly with a fork, and toss with 1 tablespoon of the olive oil and half the oregano. Season with salt and pepper."
+    },
+    {
+      "step": 2,
+      "title": "Sear the steaks",
+      "text": "Brush the steaks with oil and season well. Sear in a hot skillet 3 to 4 minutes per side for medium-rare, then rest 5 minutes. Slice across the grain into thick strips."
+    },
+    {
+      "step": 3,
+      "title": "Dress and serve",
+      "text": "Warm the remaining oil with the sliced garlic for 2 to 3 minutes. Add the vinegar and the rest of the oregano. Lay sliced tomatoes and arugula on plates, top with the steak, spoon over the warm dressing, and finish with shaved Parmesan. Serve with the potatoes."
+    }
+  ],
+  "photoCredit": "Photo: Pug Girl, Wikimedia Commons (CC BY 2.0)",
+  "slug": "steak-tagliata-with-rocket-tomatoes-and-parmesan",
+  "sourceWeek": "2026-09-27",
+  "protein": "beef",
+  "starch": "potato",
+  "cuisine": "italian",
+  "staples": [
+    "garlic",
+    "olive oil"
+  ],
+  "images": {
+    "ingredients": null,
+    "instructions": null,
+    "dish": "../recipes/images/steak-tagliata-with-rocket-tomatoes-and-parmesan-dish.jpg"
+  }
+}

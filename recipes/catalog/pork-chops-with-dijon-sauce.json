@@ -1,0 +1,85 @@
+{
+  "name": "Pork Chops with Dijon Sauce",
+  "servings": 4,
+  "source": "https://www.simplyrecipes.com/recipes/pork_chops_with_dijon_sauce/",
+  "ingredients": [
+    {
+      "name": "Pork Chops",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Butter",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Shallot",
+      "quantity": 2,
+      "unit": "pieces"
+    },
+    {
+      "name": "White Wine",
+      "quantity": 1,
+      "unit": "cup"
+    },
+    {
+      "name": "Chicken Stock",
+      "quantity": 0.75,
+      "unit": "cup"
+    },
+    {
+      "name": "Heavy Cream",
+      "quantity": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Dijon Mustard",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Parsley",
+      "quantity": 1,
+      "unit": "bunch"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Sear the chops",
+      "text": "Season four thick pork chops with salt and pepper. Heat the butter and olive oil in a large skillet. Sear the chops 2 to 3 minutes per side, until well browned. They will finish in the sauce."
+    },
+    {
+      "step": 2,
+      "title": "Build the pan sauce",
+      "text": "Set the chops aside. Cook the minced shallots in the same pan until soft. Add half the wine and scrape up the browned bits. Stir in the stock, return the chops, cover, and simmer 10 to 15 minutes, until the pork reaches 145°F."
+    },
+    {
+      "step": 3,
+      "title": "Finish with mustard",
+      "text": "Move the chops to a warm plate. Add the rest of the wine and boil until the juices reduce by about half. Add the cream and boil 2 to 3 minutes more, until the sauce thickens. Take the pan off the heat and whisk in the mustard and chopped parsley. Spoon the sauce over the chops."
+    }
+  ],
+  "photoCredit": "Photo: Benoît Prieur, Wikimedia Commons (CC0)",
+  "slug": "pork-chops-with-dijon-sauce",
+  "sourceWeek": "2026-09-27",
+  "protein": "pork",
+  "starch": "other",
+  "cuisine": "french",
+  "staples": [
+    "butter",
+    "olive oil",
+    "parsley"
+  ],
+  "images": {
+    "ingredients": null,
+    "instructions": null,
+    "dish": "../recipes/images/pork-chops-with-dijon-sauce-dish.jpg"
+  }
+}

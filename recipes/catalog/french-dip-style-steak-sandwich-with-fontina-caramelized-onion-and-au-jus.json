@@ -85,6 +85,7 @@
   ],
   "images": {
     "ingredients": "../recipes/images/french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus-ingredients.jpg",
-    "instructions": "../recipes/images/french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus-instructions.jpg"
+    "instructions": "../recipes/images/french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus-instructions.jpg",
+    "dish": null
   }
 }

@@ -56,6 +56,7 @@
   "staples": [],
   "images": {
     "ingredients": null,
-    "instructions": null
+    "instructions": null,
+    "dish": null
   }
 }

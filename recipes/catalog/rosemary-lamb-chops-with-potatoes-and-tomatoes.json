@@ -1,0 +1,74 @@
+{
+  "name": "Rosemary Lamb Chops with Potatoes and Tomatoes",
+  "servings": 4,
+  "source": "https://www.bbcgoodfood.com/recipes/rosemary-roast-lamb-chops",
+  "ingredients": [
+    {
+      "name": "Lamb Chops",
+      "quantity": 8,
+      "unit": "pieces"
+    },
+    {
+      "name": "Yukon Gold Potato",
+      "quantity": 2,
+      "unit": "lb"
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": 3,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Rosemary",
+      "quantity": 4,
+      "unit": "sprigs"
+    },
+    {
+      "name": "Garlic",
+      "quantity": 4,
+      "unit": "cloves"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "quantity": 9,
+      "unit": "oz"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "quantity": 1,
+      "unit": "tbsp"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Brown the chops",
+      "text": "Heat the oven to 425°F. Cut the potatoes into small chunks and leave the garlic cloves in their skins. Warm half the olive oil in a large ovenproof skillet. Season the lamb chops and brown them about 2 minutes per side. Set them aside."
+    },
+    {
+      "step": 2,
+      "title": "Start the potatoes",
+      "text": "Add the rest of the oil to the skillet. Fry the potatoes 4 to 5 minutes, until they start to color. Add the rosemary and garlic, then set the chops back on top."
+    },
+    {
+      "step": 3,
+      "title": "Roast and finish",
+      "text": "Roast 20 minutes. Scatter on the tomatoes and drizzle with the balsamic vinegar. Roast 5 minutes more, until the tomatoes begin to split and the chops are cooked to your liking. Serve from the pan."
+    }
+  ],
+  "photoCredit": "Photo: Naotake Murayama, Wikimedia Commons (CC BY 2.0)",
+  "slug": "rosemary-lamb-chops-with-potatoes-and-tomatoes",
+  "sourceWeek": "2026-09-27",
+  "protein": "lamb",
+  "starch": "potato",
+  "cuisine": "mediterranean",
+  "staples": [
+    "garlic",
+    "olive oil"
+  ],
+  "images": {
+    "ingredients": null,
+    "instructions": null,
+    "dish": "../recipes/images/rosemary-lamb-chops-with-potatoes-and-tomatoes-dish.jpg"
+  }
+}

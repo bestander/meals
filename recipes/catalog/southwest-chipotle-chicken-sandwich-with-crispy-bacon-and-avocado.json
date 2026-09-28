@@ -73,6 +73,7 @@
   "staples": [],
   "images": {
     "ingredients": "../recipes/images/southwest-chipotle-chicken-sandwich-with-crispy-bacon-and-avocado-ingredients.jpg",
-    "instructions": "../recipes/images/southwest-chipotle-chicken-sandwich-with-crispy-bacon-and-avocado-instructions.jpg"
+    "instructions": "../recipes/images/southwest-chipotle-chicken-sandwich-with-crispy-bacon-and-avocado-instructions.jpg",
+    "dish": null
   }
 }

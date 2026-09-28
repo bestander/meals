@@ -200,6 +200,12 @@ h3 { font-size: 1rem; font-weight: 600; }
   object-fit: contain;
 }
 
+.photo-credit {
+  margin: -0.5rem 0 1rem;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
 .lightbox {
   position: fixed;
   inset: 0;

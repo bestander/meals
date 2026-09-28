@@ -91,6 +91,7 @@
   ],
   "images": {
     "ingredients": "../recipes/images/smoky-gouda-cheeseburgers-with-caramelized-onion-and-roasted-carrots-ingredients.jpg",
-    "instructions": "../recipes/images/smoky-gouda-cheeseburgers-with-caramelized-onion-and-roasted-carrots-instructions.jpg"
+    "instructions": "../recipes/images/smoky-gouda-cheeseburgers-with-caramelized-onion-and-roasted-carrots-instructions.jpg",
+    "dish": null
   }
 }

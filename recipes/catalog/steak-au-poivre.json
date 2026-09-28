@@ -1,0 +1,85 @@
+{
+  "name": "Steak au Poivre",
+  "servings": 4,
+  "source": "https://www.simplyrecipes.com/easy-steak-au-poivre-recipe-8785647",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "quantity": 2,
+      "unit": "lb"
+    },
+    {
+      "name": "Peppercorns",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Shallot",
+      "quantity": 1,
+      "unit": "pieces"
+    },
+    {
+      "name": "Butter",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Brandy",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Beef Stock",
+      "quantity": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Heavy Cream",
+      "quantity": 0.25,
+      "unit": "cup"
+    },
+    {
+      "name": "Thyme",
+      "quantity": 1,
+      "unit": "sprigs"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Pepper the steak",
+      "text": "Crack the peppercorns coarsely. Pat the steak dry, season with salt, and press the pepper onto one side. Mince the shallot."
+    },
+    {
+      "step": 2,
+      "title": "Sear",
+      "text": "Heat a large skillet over medium-high heat. Add the oil, then the steak pepper-side up. Sear 4 to 8 minutes without moving it, depending on thickness. Flip onto the pepper and cook until the center is 130 to 135°F for medium-rare. Rest the steak on a board."
+    },
+    {
+      "step": 3,
+      "title": "Make the sauce",
+      "text": "Wipe excess oil and loose pepper from the pan. Over medium-low heat, cook the butter and shallot about 2 minutes. Take the pan off the heat, add the brandy, and scrape up the browned bits until the liquid mostly cooks off. Add the stock, cream, and thyme. Simmer until the sauce coats a spoon, about 5 minutes. Slice the steak against the grain and spoon the sauce over it. Use beef stock in place of brandy if you are not cooking with alcohol."
+    }
+  ],
+  "photoCredit": "Photo: Cullen328, Wikimedia Commons (CC BY-SA 4.0)",
+  "slug": "steak-au-poivre",
+  "sourceWeek": "2026-09-27",
+  "protein": "beef",
+  "starch": "other",
+  "cuisine": "french",
+  "staples": [
+    "butter",
+    "olive oil",
+    "thyme"
+  ],
+  "images": {
+    "ingredients": null,
+    "instructions": null,
+    "dish": "../recipes/images/steak-au-poivre-dish.jpg"
+  }
+}

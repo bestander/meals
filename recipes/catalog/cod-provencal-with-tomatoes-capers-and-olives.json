@@ -1,0 +1,98 @@
+{
+  "name": "Cod Provençal with Tomatoes, Capers and Olives",
+  "servings": 4,
+  "source": "https://www.pardonyourfrench.com/cod-provencal-with-tomatoes-capers-and-olives/",
+  "ingredients": [
+    {
+      "name": "Cod Fillet",
+      "quantity": 1.5,
+      "unit": "lb"
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Yellow Onion",
+      "quantity": 1,
+      "unit": "pieces"
+    },
+    {
+      "name": "Garlic",
+      "quantity": 2,
+      "unit": "cloves"
+    },
+    {
+      "name": "Tomato",
+      "quantity": 3,
+      "unit": "pieces"
+    },
+    {
+      "name": "Thyme",
+      "quantity": 4,
+      "unit": "sprigs"
+    },
+    {
+      "name": "Black Olives",
+      "quantity": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Capers",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Lemon",
+      "quantity": 1,
+      "unit": "pieces"
+    },
+    {
+      "name": "Parsley",
+      "quantity": 1,
+      "unit": "bunch"
+    },
+    {
+      "name": "Crusty Bread",
+      "quantity": 1,
+      "unit": "loaf"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Start the sauce",
+      "text": "Warm the olive oil in a large skillet. Cook the sliced onion and chopped garlic 2 to 3 minutes, until the onion softens. Add the diced tomatoes, thyme leaves, a pinch of salt, and black pepper. Cover and cook about 10 minutes, until the tomatoes break down."
+    },
+    {
+      "step": 2,
+      "title": "Add the olives",
+      "text": "Stir in the olives and capers. Season the cod with salt, pepper, and a squeeze of lemon."
+    },
+    {
+      "step": 3,
+      "title": "Cook the cod",
+      "text": "Nestle the fillets into the sauce, cover, and cook about 5 to 7 minutes, until the fish flakes. Chop the parsley and scatter it over the top. Serve with the bread."
+    }
+  ],
+  "photoCredit": "Photo: Benoît Prieur, Wikimedia Commons (CC0)",
+  "slug": "cod-provencal-with-tomatoes-capers-and-olives",
+  "sourceWeek": "2026-09-27",
+  "protein": "fish",
+  "starch": "bread",
+  "cuisine": "french",
+  "staples": [
+    "onion",
+    "garlic",
+    "lemon",
+    "olive oil",
+    "thyme",
+    "parsley"
+  ],
+  "images": {
+    "ingredients": null,
+    "instructions": null,
+    "dish": "../recipes/images/cod-provencal-with-tomatoes-capers-and-olives-dish.jpg"
+  }
+}

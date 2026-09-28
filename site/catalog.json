@@ -129,7 +129,8 @@
     ],
     "images": {
       "ingredients": "../recipes/images/apricot-almond-and-chickpea-tagine-with-zucchini-basmati-rice-and-chermoula-ingredients.jpg",
-      "instructions": "../recipes/images/apricot-almond-and-chickpea-tagine-with-zucchini-basmati-rice-and-chermoula-instructions.jpg"
+      "instructions": "../recipes/images/apricot-almond-and-chickpea-tagine-with-zucchini-basmati-rice-and-chermoula-instructions.jpg",
+      "dish": null
     }
   },
   {
@@ -197,7 +198,8 @@
     "staples": [],
     "images": {
       "ingredients": "../recipes/images/baked-cheesy-pulled-chicken-burritos-with-pinto-beans-corn-and-tomatillo-sauce-ingredients.jpg",
-      "instructions": "../recipes/images/baked-cheesy-pulled-chicken-burritos-with-pinto-beans-corn-and-tomatillo-sauce-instructions.jpg"
+      "instructions": "../recipes/images/baked-cheesy-pulled-chicken-burritos-with-pinto-beans-corn-and-tomatillo-sauce-instructions.jpg",
+      "dish": null
     }
   },
   {
@@ -258,7 +260,8 @@
     "staples": [],
     "images": {
       "ingredients": null,
-      "instructions": null
+      "instructions": null,
+      "dish": null
     }
   },
   {
@@ -379,7 +382,7 @@
     ],
     "slug": "cheesy-mexican-style-beef-stuffed-peppers",
     "sourceWeek": "2026-06-16",
-    "protein": "chicken",
+    "protein": "beef",
     "starch": "rice",
     "cuisine": "mexican",
     "staples": [
@@ -390,7 +393,8 @@
     ],
     "images": {
       "ingredients": "../recipes/images/cheesy-mexican-style-beef-stuffed-peppers-ingredients.jpg",
-      "instructions": "../recipes/images/cheesy-mexican-style-beef-stuffed-peppers-instructions.jpg"
+      "instructions": "../recipes/images/cheesy-mexican-style-beef-stuffed-peppers-instructions.jpg",
+      "dish": null
     }
   },
   {
@@ -481,7 +485,88 @@
     ],
     "images": {
       "ingredients": "../recipes/images/cheesy-zucchini-and-onion-quiche-with-hot-honey-romanesco-ingredients.jpg",
-      "instructions": "../recipes/images/cheesy-zucchini-and-onion-quiche-with-hot-honey-romanesco-instructions.jpg"
+      "instructions": "../recipes/images/cheesy-zucchini-and-onion-quiche-with-hot-honey-romanesco-instructions.jpg",
+      "dish": null
+    }
+  },
+  {
+    "name": "Chicken Saltimbocca",
+    "servings": 4,
+    "source": "https://www.insidetherustickitchen.com/chicken-saltimbocca/",
+    "ingredients": [
+      {
+        "name": "Chicken Breast",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Prosciutto",
+        "quantity": 4,
+        "unit": "slices"
+      },
+      {
+        "name": "Sage",
+        "quantity": 8,
+        "unit": "leaves"
+      },
+      {
+        "name": "All-Purpose Flour",
+        "quantity": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "White Wine",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Butter",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Lemon",
+        "quantity": 1,
+        "unit": "pieces"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Prepare the cutlets",
+        "text": "Cut each chicken breast in half horizontally and pound the pieces to about 1/4 inch thick. Season lightly with pepper. Lay a slice of prosciutto and a sage leaf on each cutlet and secure them with a toothpick. Dust lightly with flour."
+      },
+      {
+        "step": 2,
+        "title": "Brown the chicken",
+        "text": "Heat the olive oil in a large skillet over medium heat. Cook the cutlets prosciutto-side down 4 to 5 minutes, until the ham is crisp, then flip and cook about 4 minutes more, until the chicken is cooked through. Set them on a plate."
+      },
+      {
+        "step": 3,
+        "title": "Make the wine sauce",
+        "text": "Pour the wine into the skillet and scrape up the browned bits. Simmer 2 to 3 minutes, until reduced by about half. Take the pan off the heat and swirl in the butter. Pull out the toothpicks, spoon the sauce over the chicken, and finish with a squeeze of lemon. Use chicken stock instead of wine if you prefer."
+      }
+    ],
+    "photoCredit": "Photo: Fanny Schertzer, Wikimedia Commons (CC BY 3.0)",
+    "slug": "chicken-saltimbocca",
+    "sourceWeek": "2026-09-27",
+    "protein": "chicken",
+    "starch": "other",
+    "cuisine": "italian",
+    "staples": [
+      "lemon",
+      "butter",
+      "olive oil"
+    ],
+    "images": {
+      "ingredients": null,
+      "instructions": null,
+      "dish": "../recipes/images/chicken-saltimbocca-dish.jpg"
     }
   },
   {
@@ -581,7 +666,195 @@
     ],
     "images": {
       "ingredients": "../recipes/images/chipotle-veggie-tostadas-with-refried-beans-and-guacamole-ingredients.jpg",
-      "instructions": "../recipes/images/chipotle-veggie-tostadas-with-refried-beans-and-guacamole-instructions.jpg"
+      "instructions": "../recipes/images/chipotle-veggie-tostadas-with-refried-beans-and-guacamole-instructions.jpg",
+      "dish": null
+    }
+  },
+  {
+    "name": "Cod Provençal with Tomatoes, Capers and Olives",
+    "servings": 4,
+    "source": "https://www.pardonyourfrench.com/cod-provencal-with-tomatoes-capers-and-olives/",
+    "ingredients": [
+      {
+        "name": "Cod Fillet",
+        "quantity": 1.5,
+        "unit": "lb"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Yellow Onion",
+        "quantity": 1,
+        "unit": "pieces"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 2,
+        "unit": "cloves"
+      },
+      {
+        "name": "Tomato",
+        "quantity": 3,
+        "unit": "pieces"
+      },
+      {
+        "name": "Thyme",
+        "quantity": 4,
+        "unit": "sprigs"
+      },
+      {
+        "name": "Black Olives",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Capers",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Lemon",
+        "quantity": 1,
+        "unit": "pieces"
+      },
+      {
+        "name": "Parsley",
+        "quantity": 1,
+        "unit": "bunch"
+      },
+      {
+        "name": "Crusty Bread",
+        "quantity": 1,
+        "unit": "loaf"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Start the sauce",
+        "text": "Warm the olive oil in a large skillet. Cook the sliced onion and chopped garlic 2 to 3 minutes, until the onion softens. Add the diced tomatoes, thyme leaves, a pinch of salt, and black pepper. Cover and cook about 10 minutes, until the tomatoes break down."
+      },
+      {
+        "step": 2,
+        "title": "Add the olives",
+        "text": "Stir in the olives and capers. Season the cod with salt, pepper, and a squeeze of lemon."
+      },
+      {
+        "step": 3,
+        "title": "Cook the cod",
+        "text": "Nestle the fillets into the sauce, cover, and cook about 5 to 7 minutes, until the fish flakes. Chop the parsley and scatter it over the top. Serve with the bread."
+      }
+    ],
+    "photoCredit": "Photo: Benoît Prieur, Wikimedia Commons (CC0)",
+    "slug": "cod-provencal-with-tomatoes-capers-and-olives",
+    "sourceWeek": "2026-09-27",
+    "protein": "fish",
+    "starch": "bread",
+    "cuisine": "french",
+    "staples": [
+      "onion",
+      "garlic",
+      "lemon",
+      "olive oil",
+      "thyme",
+      "parsley"
+    ],
+    "images": {
+      "ingredients": null,
+      "instructions": null,
+      "dish": "../recipes/images/cod-provencal-with-tomatoes-capers-and-olives-dish.jpg"
+    }
+  },
+  {
+    "name": "Confit Duck Legs with Lentils",
+    "servings": 4,
+    "source": "https://www.waitrose.com/ecom/recipe/easy-confit-duck-and-lentil-casserole",
+    "ingredients": [
+      {
+        "name": "Confit Duck Legs",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Leek",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Rosemary",
+        "quantity": 4,
+        "unit": "sprigs"
+      },
+      {
+        "name": "Tomato",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Tomato Paste",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Canned Lentils",
+        "quantity": 2,
+        "unit": "cans"
+      },
+      {
+        "name": "Chicken Stock",
+        "quantity": 2,
+        "unit": "cup"
+      },
+      {
+        "name": "Parsley",
+        "quantity": 1,
+        "unit": "bunch"
+      },
+      {
+        "name": "Crusty Bread",
+        "quantity": 1,
+        "unit": "loaf"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Warm the duck",
+        "text": "Heat the oven to 400°F. Put the confit duck legs and any fat from the package in a baking dish, cover, and bake 15 minutes. Use legs that are already confit; cooking raw legs in fat takes several hours."
+      },
+      {
+        "step": 2,
+        "title": "Cook the lentils",
+        "text": "Meanwhile, slice the leeks and chop the tomatoes. Warm the olive oil in an ovenproof skillet and cook the leeks with the rosemary for about 5 minutes, until soft. Stir in the tomatoes, tomato paste, and drained lentils. Cook 10 minutes, then stir in 1 cup of the stock."
+      },
+      {
+        "step": 3,
+        "title": "Crisp and serve",
+        "text": "Raise the oven to 425°F. Lift the duck out of its fat and set the legs on the lentils. Bake uncovered about 15 minutes, until the skin is browned. Loosen the lentils with a splash more stock if they look dry. Chop the parsley, scatter it over the top, and serve with the bread."
+      }
+    ],
+    "photoCredit": "Photo: Tangopaso, Wikimedia Commons (CC BY-SA 3.0)",
+    "slug": "confit-duck-legs-with-lentils",
+    "sourceWeek": "2026-09-27",
+    "protein": "duck",
+    "starch": "bread",
+    "cuisine": "french",
+    "staples": [
+      "olive oil",
+      "parsley"
+    ],
+    "images": {
+      "ingredients": null,
+      "instructions": null,
+      "dish": "../recipes/images/confit-duck-legs-with-lentils-dish.jpg"
     }
   },
   {
@@ -697,7 +970,87 @@
     ],
     "images": {
       "ingredients": "../recipes/images/cozy-meatloaves-with-creamy-onion-gravy-plus-roasted-parsnips-carrots-and-potatoes-ingredients.jpg",
-      "instructions": "../recipes/images/cozy-meatloaves-with-creamy-onion-gravy-plus-roasted-parsnips-carrots-and-potatoes-instructions.jpg"
+      "instructions": "../recipes/images/cozy-meatloaves-with-creamy-onion-gravy-plus-roasted-parsnips-carrots-and-potatoes-instructions.jpg",
+      "dish": null
+    }
+  },
+  {
+    "name": "Duck Breast with Cherry Sauce",
+    "servings": 4,
+    "source": "https://www.lovefrenchfood.com/duck-breast-with-cherry-sauce/",
+    "ingredients": [
+      {
+        "name": "Duck Breast",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Cherries",
+        "quantity": 14,
+        "unit": "oz"
+      },
+      {
+        "name": "Honey",
+        "quantity": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "Orange",
+        "quantity": 1,
+        "unit": "pieces"
+      },
+      {
+        "name": "Red Wine",
+        "quantity": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "Thyme",
+        "quantity": 2,
+        "unit": "sprigs"
+      },
+      {
+        "name": "Butter",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Yukon Gold Potato",
+        "quantity": 1.5,
+        "unit": "lb"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Start the potatoes",
+        "text": "Heat the oven to 425°F. Cut the potatoes into wedges, toss with a little olive oil, salt, and pepper, and roast about 25 minutes, turning once, until browned."
+      },
+      {
+        "step": 2,
+        "title": "Render the duck",
+        "text": "Score the duck skin in a crosshatch, cutting only into the fat. Season both sides with salt. Lay the breasts skin-side down in a cold skillet and set it over medium heat. Cook 8 to 10 minutes, pouring off excess fat once or twice, until the skin is deep golden and crisp. Flip and cook 2 to 4 minutes more, until the center is about 130°F for medium-rare. Rest the duck 5 to 10 minutes."
+      },
+      {
+        "step": 3,
+        "title": "Make the cherry sauce",
+        "text": "Pit and halve the cherries if they are fresh. In a saucepan, warm a spoonful of the duck fat. Add the cherries, honey, the juice of the orange, a few strips of zest, the wine, and the thyme. Simmer 8 to 10 minutes until glossy. Take it off the heat, stir in the butter, and discard the thyme. Slice the duck and serve with the sauce and potatoes."
+      }
+    ],
+    "photoCredit": "Photo: Arnaud 25, Wikimedia Commons (CC BY-SA 4.0)",
+    "slug": "duck-breast-with-cherry-sauce",
+    "sourceWeek": "2026-09-27",
+    "protein": "duck",
+    "starch": "potato",
+    "cuisine": "french",
+    "staples": [
+      "butter",
+      "thyme"
+    ],
+    "images": {
+      "ingredients": null,
+      "instructions": null,
+      "dish": "../recipes/images/duck-breast-with-cherry-sauce-dish.jpg"
     }
   },
   {
@@ -787,7 +1140,8 @@
     ],
     "images": {
       "ingredients": "../recipes/images/french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus-ingredients.jpg",
-      "instructions": "../recipes/images/french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus-instructions.jpg"
+      "instructions": "../recipes/images/french-dip-style-steak-sandwich-with-fontina-caramelized-onion-and-au-jus-instructions.jpg",
+      "dish": null
     }
   },
   {
@@ -891,7 +1245,8 @@
     ],
     "images": {
       "ingredients": "../recipes/images/french-onion-soup-with-baguette-and-grand-cru-cheese-ingredients.jpg",
-      "instructions": "../recipes/images/french-onion-soup-with-baguette-and-grand-cru-cheese-instructions.jpg"
+      "instructions": "../recipes/images/french-onion-soup-with-baguette-and-grand-cru-cheese-instructions.jpg",
+      "dish": null
     }
   },
   {
@@ -983,7 +1338,8 @@
     ],
     "images": {
       "ingredients": "../recipes/images/glazed-pork-roast-and-veggie-fried-rice-with-cumin-sichuan-mayo-ingredients.jpg",
-      "instructions": "../recipes/images/glazed-pork-roast-and-veggie-fried-rice-with-cumin-sichuan-mayo-instructions.jpg"
+      "instructions": "../recipes/images/glazed-pork-roast-and-veggie-fried-rice-with-cumin-sichuan-mayo-instructions.jpg",
+      "dish": null
     }
   },
   {
@@ -1096,7 +1452,8 @@
     ],
     "images": {
       "ingredients": "../recipes/images/homestyle-turkey-and-biscuit-pot-pie-with-buttermilk-biscuits-ingredients.jpg",
-      "instructions": "../recipes/images/homestyle-turkey-and-biscuit-pot-pie-with-buttermilk-biscuits-instructions.jpg"
+      "instructions": "../recipes/images/homestyle-turkey-and-biscuit-pot-pie-with-buttermilk-biscuits-instructions.jpg",
+      "dish": null
     }
   },
   {
@@ -1174,7 +1531,8 @@
     "staples": [],
     "images": {
       "ingredients": "../recipes/images/indian-style-baked-paneer-curry-with-chickpeas-and-toasted-naan-ingredients.jpg",
-      "instructions": "../recipes/images/indian-style-baked-paneer-curry-with-chickpeas-and-toasted-naan-instructions.jpg"
+      "instructions": "../recipes/images/indian-style-baked-paneer-curry-with-chickpeas-and-toasted-naan-instructions.jpg",
+      "dish": null
     }
   },
   {
@@ -1269,7 +1627,8 @@
     ],
     "images": {
       "ingredients": "../recipes/images/lemon-herb-chicken-and-artichoke-celery-salad-with-couscous-and-parmesan-ingredients.jpg",
-      "instructions": "../recipes/images/lemon-herb-chicken-and-artichoke-celery-salad-with-couscous-and-parmesan-instructions.jpg"
+      "instructions": "../recipes/images/lemon-herb-chicken-and-artichoke-celery-salad-with-couscous-and-parmesan-instructions.jpg",
+      "dish": null
     }
   },
   {
@@ -1405,7 +1764,7 @@
     ],
     "slug": "melty-mozzarella-beef-and-zucchini-penne-bake-with-cheesy-garlic-bread-and-caesar-salad",
     "sourceWeek": "2026-06-16",
-    "protein": "chicken",
+    "protein": "beef",
     "starch": "pasta",
     "cuisine": "other",
     "staples": [
@@ -1415,7 +1774,8 @@
     ],
     "images": {
       "ingredients": "../recipes/images/melty-mozzarella-beef-and-zucchini-penne-bake-with-cheesy-garlic-bread-and-caesar-salad-ingredients.jpg",
-      "instructions": "../recipes/images/melty-mozzarella-beef-and-zucchini-penne-bake-with-cheesy-garlic-bread-and-caesar-salad-instructions.jpg"
+      "instructions": "../recipes/images/melty-mozzarella-beef-and-zucchini-penne-bake-with-cheesy-garlic-bread-and-caesar-salad-instructions.jpg",
+      "dish": null
     }
   },
   {
@@ -1516,7 +1876,83 @@
     ],
     "images": {
       "ingredients": "../recipes/images/miso-butter-glazed-chicken-with-spicy-sesame-roasted-vegetables-ingredients.jpg",
-      "instructions": "../recipes/images/miso-butter-glazed-chicken-with-spicy-sesame-roasted-vegetables-instructions.jpg"
+      "instructions": "../recipes/images/miso-butter-glazed-chicken-with-spicy-sesame-roasted-vegetables-instructions.jpg",
+      "dish": null
+    }
+  },
+  {
+    "name": "Moules Marinière",
+    "servings": 4,
+    "source": "https://www.bbcgoodfood.com/recipes/moules-mariniere",
+    "ingredients": [
+      {
+        "name": "Mussels",
+        "quantity": 4,
+        "unit": "lb"
+      },
+      {
+        "name": "Butter",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Shallot",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 1,
+        "unit": "cloves"
+      },
+      {
+        "name": "White Wine",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Parsley",
+        "quantity": 1,
+        "unit": "bunch"
+      },
+      {
+        "name": "Crusty Bread",
+        "quantity": 1,
+        "unit": "loaf"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Clean the mussels",
+        "text": "Rinse the mussels under cold water. Pull off any beards and scrub the shells. Discard any that are cracked, and any that stay open when you tap them."
+      },
+      {
+        "step": 2,
+        "title": "Steam",
+        "text": "Melt the butter in a large pot with a lid. Cook the sliced shallots and chopped garlic 3 to 4 minutes, until soft. Add the mussels and wine, cover, and cook over high heat 4 to 5 minutes, shaking the pot once or twice, until the shells open. Discard any that stay closed."
+      },
+      {
+        "step": 3,
+        "title": "Serve",
+        "text": "Stir in the chopped parsley and a little black pepper. Spoon the mussels and their broth into bowls and serve with the bread for dipping."
+      }
+    ],
+    "photoCredit": "Photo: Thomon, Wikimedia Commons (CC BY-SA 4.0)",
+    "slug": "moules-mariniere",
+    "sourceWeek": "2026-09-27",
+    "protein": "fish",
+    "starch": "bread",
+    "cuisine": "french",
+    "staples": [
+      "garlic",
+      "butter",
+      "parsley"
+    ],
+    "images": {
+      "ingredients": null,
+      "instructions": null,
+      "dish": "../recipes/images/moules-mariniere-dish.jpg"
     }
   },
   {
@@ -1642,7 +2078,8 @@
     ],
     "images": {
       "ingredients": "../recipes/images/mushroom-carrot-and-lentil-shepherds-pie-topped-with-cheddar-mashed-potatoes-ingredients.jpg",
-      "instructions": "../recipes/images/mushroom-carrot-and-lentil-shepherds-pie-topped-with-cheddar-mashed-potatoes-instructions.jpg"
+      "instructions": "../recipes/images/mushroom-carrot-and-lentil-shepherds-pie-topped-with-cheddar-mashed-potatoes-instructions.jpg",
+      "dish": null
     }
   },
   {
@@ -1756,7 +2193,167 @@
     ],
     "images": {
       "ingredients": "../recipes/images/pistachio-cod-with-mango-jalapeno-salsa-plus-purple-sweet-potato-mash-asparagus-and-charred-corn-ingredients.jpg",
-      "instructions": "../recipes/images/pistachio-cod-with-mango-jalapeno-salsa-plus-purple-sweet-potato-mash-asparagus-and-charred-corn-instructions.jpg"
+      "instructions": "../recipes/images/pistachio-cod-with-mango-jalapeno-salsa-plus-purple-sweet-potato-mash-asparagus-and-charred-corn-instructions.jpg",
+      "dish": null
+    }
+  },
+  {
+    "name": "Pork Chops with Dijon Sauce",
+    "servings": 4,
+    "source": "https://www.simplyrecipes.com/recipes/pork_chops_with_dijon_sauce/",
+    "ingredients": [
+      {
+        "name": "Pork Chops",
+        "quantity": 4,
+        "unit": "pieces"
+      },
+      {
+        "name": "Butter",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Shallot",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "White Wine",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Chicken Stock",
+        "quantity": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "Heavy Cream",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Dijon Mustard",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Parsley",
+        "quantity": 1,
+        "unit": "bunch"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Sear the chops",
+        "text": "Season four thick pork chops with salt and pepper. Heat the butter and olive oil in a large skillet. Sear the chops 2 to 3 minutes per side, until well browned. They will finish in the sauce."
+      },
+      {
+        "step": 2,
+        "title": "Build the pan sauce",
+        "text": "Set the chops aside. Cook the minced shallots in the same pan until soft. Add half the wine and scrape up the browned bits. Stir in the stock, return the chops, cover, and simmer 10 to 15 minutes, until the pork reaches 145°F."
+      },
+      {
+        "step": 3,
+        "title": "Finish with mustard",
+        "text": "Move the chops to a warm plate. Add the rest of the wine and boil until the juices reduce by about half. Add the cream and boil 2 to 3 minutes more, until the sauce thickens. Take the pan off the heat and whisk in the mustard and chopped parsley. Spoon the sauce over the chops."
+      }
+    ],
+    "photoCredit": "Photo: Benoît Prieur, Wikimedia Commons (CC0)",
+    "slug": "pork-chops-with-dijon-sauce",
+    "sourceWeek": "2026-09-27",
+    "protein": "pork",
+    "starch": "other",
+    "cuisine": "french",
+    "staples": [
+      "butter",
+      "olive oil",
+      "parsley"
+    ],
+    "images": {
+      "ingredients": null,
+      "instructions": null,
+      "dish": "../recipes/images/pork-chops-with-dijon-sauce-dish.jpg"
+    }
+  },
+  {
+    "name": "Rosemary Lamb Chops with Potatoes and Tomatoes",
+    "servings": 4,
+    "source": "https://www.bbcgoodfood.com/recipes/rosemary-roast-lamb-chops",
+    "ingredients": [
+      {
+        "name": "Lamb Chops",
+        "quantity": 8,
+        "unit": "pieces"
+      },
+      {
+        "name": "Yukon Gold Potato",
+        "quantity": 2,
+        "unit": "lb"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Rosemary",
+        "quantity": 4,
+        "unit": "sprigs"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 4,
+        "unit": "cloves"
+      },
+      {
+        "name": "Cherry Tomatoes",
+        "quantity": 9,
+        "unit": "oz"
+      },
+      {
+        "name": "Balsamic Vinegar",
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Brown the chops",
+        "text": "Heat the oven to 425°F. Cut the potatoes into small chunks and leave the garlic cloves in their skins. Warm half the olive oil in a large ovenproof skillet. Season the lamb chops and brown them about 2 minutes per side. Set them aside."
+      },
+      {
+        "step": 2,
+        "title": "Start the potatoes",
+        "text": "Add the rest of the oil to the skillet. Fry the potatoes 4 to 5 minutes, until they start to color. Add the rosemary and garlic, then set the chops back on top."
+      },
+      {
+        "step": 3,
+        "title": "Roast and finish",
+        "text": "Roast 20 minutes. Scatter on the tomatoes and drizzle with the balsamic vinegar. Roast 5 minutes more, until the tomatoes begin to split and the chops are cooked to your liking. Serve from the pan."
+      }
+    ],
+    "photoCredit": "Photo: Naotake Murayama, Wikimedia Commons (CC BY 2.0)",
+    "slug": "rosemary-lamb-chops-with-potatoes-and-tomatoes",
+    "sourceWeek": "2026-09-27",
+    "protein": "lamb",
+    "starch": "potato",
+    "cuisine": "mediterranean",
+    "staples": [
+      "garlic",
+      "olive oil"
+    ],
+    "images": {
+      "ingredients": null,
+      "instructions": null,
+      "dish": "../recipes/images/rosemary-lamb-chops-with-potatoes-and-tomatoes-dish.jpg"
     }
   },
   {
@@ -1852,7 +2449,8 @@
     ],
     "images": {
       "ingredients": "../recipes/images/smoky-gouda-cheeseburgers-with-caramelized-onion-and-roasted-carrots-ingredients.jpg",
-      "instructions": "../recipes/images/smoky-gouda-cheeseburgers-with-caramelized-onion-and-roasted-carrots-instructions.jpg"
+      "instructions": "../recipes/images/smoky-gouda-cheeseburgers-with-caramelized-onion-and-roasted-carrots-instructions.jpg",
+      "dish": null
     }
   },
   {
@@ -1930,7 +2528,263 @@
     "staples": [],
     "images": {
       "ingredients": "../recipes/images/southwest-chipotle-chicken-sandwich-with-crispy-bacon-and-avocado-ingredients.jpg",
-      "instructions": "../recipes/images/southwest-chipotle-chicken-sandwich-with-crispy-bacon-and-avocado-instructions.jpg"
+      "instructions": "../recipes/images/southwest-chipotle-chicken-sandwich-with-crispy-bacon-and-avocado-instructions.jpg",
+      "dish": null
+    }
+  },
+  {
+    "name": "Spanish Garlic Pork Tenderloin",
+    "servings": 4,
+    "source": "https://spainonafork.com/spanish-garlic-pork-tenderloin-authentic-solomillo-al-ajillo-recipe/",
+    "ingredients": [
+      {
+        "name": "Pork Tenderloin",
+        "quantity": 1.25,
+        "unit": "lb"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 14,
+        "unit": "cloves"
+      },
+      {
+        "name": "All-Purpose Flour",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "White Wine",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Chicken Stock",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "Thyme",
+        "quantity": 4,
+        "unit": "sprigs"
+      },
+      {
+        "name": "Parsley",
+        "quantity": 1,
+        "unit": "bunch"
+      },
+      {
+        "name": "Yukon Gold Potato",
+        "quantity": 1.5,
+        "unit": "lb"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Roast the potatoes",
+        "text": "Heat the oven to 425°F. Cut the potatoes into wedges, toss with a spoonful of the olive oil, salt, and pepper, and roast about 25 minutes."
+      },
+      {
+        "step": 2,
+        "title": "Sear the pork",
+        "text": "Slice the tenderloin into 3/4-inch medallions and season them. Warm the rest of the oil in a large skillet. Add 6 unpeeled garlic cloves and cook about 5 minutes, until fragrant, then set them aside. Sear the medallions about 2 minutes per side and set them aside. They finish in the sauce."
+      },
+      {
+        "step": 3,
+        "title": "Make the garlic sauce",
+        "text": "Thinly slice the remaining garlic and cook it in the same pan for 1 minute. Stir in the flour, then the wine, and cook until the wine reduces. Add the stock and thyme and simmer about 4 minutes, until lightly thickened. Return the pork and the cooked garlic cloves and simmer 3 to 4 minutes, until the pork reaches 145°F. Chop the parsley and scatter it over the top. Serve with the potatoes."
+      }
+    ],
+    "photoCredit": "Photo: Anagoria, Wikimedia Commons (CC BY-SA 4.0)",
+    "slug": "spanish-garlic-pork-tenderloin",
+    "sourceWeek": "2026-09-27",
+    "protein": "pork",
+    "starch": "potato",
+    "cuisine": "spanish",
+    "staples": [
+      "garlic",
+      "olive oil",
+      "thyme",
+      "parsley"
+    ],
+    "images": {
+      "ingredients": null,
+      "instructions": null,
+      "dish": "../recipes/images/spanish-garlic-pork-tenderloin-dish.jpg"
+    }
+  },
+  {
+    "name": "Steak au Poivre",
+    "servings": 4,
+    "source": "https://www.simplyrecipes.com/easy-steak-au-poivre-recipe-8785647",
+    "ingredients": [
+      {
+        "name": "Flank Steak",
+        "quantity": 2,
+        "unit": "lb"
+      },
+      {
+        "name": "Peppercorns",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Shallot",
+        "quantity": 1,
+        "unit": "pieces"
+      },
+      {
+        "name": "Butter",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Brandy",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Beef Stock",
+        "quantity": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Heavy Cream",
+        "quantity": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "Thyme",
+        "quantity": 1,
+        "unit": "sprigs"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Pepper the steak",
+        "text": "Crack the peppercorns coarsely. Pat the steak dry, season with salt, and press the pepper onto one side. Mince the shallot."
+      },
+      {
+        "step": 2,
+        "title": "Sear",
+        "text": "Heat a large skillet over medium-high heat. Add the oil, then the steak pepper-side up. Sear 4 to 8 minutes without moving it, depending on thickness. Flip onto the pepper and cook until the center is 130 to 135°F for medium-rare. Rest the steak on a board."
+      },
+      {
+        "step": 3,
+        "title": "Make the sauce",
+        "text": "Wipe excess oil and loose pepper from the pan. Over medium-low heat, cook the butter and shallot about 2 minutes. Take the pan off the heat, add the brandy, and scrape up the browned bits until the liquid mostly cooks off. Add the stock, cream, and thyme. Simmer until the sauce coats a spoon, about 5 minutes. Slice the steak against the grain and spoon the sauce over it. Use beef stock in place of brandy if you are not cooking with alcohol."
+      }
+    ],
+    "photoCredit": "Photo: Cullen328, Wikimedia Commons (CC BY-SA 4.0)",
+    "slug": "steak-au-poivre",
+    "sourceWeek": "2026-09-27",
+    "protein": "beef",
+    "starch": "other",
+    "cuisine": "french",
+    "staples": [
+      "butter",
+      "olive oil",
+      "thyme"
+    ],
+    "images": {
+      "ingredients": null,
+      "instructions": null,
+      "dish": "../recipes/images/steak-au-poivre-dish.jpg"
+    }
+  },
+  {
+    "name": "Steak Tagliata with Rocket, Tomatoes and Parmesan",
+    "servings": 4,
+    "source": "https://www.deliciousmagazine.co.uk/recipes/steak-tagliata/",
+    "ingredients": [
+      {
+        "name": "Rump Steak",
+        "quantity": 1.25,
+        "unit": "lb"
+      },
+      {
+        "name": "Yukon Gold Potato",
+        "quantity": 1,
+        "unit": "lb"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Oregano",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 1,
+        "unit": "cloves"
+      },
+      {
+        "name": "Red Wine Vinegar",
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Beefsteak Tomato",
+        "quantity": 2,
+        "unit": "pieces"
+      },
+      {
+        "name": "Arugula",
+        "quantity": 3,
+        "unit": "oz"
+      },
+      {
+        "name": "Parmesan Cheese",
+        "quantity": 1.5,
+        "unit": "oz"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Crush the potatoes",
+        "text": "Boil the potatoes in salted water 15 to 20 minutes, until tender. Drain, crush lightly with a fork, and toss with 1 tablespoon of the olive oil and half the oregano. Season with salt and pepper."
+      },
+      {
+        "step": 2,
+        "title": "Sear the steaks",
+        "text": "Brush the steaks with oil and season well. Sear in a hot skillet 3 to 4 minutes per side for medium-rare, then rest 5 minutes. Slice across the grain into thick strips."
+      },
+      {
+        "step": 3,
+        "title": "Dress and serve",
+        "text": "Warm the remaining oil with the sliced garlic for 2 to 3 minutes. Add the vinegar and the rest of the oregano. Lay sliced tomatoes and arugula on plates, top with the steak, spoon over the warm dressing, and finish with shaved Parmesan. Serve with the potatoes."
+      }
+    ],
+    "photoCredit": "Photo: Pug Girl, Wikimedia Commons (CC BY 2.0)",
+    "slug": "steak-tagliata-with-rocket-tomatoes-and-parmesan",
+    "sourceWeek": "2026-09-27",
+    "protein": "beef",
+    "starch": "potato",
+    "cuisine": "italian",
+    "staples": [
+      "garlic",
+      "olive oil"
+    ],
+    "images": {
+      "ingredients": null,
+      "instructions": null,
+      "dish": "../recipes/images/steak-tagliata-with-rocket-tomatoes-and-parmesan-dish.jpg"
     }
   },
   {
@@ -2043,7 +2897,8 @@
     ],
     "images": {
       "ingredients": "../recipes/images/thai-coconut-and-lemongrass-veggie-curry-with-potatoes-green-beans-bell-pepper-rice-and-peanuts-ingredients.jpg",
-      "instructions": "../recipes/images/thai-coconut-and-lemongrass-veggie-curry-with-potatoes-green-beans-bell-pepper-rice-and-peanuts-instructions.jpg"
+      "instructions": "../recipes/images/thai-coconut-and-lemongrass-veggie-curry-with-potatoes-green-beans-bell-pepper-rice-and-peanuts-instructions.jpg",
+      "dish": null
     }
   }
 ]

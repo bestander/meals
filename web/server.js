@@ -78,7 +78,7 @@ app.get("/api/recipes/:slug", (req, res) => {
 
 app.get("/api/images/:slug/:type", (req, res) => {
   const { slug, type } = req.params;
-  if (!["ingredients", "instructions"].includes(type)) {
+  if (!["ingredients", "instructions", "dish"].includes(type)) {
     return res.status(400).json({ error: "Invalid image type" });
   }
   const filePath = path.join(IMAGES_DIR, `${slug}-${type}.jpg`);

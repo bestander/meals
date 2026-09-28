@@ -116,7 +116,7 @@
   ],
   "slug": "cheesy-mexican-style-beef-stuffed-peppers",
   "sourceWeek": "2026-06-16",
-  "protein": "chicken",
+  "protein": "beef",
   "starch": "rice",
   "cuisine": "mexican",
   "staples": [
@@ -127,6 +127,7 @@
   ],
   "images": {
     "ingredients": "../recipes/images/cheesy-mexican-style-beef-stuffed-peppers-ingredients.jpg",
-    "instructions": "../recipes/images/cheesy-mexican-style-beef-stuffed-peppers-instructions.jpg"
+    "instructions": "../recipes/images/cheesy-mexican-style-beef-stuffed-peppers-instructions.jpg",
+    "dish": null
   }
 }

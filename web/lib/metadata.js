@@ -1,8 +1,10 @@
 const PROTEIN_RULES = [
+  { tag: "duck", patterns: [/duck/i] },
+  { tag: "lamb", patterns: [/lamb/i] },
   { tag: "chicken", patterns: [/chicken/i, /turkey/i] },
   { tag: "beef", patterns: [/beef/i, /steak/i] },
   { tag: "pork", patterns: [/pork/i, /bacon/i] },
-  { tag: "fish", patterns: [/cod/i, /salmon/i, /fish/i, /shrimp/i] },
+  { tag: "fish", patterns: [/cod/i, /salmon/i, /fish/i, /shrimp/i, /mussel/i, /moule/i] },
   { tag: "vegetarian", patterns: [/paneer/i, /chickpea/i, /lentil/i, /tofu/i, /veggie/i, /vegetable/i] },
   { tag: "egg", patterns: [/egg/i, /quiche/i] },
 ];
@@ -18,8 +20,10 @@ const CUISINE_RULES = [
   { tag: "thai", patterns: [/thai/i] },
   { tag: "indian", patterns: [/indian/i, /paneer/i, /naan/i, /tagine/i] },
   { tag: "mexican", patterns: [/mexican/i, /burrito/i, /chipotle/i, /tostada/i, /tortilla/i] },
-  { tag: "french", patterns: [/french/i, /onion soup/i, /quiche/i] },
-  { tag: "mediterranean", patterns: [/mediterranean/i, /couscous/i, /tagine/i, /chermoula/i] },
+  { tag: "french", patterns: [/french/i, /onion soup/i, /quiche/i, /confit/i, /au poivre/i, /dijon/i, /moules/i, /marini/i, /proven/i, /duck breast/i] },
+  { tag: "italian", patterns: [/saltimbocca/i, /tagliata/i] },
+  { tag: "spanish", patterns: [/spanish/i, /solomillo/i, /ajillo/i] },
+  { tag: "mediterranean", patterns: [/mediterranean/i, /couscous/i, /tagine/i, /chermoula/i, /lamb chop/i] },
 ];
 
 const STAPLES = [
@@ -41,7 +45,8 @@ function ingredientText(meal) {
 
 export function deriveMetadata(meal) {
   const combined = `${meal.name} ${ingredientText(meal)}`;
-  const protein = matchTag(combined, PROTEIN_RULES);
+  const namedProtein = matchTag(meal.name, PROTEIN_RULES);
+  const protein = namedProtein === "other" ? matchTag(combined, PROTEIN_RULES) : namedProtein;
   const starch = matchTag(combined, STARCH_RULES);
   const cuisine = matchTag(meal.name, CUISINE_RULES);
 

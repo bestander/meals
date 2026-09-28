@@ -87,6 +87,7 @@
   ],
   "images": {
     "ingredients": "../recipes/images/glazed-pork-roast-and-veggie-fried-rice-with-cumin-sichuan-mayo-ingredients.jpg",
-    "instructions": "../recipes/images/glazed-pork-roast-and-veggie-fried-rice-with-cumin-sichuan-mayo-instructions.jpg"
+    "instructions": "../recipes/images/glazed-pork-roast-and-veggie-fried-rice-with-cumin-sichuan-mayo-instructions.jpg",
+    "dish": null
   }
 }

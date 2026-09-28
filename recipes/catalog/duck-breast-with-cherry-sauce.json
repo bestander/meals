@@ -1,0 +1,79 @@
+{
+  "name": "Duck Breast with Cherry Sauce",
+  "servings": 4,
+  "source": "https://www.lovefrenchfood.com/duck-breast-with-cherry-sauce/",
+  "ingredients": [
+    {
+      "name": "Duck Breast",
+      "quantity": 4,
+      "unit": "pieces"
+    },
+    {
+      "name": "Cherries",
+      "quantity": 14,
+      "unit": "oz"
+    },
+    {
+      "name": "Honey",
+      "quantity": 2,
+      "unit": "tsp"
+    },
+    {
+      "name": "Orange",
+      "quantity": 1,
+      "unit": "pieces"
+    },
+    {
+      "name": "Red Wine",
+      "quantity": 0.75,
+      "unit": "cup"
+    },
+    {
+      "name": "Thyme",
+      "quantity": 2,
+      "unit": "sprigs"
+    },
+    {
+      "name": "Butter",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Yukon Gold Potato",
+      "quantity": 1.5,
+      "unit": "lb"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Start the potatoes",
+      "text": "Heat the oven to 425°F. Cut the potatoes into wedges, toss with a little olive oil, salt, and pepper, and roast about 25 minutes, turning once, until browned."
+    },
+    {
+      "step": 2,
+      "title": "Render the duck",
+      "text": "Score the duck skin in a crosshatch, cutting only into the fat. Season both sides with salt. Lay the breasts skin-side down in a cold skillet and set it over medium heat. Cook 8 to 10 minutes, pouring off excess fat once or twice, until the skin is deep golden and crisp. Flip and cook 2 to 4 minutes more, until the center is about 130°F for medium-rare. Rest the duck 5 to 10 minutes."
+    },
+    {
+      "step": 3,
+      "title": "Make the cherry sauce",
+      "text": "Pit and halve the cherries if they are fresh. In a saucepan, warm a spoonful of the duck fat. Add the cherries, honey, the juice of the orange, a few strips of zest, the wine, and the thyme. Simmer 8 to 10 minutes until glossy. Take it off the heat, stir in the butter, and discard the thyme. Slice the duck and serve with the sauce and potatoes."
+    }
+  ],
+  "photoCredit": "Photo: Arnaud 25, Wikimedia Commons (CC BY-SA 4.0)",
+  "slug": "duck-breast-with-cherry-sauce",
+  "sourceWeek": "2026-09-27",
+  "protein": "duck",
+  "starch": "potato",
+  "cuisine": "french",
+  "staples": [
+    "butter",
+    "thyme"
+  ],
+  "images": {
+    "ingredients": null,
+    "instructions": null,
+    "dish": "../recipes/images/duck-breast-with-cherry-sauce-dish.jpg"
+  }
+}

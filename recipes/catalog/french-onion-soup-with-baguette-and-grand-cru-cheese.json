@@ -99,6 +99,7 @@
   ],
   "images": {
     "ingredients": "../recipes/images/french-onion-soup-with-baguette-and-grand-cru-cheese-ingredients.jpg",
-    "instructions": "../recipes/images/french-onion-soup-with-baguette-and-grand-cru-cheese-instructions.jpg"
+    "instructions": "../recipes/images/french-onion-soup-with-baguette-and-grand-cru-cheese-instructions.jpg",
+    "dish": null
   }
 }
